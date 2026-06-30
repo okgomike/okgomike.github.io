@@ -1,0 +1,38 @@
+{{ $company := .Site.Data.company }}
+{{ $footer := .Site.Data.footer }}
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <h3 class="footer-title">{{ $company.name }}</h3>
+        <p class="footer-desc">{{ $company.description }}</p>
+        <div class="footer-contact">
+          <p><strong>WhatsApp:</strong> <a href="{{ $company.contact.whatsapp_link }}" target="_blank" rel="noopener">{{ $company.contact.whatsapp }}</a></p>
+          <p><strong>Email:</strong> <a href="{{ $company.contact.email_link }}">{{ $company.contact.email }}</a></p>
+          <p><strong>Phone:</strong> {{ $company.contact.phone_display }}</p>
+          <p><strong>Address:</strong> {{ $company.contact.address }}</p>
+        </div>
+        <a href="{{ $company.contact.whatsapp_link }}" class="btn-whatsapp-footer" target="_blank" rel="noopener">
+          Chat on WhatsApp
+        </a>
+      </div>
+
+      {{ range $footer.columns }}
+      <div class="footer-col">
+        <h4 class="footer-col-title">{{ .title }}</h4>
+        <ul class="footer-links">
+          {{ range .links }}
+          <li><a href="{{ .url | relURL }}">{{ .name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+    </div>
+
+    <div class="footer-bottom">
+      <p>{{ $footer.bottom.copyright }}</p>
+      <p class="footer-note">{{ $footer.bottom.note }}</p>
+    </div>
+  </div>
+</footer>

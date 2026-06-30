@@ -1,0 +1,79 @@
+baseURL: 'https://yourusername.github.io/second-branch-hardware'
+languageCode: 'zh-CN'
+title: 'Hardware & Tools Wholesale Showroom from Yiwu China'
+theme: ''
+
+paginate: 24
+enableRobotsTXT: true
+enableGitInfo: true
+
+taxonomies:
+  category: categories
+  tag: tags
+
+params:
+  brand: 'YourBrand Hardware'
+  description: 'A Yiwu-based B2B online wholesale showroom for low MOQ hardware and tools, including fasteners, lifting equipment, automotive tools, construction tools, renovation tools and locks.'
+  author: 'YourBrand'
+  logo: '/images/logo.png'
+  contact:
+    whatsapp: '+8613800138000'
+    email: 'sales@yourbrand.com'
+    phone: '+86-579-8522-8888'
+    address: 'Yiwu International Trade City, Zhejiang, China'
+  social:
+    facebook: ''
+    linkedin: ''
+    youtube: ''
+  seo:
+    defaultImage: '/images/og-default.jpg'
+    twitterCard: 'summary_large_image'
+  geo:
+    llmsTxt: true
+
+permalinks:
+  products: '/products/:slug/'
+  categories: '/categories/:slug/'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: github
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  section:
+    - HTML
+    - RSS
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: products
+      name: Products
+      url: /products/
+      weight: 20
+    - identifier: services
+      name: Services
+      url: /services/
+      weight: 30
+    - identifier: guides
+      name: Buying Guides
+      url: /guides/
+      weight: 40
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 50
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 60
