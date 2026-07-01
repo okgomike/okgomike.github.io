@@ -5,7 +5,7 @@ date: 2026-07-01T12:00:00+08:00
 draft: false
 summary: 'Low MOQ M6-M12 hex bolt assortment with full metric sizes. Zinc plated carbon steel grade 8.8 for construction and machinery assembly. Packed in compartment plastic box.'
 description: 'Complete hex bolt assortment kit covering M6, M8, M10 and M12 metric thread sizes with various lengths. Each bolt features hex head design for socket wrench or open-end wrench tightening. Grade 8.8 carbon steel construction with zinc plating provides excellent corrosion resistance for indoor and outdoor applications. Organized in a durable compartment plastic storage box for easy size identification. Ideal for construction sites, maintenance workshops and hardware retailers.'
-image: "https://img.toolsd.com/file/1782906452776_701-2.jpg"
+image: "https://img.toolsd.com/file/1782911530018_701-2.jpg"
 categories:
   - fasteners-hardware
   - bolts-nuts
