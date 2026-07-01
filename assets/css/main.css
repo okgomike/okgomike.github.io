@@ -176,7 +176,9 @@ a:hover { text-decoration: underline; }
 .product-main-image.placeholder span { font-size: 4rem; font-weight: 700; color: var(--rule); }
 .product-gallery { display: flex; gap: 10px; margin-top: 12px; }
 .product-gallery img { width: 80px; height: 80px; object-fit: cover; border-radius: 8px; border: 1px solid var(--rule); cursor: pointer; }
-.product-detail-title { font-size: 1.6rem; margin-bottom: 10px; }
+.product-detail-title { font-size: 2rem; font-weight: 700; margin-bottom: 8px; color: var(--ink); line-height: 1.2; }
+@media (max-width: 900px) { .product-detail-title { font-size: 1.5rem; } }
+.product-sku-badge { display: inline-block; background: var(--bg2); border: 1px solid var(--rule); color: var(--muted); font-size: 0.8rem; font-weight: 600; padding: 3px 10px; border-radius: 4px; margin-bottom: 10px; letter-spacing: 0.03em; }
 .product-summary { color: var(--muted); margin-bottom: 20px; line-height: 1.5; }
 .wholesale-info { background: var(--bg2); border: 1px solid var(--rule); border-radius: var(--radius); padding: 16px; margin-bottom: 20px; }
 .info-row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--rule); font-size: 0.9rem; }
