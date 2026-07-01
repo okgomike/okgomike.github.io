@@ -55,7 +55,7 @@
           {{ if .Params.standard }}
           <div class="info-row"><span class="info-label">Standard:</span><span class="info-value">{{ .Params.standard }}</span></div>
           {{ end }}
-          {{ if .Params.grade }}
+          {{ if and .Params.grade (ne .Params.grade "-") (ne .Params.grade "") }}
           <div class="info-row"><span class="info-label">Grade:</span><span class="info-value">{{ .Params.grade }}</span></div>
           {{ end }}
           {{ if .Params.size_range }}
@@ -89,6 +89,10 @@
           <a href="{{ $company.contact.email_link }}?subject=Inquiry about {{ .Title }}" class="btn btn-outline btn-large">
             Send Email Inquiry
           </a>
+          <button class="btn btn-secondary btn-large btn-inquiry" data-title="{{ .Title }}" data-url="{{ .Permalink }}" data-image="{{ .Params.image }}">
+            <svg class="icon" viewBox="0 0 24 24" fill="currentColor"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+            <span class="inquiry-text">Add to Inquiry List</span>
+          </button>
         </div>
       </div>
     </div>
@@ -101,16 +105,56 @@
           <div class="tab-body">{{ .Content }}</div>
         </div>
         {{ end }}
+
         {{ if .Params.specifications }}
         <div class="tab-panel">
           <h2>Specifications</h2>
-          <div class="tab-body">{{ .Params.specifications | markdownify }}</div>
+          <div class="tab-body">
+            {{ $specs := .Params.specifications }}
+            {{ $parts := split $specs " | " }}
+            {{ if gt (len $parts) 1 }}
+            <table class="spec-table">
+              <tbody>
+                {{ range $parts }}
+                {{ $kv := split . ": " }}
+                {{ if ge (len $kv) 2 }}
+                <tr>
+                  <td class="spec-key">{{ index $kv 0 }}</td>
+                  <td class="spec-val">{{ delimit (after 1 $kv) ": " }}</td>
+                </tr>
+                {{ end }}
+                {{ end }}
+              </tbody>
+            </table>
+            {{ else }}
+            {{ $specs | markdownify }}
+            {{ end }}
+          </div>
         </div>
         {{ end }}
+
         {{ if .Params.faq }}
         <div class="tab-panel">
           <h2>FAQ</h2>
-          <div class="tab-body">{{ .Params.faq | markdownify }}</div>
+          <div class="tab-body">
+            {{ $faq := .Params.faq }}
+            {{ $qaList := split $faq " | " }}
+            {{ if gt (len $qaList) 1 }}
+            <div class="faq-list">
+              {{ range $qaList }}
+              {{ $qa := split . " A: " }}
+              {{ if ge (len $qa) 2 }}
+              <div class="faq-item">
+                <p class="faq-q"><strong>Q: {{ strings.TrimPrefix "Q: " (index $qa 0) }}</strong></p>
+                <p class="faq-a">A: {{ delimit (after 1 $qa) " A: " }}</p>
+              </div>
+              {{ end }}
+              {{ end }}
+            </div>
+            {{ else }}
+            {{ $faq | markdownify }}
+            {{ end }}
+          </div>
         </div>
         {{ end }}
       </div>
