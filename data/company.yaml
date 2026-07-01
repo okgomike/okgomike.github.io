@@ -1,4 +1,4 @@
-name: "YourBrand Hardware"
+name: "ToolsD"
 slogan: "Hardware & Tools Wholesale Showroom from Yiwu China"
 description: "A Yiwu-based B2B online wholesale showroom for low MOQ hardware and tools."
 
@@ -7,10 +7,10 @@ contact:
   phone_display: "+86 579 8522 8888"
   whatsapp: "+8613800138000"
   whatsapp_link: "https://wa.me/8613800138000"
-  email: "sales@yourbrand.com"
-  email_link: "mailto:sales@yourbrand.com"
+  email: "sales@toolsd.com"
+  email_link: "mailto:sales@toolsd.com"
   address: "Yiwu International Trade City, Zhejiang, China"
-  wechat: "yourbrand_sales"
+  wechat: "toolsd_sales"
 
 business:
   moq_note: "Low MOQ from 50 pcs"

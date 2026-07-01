@@ -159,6 +159,44 @@
         {{ end }}
       </div>
     </div>
+
+    {{/* Related Products */}}
+    {{ $current := . }}
+    {{ $related := slice }}
+    {{ if .Params.categories }}
+      {{ $cat := index .Params.categories 0 }}
+      {{ $related = where .Site.RegularPages "Section" "products" }}
+      {{ $related = where $related ".Params.categories" "intersect" (slice $cat) }}
+      {{ $related = where $related ".Permalink" "ne" .Permalink }}
+    {{ else }}
+      {{ $related = where .Site.RegularPages "Section" "products" }}
+      {{ $related = where $related ".Permalink" "ne" .Permalink }}
+    {{ end }}
+    {{ $related = first 4 $related }}
+    {{ if gt (len $related) 0 }}
+    <div class="related-products">
+      <h2 class="related-title">Related Products</h2>
+      <div class="product-grid related-grid">
+        {{ range $related }}
+        <a href="{{ .Permalink }}" class="product-card related-card">
+          <div class="product-image">
+            {{ if .Params.image }}
+            <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+            {{ else }}
+            <div class="product-image placeholder"><span>{{ substr .Title 0 1 }}</span></div>
+            {{ end }}
+          </div>
+          <div class="product-info">
+            {{ if .Params.sku }}<p class="product-sku">{{ .Params.sku }}</p>{{ end }}
+            <h3 class="product-title">{{ .Title }}</h3>
+            {{ if .Params.summary }}<p class="product-desc">{{ .Params.summary }}</p>{{ end }}
+            {{ if .Params.moq }}<span class="product-moq-badge">{{ .Params.moq }}</span>{{ end }}
+          </div>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
   </div>
 </section>
 {{ end }}
