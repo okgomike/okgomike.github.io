@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{ $company := .Site.Data.company }}
+
+<section class="page-header">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="{{ "/" | relURL }}">Home</a></li>
+        {{ if .Parent }}{{ if not .Parent.IsHome }}<li><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></li>{{ end }}{{ end }}
+        <li aria-current="page">{{ .Title }}</li>
+      </ol>
+    </nav>
+    <h1 class="page-title">{{ .Title }}</h1>
+  </div>
+</section>
+
+<section class="content-section">
+  <div class="container">
+    <div class="content-body">
+      {{ .Content }}
+    </div>
+    <div class="content-sidebar">
+      <div class="sidebar-box">
+        <h3>Need a Quote?</h3>
+        <p>Send us your product list and we'll reply within 24 hours.</p>
+        <a href="{{ $company.contact.whatsapp_link }}" class="btn btn-whatsapp" target="_blank" rel="noopener">
+          WhatsApp: {{ $company.contact.whatsapp }}
+        </a>
+        <a href="{{ $company.contact.email_link }}" class="btn btn-outline">
+          Email: {{ $company.contact.email }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

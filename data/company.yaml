@@ -1,0 +1,26 @@
+name: "ToolsD"
+slogan: "Hardware & Tools Wholesale Showroom from Yiwu China"
+description: "A Yiwu-based B2B online wholesale showroom for low MOQ hardware and tools."
+
+contact:
+  phone: "+86-579-8522-8888"
+  phone_display: "+86 579 8522 8888"
+  whatsapp: "+8613800138000"
+  whatsapp_link: "https://wa.me/8613800138000"
+  email: "sales@toolsd.com"
+  email_link: "mailto:sales@toolsd.com"
+  address: "Yiwu International Trade City, Zhejiang, China"
+  wechat: "toolsd_sales"
+
+business:
+  moq_note: "Low MOQ from 50 pcs"
+  shipping: "Global shipping via sea, air, express"
+  payment: "T/T, Western Union, PayPal (for samples)"
+  languages: "English, Spanish, Arabic"
+  hours: "Mon-Sat 9:00-18:00 CST"
+
+social:
+  facebook: ""
+  linkedin: ""
+  youtube: ""
+  instagram: ""

@@ -1,0 +1,64 @@
+{{ define "main" }}
+{{ $company := .Site.Data.company }}
+
+<section class="page-header">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <ol>
+        <li><a href="{{ "/" | relURL }}">Home</a></li>
+        {{ if .Parent }}{{ if not .Parent.IsHome }}<li><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></li>{{ end }}{{ end }}
+        <li aria-current="page">{{ .Title }}</li>
+      </ol>
+    </nav>
+    <h1 class="page-title">{{ .Title }}</h1>
+    {{ if .Content }}<div class="page-intro">{{ .Content }}</div>{{ end }}
+  </div>
+</section>
+
+<section class="product-list-section">
+  <div class="container">
+    {{ if .Pages }}
+    <div class="product-grid">
+      {{ range .Pages }}
+      <article class="product-card">
+        <a href="{{ .RelPermalink }}" class="product-link">
+          {{ if .Params.image }}
+          <div class="product-image">
+            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+          </div>
+          {{ else }}
+          <div class="product-image placeholder">
+            <span>{{ substr .Title 0 1 }}</span>
+          </div>
+          {{ end }}
+          <div class="product-info">
+            <h2 class="product-title">{{ .Title }}</h2>
+            {{ if .Params.moq }}<p class="product-moq">MOQ: {{ .Params.moq }}</p>{{ end }}
+            {{ if .Params.price_range }}<p class="product-price">{{ .Params.price_range }}</p>{{ end }}
+            <span class="product-cta">View Details →</span>
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+
+    {{ if gt .Paginator.TotalPages 1 }}
+    <nav class="pagination" aria-label="Pagination">
+      {{ if .Paginator.HasPrev }}
+      <a href="{{ .Paginator.Prev.URL }}" class="btn btn-outline">← Previous</a>
+      {{ end }}
+      <span class="page-info">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
+      {{ if .Paginator.HasNext }}
+      <a href="{{ .Paginator.Next.URL }}" class="btn btn-outline">Next →</a>
+      {{ end }}
+    </nav>
+    {{ end }}
+
+    {{ else }}
+    <div class="empty-state">
+      <p>Products coming soon. <a href="{{ $company.contact.whatsapp_link }}" target="_blank" rel="noopener">Contact us on WhatsApp</a> for inquiries.</p>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
