@@ -5,7 +5,7 @@ date: 2026-07-01T12:00:00+08:00
 draft: false
 summary: 'Low MOQ expand nail with screw wall anchor set. Plastic expansion sleeve with zinc plated phillips screw. Commonly used for concrete, brick and hollow wall fixing.'
 description: 'Expand nail wall anchor set includes plastic expansion sleeves paired with zinc plated phillips head screws. The expansion anchor is designed for use in concrete, brick, stone and hollow walls. When the screw is driven in, the sleeve expands to grip the wall firmly. Made from high-quality PP plastic sleeve and carbon steel screw with zinc plating. Suitable for light to medium duty applications including electrical fixtures, pipe brackets, shelving and decorative items.'
-image: "https://img.toolsd.com/file/1782906452776_701-2.jpg"
+image: "https://img.toolsd.com/file/1782911530018_701-2.jpg"
 categories:
   - fasteners-hardware
   - anchors
