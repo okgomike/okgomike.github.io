@@ -113,19 +113,11 @@
             {{ $specs := .Params.specifications }}
             {{ $parts := split $specs " | " }}
             {{ if gt (len $parts) 1 }}
-            <table class="spec-table">
-              <tbody>
-                {{ range $parts }}
-                {{ $kv := split . ": " }}
-                {{ if ge (len $kv) 2 }}
-                <tr>
-                  <td class="spec-key">{{ index $kv 0 }}</td>
-                  <td class="spec-val">{{ delimit (after 1 $kv) ": " }}</td>
-                </tr>
-                {{ end }}
-                {{ end }}
-              </tbody>
-            </table>
+            <div class="spec-grid">
+              {{ range $parts }}
+              <div class="spec-item">{{ . }}</div>
+              {{ end }}
+            </div>
             {{ else }}
             {{ $specs | markdownify }}
             {{ end }}
