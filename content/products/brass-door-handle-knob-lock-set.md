@@ -31,17 +31,10 @@ weight: "16kg"
 carton_qty: "20 sets"
 carton_size: "55x40x30cm"
 gw_nw: "18/16"
+specifications: "Handle Material: Solid Brass | Lock Body: Zinc Alloy | Handle Type: Lever Handle + Knob | Latch: Spring Latch with Deadbolt | Backset: 60mm (2-3/8\") or 70mm (2-3/4\") | Door Thickness: 35-50mm | Finish: Polished Brass / Satin Nickel / Antique Bronze | Key: 3 Brass Keys Included | Strike Plate: Included | Installation: Template and screws included | Security Grade: Medium Duty Residential | Standard: GB/T | Certification: CE, ISO | Packing: Individual Box with Hardware Kit | Carton Qty: 20 sets | Carton Size: 55x40x30cm | GW/NW: 18/16kg"
+faq: "Q: How many keys are included? A: 3 brass keys per lock set. | Q: Can I get all keyed alike? A: Yes, keyed alike available MOQ 50 sets. | Q: What door thickness does this fit? A: Standard residential doors 35-50mm. | Q: Is this suitable for exterior doors? A: For exterior use, we recommend the deadbolt version."
 ---
 
 Premium brass door handle and knob lock set designed for residential wooden doors. The set includes a door lever handle on one side and a matching knob on the other, connected through a standard mortise lock body. Solid brass construction ensures long-lasting durability and resistance to daily wear. Available in polished brass, satin nickel and antique bronze finishes to match various interior decor styles. Universal latch bolt fits standard door prep with 2-3/8" or 2-3/4" backset. Easy installation with included mounting hardware and template.
 
-## Specifications
 
-Handle Material: Solid Brass | Lock Body: Zinc Alloy | Handle Type: Lever Handle + Knob | Latch: Spring Latch with Deadbolt | Backset: 60mm (2-3/8") or 70mm (2-3/4") | Door Thickness: 35-50mm | Finish: Polished Brass / Satin Nickel / Antique Bronze | Key: 3 Brass Keys Included | Strike Plate: Included | Installation: Template and screws included | Security Grade: Medium Duty Residential | Packing: Individual Box | Carton Qty: 20 sets | Carton Size: 55x40x30cm | GW/NW: 18/16kg
-
-## FAQ
-
-Q: How many keys are included? A: 3 brass keys per lock set.
-Q: Can I get all keyed alike? A: Yes, keyed alike available MOQ 50 sets.
-Q: What door thickness does this fit? A: Standard residential doors 35-50mm.
-Q: Is this suitable for exterior doors? A: For exterior use, we recommend the deadbolt version.

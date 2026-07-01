@@ -30,16 +30,10 @@ weight: "13kg"
 carton_qty: "50 boxes"
 carton_size: "42x35x28cm"
 gw_nw: "15/13"
+specifications: "Sleeve Material: PP Plastic | Screw Material: Carbon Steel | Screw Head: Phillips Pan Head | Thread: Metric | Finish: Zinc Plated Screw | Expansion Type: Force Expansion | Wall Types: Concrete, Brick, Hollow | Sizes: M6x30, M6x40, M6x50, M8x50, M8x60, M8x80 | Pieces per Set: 1 sleeve + 1 screw | Packing: Blister Card / Poly Bag / Box | Certification: CE | Carton Qty: 50 boxes | Carton Size: 42x35x28cm | GW/NW: 15/13kg"
+faq: "Q: What wall types are these suitable for? A: Concrete, brick, stone and hollow walls. | Q: Can I get flat head screws instead? A: Yes, flat head screws available. | Q: Is sleeve color customizable? A: Yes, red, blue, yellow, white and green available."
 ---
 
 Expand nail wall anchor set includes plastic expansion sleeves paired with zinc plated phillips head screws. The expansion anchor is designed for use in concrete, brick, stone and hollow walls. When the screw is driven in, the sleeve expands to grip the wall firmly. Made from high-quality PP plastic sleeve and carbon steel screw with zinc plating. Suitable for light to medium duty applications including electrical fixtures, pipe brackets, shelving and decorative items.
 
-## Specifications
 
-Sleeve Material: PP Plastic | Screw Material: Carbon Steel | Screw Head: Phillips Pan Head | Thread: Metric | Finish: Zinc Plated Screw | Expansion Type: Force Expansion | Wall Types: Concrete, Brick, Hollow | Sizes: M6x30, M6x40, M6x50, M8x50, M8x60, M8x80 | Pieces per Set: 1 sleeve + 1 screw | Packing: Blister Card or Box | Carton Qty: 50 boxes | Carton Size: 42x35x28cm | GW/NW: 15/13kg
-
-## FAQ
-
-Q: What wall types are these suitable for? A: Concrete, brick, stone and hollow walls.
-Q: Can I get flat head screws instead? A: Yes, flat head screws available.
-Q: Is sleeve color customizable? A: Yes, red, blue, yellow, white and green available.

@@ -30,16 +30,10 @@ weight: "10kg"
 carton_qty: "100 pairs"
 carton_size: "45x35x20cm"
 gw_nw: "12/10"
+specifications: "Material: Solid Brass | Hinge Type: Full Mortise Butt Hinge | Knuckles: 5 knuckles | Pin Type: Removable / Fixed | Finish: Satin Brass / Polished Brass | Leaf Thickness: 2.0mm (2\"), 2.5mm (3\"), 3.0mm (4\") | Screw Holes: 6-8 per leaf | Screw Type: #10 Flat Head Wood Screw | Sizes: 2\" (50mm), 3\" (75mm), 4\" (100mm) | Door Thickness: Up to 35mm (2\"), 45mm (3\"), 55mm (4\") | Standard: GB/T 7276 | Certification: CE | Packing: Poly bag 2pcs or Box 10 pairs | Carton Qty: 100 pairs | Carton Size: 45x35x20cm | GW/NW: 12/10kg"
+faq: "Q: Are screws included? A: No, screws sold separately. Standard #10 flat head wood screws required. | Q: Can I get different finishes? A: Yes, satin brass, polished brass, antique brass, chrome plated available. | Q: What door weight are these rated for? A: 2\" for lightweight cabinet doors, 3\" for standard interior doors, 4\" for heavy doors up to 25kg."
 ---
 
 Brass butt hinge assortment set including the three most commonly used sizes for residential and light commercial door and cabinet applications. Each hinge features solid brass construction with precision knurled pins for smooth operation. Available in satin brass and polished brass finish options. Five knuckles with equal spacing provide even weight distribution. Compatible with standard door prep and wood screw installation. Suitable for interior doors, cabinet doors, cupboard doors and lightweight furniture panels.
 
-## Specifications
 
-Material: Solid Brass | Hinge Type: Full Mortise Butt Hinge | Knuckles: 5 knuckles | Pin Type: Removable / Fixed | Finish: Satin Brass / Polished Brass | Leaf Thickness: 2.0mm (2"), 2.5mm (3"), 3.0mm (4") | Screw Holes: 6-8 per leaf | Screw Type: #10 Flat Head Wood Screw | Door Thickness: Up to 35mm (2"), 45mm (3"), 55mm (4") | Packing: Poly bag 2pcs or Box 10 pairs | Carton Qty: 100 pairs | Carton Size: 45x35x20cm | GW/NW: 12/10kg
-
-## FAQ
-
-Q: Are screws included? A: No, screws sold separately. Standard #10 flat head wood screws required.
-Q: Can I get different finishes? A: Yes, satin brass, polished brass, antique brass, chrome plated available.
-Q: What door weight are these rated for? A: 2" for lightweight cabinet doors, 3" for standard interior doors, 4" for heavy doors up to 25kg.

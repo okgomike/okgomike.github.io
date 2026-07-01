@@ -29,16 +29,10 @@ weight: "16kg"
 carton_qty: "8 sets"
 carton_size: "58x42x32cm"
 gw_nw: "18/16"
+specifications: "Material: Chrome Vanadium Steel | Standard: DIN3120 | Drive Sizes: 1/4\" (4-13mm), 1/2\" (10-32mm) | Socket Point: 6-Point | Ratchet: 72-Tooth, 5° Swing Arc | Hardness: HRC 42-48 | Finish: Chrome Plated Mirror Polish | Certification: CE | Packing: Blow Molded Case / Custom Color | Pieces: 46pcs | Weight per Set: 2kg | Carton Qty: 8 sets | Carton Size: 58x42x32cm | GW/NW: 18/16kg"
+faq: "Q: What drive sizes are included? A: Dual-drive 1/4\" and 1/2\" ratchet handles with metric sockets. | Q: How many teeth does the ratchet have? A: 72-tooth mechanism requiring only 5-degree swing arc. | Q: What is the steel hardness? A: HRC 42-48 for maximum durability. | Q: Can I customize the case color? A: Yes, case color, logo print and set configuration are customizable."
 ---
 
 This 46-piece socket set includes metric sizes with dual-drive 1/4" and 1/2" ratchet handles. The 72-tooth ratchet mechanism requires only 5-degree swing arc for operation in confined spaces. Each socket is forged from chrome vanadium steel and heat-treated to HRC 42-48 hardness for maximum durability. The precision 6-point design prevents rounding of fastener corners. Blow molded case with removable lid and internal organizer keeps tools secure during transport.
 
-## Specifications
 
-Drive Size: 1/4" & 1/2" | Ratchet Teeth: 72-tooth | Material: Chrome Vanadium Steel | Finish: Chrome Plated Mirror Polish | Hardness: HRC 42-48 | Case: Blow Molded | Carton Qty: 8 sets | Carton Size: 58x42x32cm | GW: 18kg | NW: 16kg
-
-## FAQ
-
-Q: What is the ratchet tooth count? A: 72-tooth, 5-degree swing arc.
-Q: Can I get SAE sizes instead? A: Yes, SAE configuration available on request.
-Q: Minimum order quantity? A: 50 sets per order.

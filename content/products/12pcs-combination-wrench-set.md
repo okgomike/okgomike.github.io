@@ -29,16 +29,10 @@ weight: "12kg"
 carton_qty: "20 sets"
 carton_size: "45x35x25cm"
 gw_nw: "14/12"
+specifications: "Material: Chrome Vanadium Steel | Standard: DIN3113 | Sizes: 8mm, 10mm, 11mm, 12mm, 13mm, 14mm, 15mm, 16mm, 17mm, 18mm, 19mm | Head Type: 15° Offset Open End + 12-Point Ring End | Finish: Satin Chrome | Certification: CE | Packing: Roll-up Pouch / Plastic Holder | Pieces: 12pcs | Weight per Set: 0.6kg | Carton Qty: 20 sets | Carton Size: 45x35x25cm | GW/NW: 14/12kg"
+faq: "Q: What sizes are included in this set? A: 12 metric sizes from 8mm to 19mm. | Q: What material are these wrenches made of? A: Chrome vanadium steel, heat-treated for professional strength. | Q: Is a carrying case included? A: Yes, roll-up pouch or plastic holder included. | Q: Can I customize the wrench set? A: Yes, pouch material, logo print and size range are customizable."
 ---
 
 This 12-piece combination wrench set covers the most commonly used metric sizes from 8mm to 19mm. Each wrench features a 15-degree offset open end for improved access in tight spaces and a 12-point ring end for secure fastener engagement. Forged from chrome vanadium steel and heat-treated for professional strength. The satin chrome finish resists corrosion while providing a non-slip grip surface. Tools are neatly organized in a compact roll-up pouch or plastic holder.
 
-## Specifications
 
-Sizes: 8-19mm (12pcs) | Material: Chrome Vanadium Steel | Finish: Satin Chrome | Open End: 15-degree offset | Ring End: 12-point | Hardness: HRC 40-45 | Packing: Roll-up pouch | Carton Qty: 20 sets | Carton Size: 45x35x25cm | GW: 14kg | NW: 12kg
-
-## FAQ
-
-Q: Can I get extra-long wrenches? A: Yes, extra-long version available on request.
-Q: Can I choose SAE sizes? A: Yes, SAE 5/16" to 3/4" available.
-Q: What pouch options? A: Canvas, nylon, or PU leather pouches available.

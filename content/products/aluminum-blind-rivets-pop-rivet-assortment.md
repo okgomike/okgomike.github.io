@@ -30,16 +30,10 @@ weight: "12kg"
 carton_qty: "100 bags"
 carton_size: "48x38x25cm"
 gw_nw: "14/12"
+specifications: "Body Material: Aluminum Alloy (5052) | Mandrel Material: Steel | Rivet Type: Open End Blind Rivet | Head Style: Dome Head | Break Mandrel: Standard | Diameter Options: 3.2mm, 4.0mm, 4.8mm, 6.4mm | Grip Range: 8mm-30mm | Pull-Out Strength: Meets ISO 15977 | Finish: Natural / Color Coated | Standard: DIN7337 / ISO 15977 | Application: Sheet metal, plastic, HVAC | Packing: 100pcs/bag | Certification: CE, ISO | Carton Qty: 100 bags | Carton Size: 48x38x25cm | GW/NW: 14/12kg"
+faq: "Q: What rivet gun do I need? A: Any standard hand rivet tool, compatible with 2.4-6.4mm rivets. | Q: Can I get colored rivets? A: Yes, silver, black, red, blue, yellow available. | Q: What material grades? A: Aluminum 5052 body with steel mandrel, standard duty."
 ---
 
 Aluminum blind rivets POP rivet assortment covering the most commonly used diameters and grip ranges for general-purpose fastening. Suitable for joining sheet metal, plastic, fiberglass and hollow profiles where access is only available from one side. Easy installation with standard hand rivet tools or pneumatic rivet guns. Aluminum alloy body with steel mandrel provides reliable clamping force. Widely used in automotive bodywork, HVAC ducting, signage mounting and furniture manufacturing.
 
-## Specifications
 
-Body Material: Aluminum Alloy (5052) | Mandrel Material: Steel | Rivet Type: Open End Blind Rivet | Head Style: Dome Head | Break Mandrel: Standard | Diameter Options: 3.2mm, 4.0mm, 4.8mm, 6.4mm | Grip Range: 8mm-30mm | Pull-Out Strength: Meets ISO 15977 | Finish: Natural / Color Coated | Application: Sheet metal, plastic, HVAC | Packing: 100pcs/bag | Carton Qty: 100 bags | Carton Size: 48x38x25cm | GW/NW: 14/12kg
-
-## FAQ
-
-Q: What rivet gun do I need? A: Any standard hand rivet tool, compatible with 2.4-6.4mm rivets.
-Q: Can I get colored rivets? A: Yes, silver, black, red, blue, yellow available.
-Q: What material grades? A: Aluminum 5052 body with steel mandrel, standard duty.
