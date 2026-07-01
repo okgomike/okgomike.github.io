@@ -28,4 +28,50 @@ document.addEventListener('DOMContentLoaded', function() {
       if (toggle) toggle.setAttribute('aria-expanded', 'false');
     }
   });
+
+  /* ===== Inquiry List (localStorage) ===== */
+  const INQUIRY_KEY = 'hw_inquiry_list';
+
+  function getInquiryList() {
+    try { return JSON.parse(localStorage.getItem(INQUIRY_KEY)) || []; }
+    catch (e) { return []; }
+  }
+
+  function saveInquiryList(list) {
+    localStorage.setItem(INQUIRY_KEY, JSON.stringify(list));
+  }
+
+  function isInList(url) {
+    return getInquiryList().some(function(item) { return item.url === url; });
+  }
+
+  function updateInquiryButtons() {
+    document.querySelectorAll('.btn-inquiry').forEach(function(btn) {
+      var url = btn.getAttribute('data-url');
+      if (url && isInList(url)) {
+        btn.classList.add('added');
+        btn.disabled = true;
+      }
+    });
+  }
+
+  document.querySelectorAll('.btn-inquiry').forEach(function(btn) {
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      var title = btn.getAttribute('data-title');
+      var url   = btn.getAttribute('data-url');
+      var image = btn.getAttribute('data-image');
+      if (!title || !url) return;
+
+      var list = getInquiryList();
+      if (!isInList(url)) {
+        list.push({ title: title, url: url, image: image || '', addedAt: Date.now() });
+        saveInquiryList(list);
+        btn.classList.add('added');
+        btn.disabled = true;
+      }
+    });
+  });
+
+  updateInquiryButtons();
 });
