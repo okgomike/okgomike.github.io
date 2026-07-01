@@ -1,7 +1,7 @@
 baseURL: 'https://yourusername.github.io/second-branch-hardware'
 languageCode: 'zh-CN'
 title: 'Hardware & Tools Wholesale Showroom from Yiwu China'
-theme: ''
+
 
 paginate: 24
 enableRobotsTXT: true
