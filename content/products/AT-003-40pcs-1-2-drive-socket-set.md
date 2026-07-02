@@ -6,7 +6,7 @@ date: 2026-07-01T07:39:32+08:00
 draft: false
 summary: 'Low MOQ 40-piece 1/2" drive socket set including breaker bar, ratchet handle and extension bars. Heavy-duty chrome molybdenum steel for truck and machinery repair.'
 description: 'This heavy-duty 40-piece socket set is designed for truck, machinery and agricultural equipment maintenance. The 1/2" drive system handles higher torque applications with a 24-inch breaker bar for stubborn fasteners. All sockets feature deep-wall construction for reaching recessed nuts and bolts. The set includes spark plug sockets, oxygen sensor socket and wheel nut sockets commonly used in heavy vehicle repair. Chrome molybdenum steel (Cr-Mo) construction provides superior strength for impact-rated use.'
-image: "https://img.toolsd.com/file/1782891191896_701-1.jpg"
+image: "https://img.toolsd.com/file/1782912332180_701-1.jpg"
 categories:
   - automotive-repair-tools
   - socket-wrench-sets
