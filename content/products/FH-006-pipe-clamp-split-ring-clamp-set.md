@@ -17,9 +17,9 @@ customization: OEM/ODM accepted; custom pipe size rubber hardness color and bran
 mixed_order: Mixed container orders accepted
 specifications: "Body Material: Q235 Carbon Steel / 304 Stainless Steel | Lining Material: EPDM / NBR / Silicone Rubber | Bolt Material: Carbon Steel Zinc-Plated 4.8 Grade | Nut Material: Carbon Steel Zinc-Plated | Clamp Types: Split Ring / Munsen Ring / Two-Bolt / Three-Bolt / Saddle / Riser | Pipe Size Range: 15mm / 20mm / 25mm / 32mm / 40mm / 50mm / 65mm / 80mm / 100mm / 125mm / 150mm / 200mm | Clamp Width: 15mm / 20mm / 25mm / 30mm | Bolt Size: M6 / M8 / M10 | Rubber Hardness: 50-70 Shore A | Temperature Range: -40C to +120C | Finish: Galvanized / Zinc Plated / Powder Coated | Application: HVAC / Plumbing / Electrical Conduit / Fire Protection | Packing: Blister Card / Color Box + Carton"
 faq: "Q: What is the purpose of the rubber lining? A: The rubber lining prevents metal-to-metal contact reduces vibration noise and protects pipe coatings from abrasion. | Q: Can these support copper pipes? A: Yes; the rubber lining is compatible with copper PVC PPR and steel pipes without causing galvanic corrosion. | Q: What bolt size do I need for heavy pipes? A: M8 bolts for pipes up to 80mm; M10 bolts for 100mm and larger pipes. | Q: Are stainless steel clamps available for outdoor use? A: Yes; 304 stainless steel body with EPDM rubber lining resists UV and weather exposure."
-image: https://img.toolsd.com/file/1782975404199_702-20.jpg
+image: https://img.toolsd.com/file/1782975404270_702-20.jpg
 gallery:
-  - https://img.toolsd.com/file/1782975404199_702-20.jpg
+  - https://img.toolsd.com/file/1782975404270_702-20.jpg
 keywords: pipe clamp, split ring clamp, rubber lined pipe clamp, conduit clamp, Munsen ring clamp, HVAC pipe support, plumbing clamp, two bolt pipe clamp, EPDM rubber pipe clamp, heavy duty pipe clamp
 long_tail_keywords: rubber lined pipe clamp set wholesale, split ring pipe clamp for HVAC installation, stainless steel pipe clamp with EPDM lining, heavy duty Munsen ring clamp for fire protection, plumbing pipe support clamp assortment
 ---
