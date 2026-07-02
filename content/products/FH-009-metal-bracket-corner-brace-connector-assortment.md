@@ -17,9 +17,9 @@ customization: OEM/ODM accepted; custom size thickness hole pattern finish and b
 mixed_order: Mixed container orders accepted
 specifications: "Material: Q235 Carbon Steel / 304 Stainless Steel | Finish: Galvanized / Zinc Plated / Yellow Chromate / Powder Coated | Types: Corner Brace / L-Bracket / T-Bracket / Flat Bracket / Shelf Bracket / Mending Plate / Gusset Plate | Size Range: 20x20mm / 25x25mm / 30x30mm / 40x40mm / 50x50mm / 60x60mm / 75x75mm / 80x80mm / 100x100mm | Thickness: 1.0mm / 1.2mm / 1.5mm / 2.0mm / 2.5mm / 3.0mm | Hole Diameter: 4mm / 5mm / 6mm / 8mm | Hole Count: 2 / 4 / 6 / 8 holes | Angle: 90-degree / 45-degree / 135-degree / Adjustable | Standard: ISO 9001 / ASTM A653 | Packing: Blister Card / Plastic Organizer + Carton"
 faq: "Q: What thickness do I need for shelf brackets? A: 2.0mm-3.0mm thickness for shelves holding 20kg+; 1.2mm-1.5mm for light decorative shelves under 10kg. | Q: Are stainless steel brackets suitable for outdoor furniture? A: Yes; 304 stainless steel resists rain and humidity; 316 grade recommended for coastal salt air environments. | Q: Can I get custom hole patterns? A: Yes; custom hole spacing diameter and slot patterns available for orders over 5,000 pcs. | Q: What is the difference between corner brace and gusset plate? A: Corner braces are flat right-angle plates; gusset plates are triangular reinforcements that provide greater rigidity for structural frames."
-image: https://img.toolsd.com/file/1782975404270_702-21.jpg
+image: https://img.toolsd.com/file/1782975404199_702-21.jpg
 gallery:
-  - https://img.toolsd.com/file/1782975404270_702-21.jpg
+  - https://img.toolsd.com/file/1782975404199_702-21.jpg
 keywords: corner brace, L-bracket, metal bracket, shelf bracket, T-bracket, mending plate, gusset plate, flat bracket, steel angle bracket, structural connector
 long_tail_keywords: galvanized steel corner brace assortment wholesale, stainless steel L-bracket for outdoor furniture, heavy duty shelf bracket 3mm thickness, custom hole pattern metal bracket manufacturer, flat mending plate for wood repair
 ---
