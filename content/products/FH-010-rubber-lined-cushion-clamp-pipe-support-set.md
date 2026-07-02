@@ -17,9 +17,9 @@ customization: OEM/ODM accepted; custom pipe size rubber type color and branded 
 mixed_order: Mixed container orders accepted
 specifications: "Body Material: Q235 Carbon Steel / 304 Stainless Steel | Insert Material: EPDM / NBR / Silicone / Neoprene | Hardware: Carbon Steel Zinc-Plated Bolt M6/M8 + Nut + Washer | Clamp Types: Cushion Clamp / P-Clamp / R-Clamp / Omega Clamp / Saddle Clamp | Pipe Size Range: 10mm / 12mm / 15mm / 20mm / 22mm / 25mm / 28mm / 30mm / 32mm / 35mm / 38mm / 40mm / 42mm / 45mm / 48mm / 50mm / 55mm / 60mm / 65mm / 70mm / 75mm / 80mm / 90mm / 100mm / 110mm / 125mm / 150mm | Band Width: 15mm / 20mm / 25mm | Rubber Thickness: 3mm / 4mm / 5mm | Bolt Size: M6 / M8 | Temperature Range: -40C to +150C (EPDM) | Finish: Galvanized / Zinc Plated / Powder Coated / Natural Stainless | Application: HVAC / Automotive / Marine / Hydraulic / Pneumatic | Packing: Blister Card / Color Box + Carton"
 faq: "Q: What rubber type should I use for hot water pipes? A: EPDM handles up to 150C for hot water and steam; NBR is suitable for oils and fuels up to 120C. | Q: Can these clamps reduce pipe vibration noise? A: Yes; the rubber insert absorbs up to 80% of vibration transmission compared to unlined metal clamps. | Q: Are colored rubber inserts available? A: Yes; EPDM inserts in black blue green red and yellow available for color-coded pipe identification. | Q: What is the difference between P-clamp and cushion clamp? A: P-clamps have a welded ring shape; cushion clamps have a stamped band with riveted rubber insert both function similarly."
-image: https://img.toolsd.com/file/1782975404270_702-21.jpg
+image: https://img.toolsd.com/file/1782975404199_702-21.jpg
 gallery:
-  - https://img.toolsd.com/file/1782975404270_702-21.jpg
+  - https://img.toolsd.com/file/1782975404199_702-21.jpg
 keywords: cushion clamp, rubber lined clamp, P-clamp, pipe support clamp, EPDM rubber clamp, vibration dampening clamp, marine pipe clamp, HVAC pipe clamp, automotive hose clamp, hydraulic pipe support
 long_tail_keywords: rubber lined cushion clamp set wholesale, EPDM pipe clamp for HVAC vibration control, stainless steel P-clamp for marine application, heavy duty pipe support with rubber insert, color coded rubber clamp for pipe identification
 ---
