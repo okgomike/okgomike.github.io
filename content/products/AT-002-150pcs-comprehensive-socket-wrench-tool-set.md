@@ -6,7 +6,7 @@ date: 2026-07-01T07:39:32+08:00
 draft: false
 summary: 'Low MOQ 150-piece comprehensive socket wrench tool set with 1/4", 3/8" and 1/2" drive sizes. Chrome vanadium steel construction in heavy-duty blow molded case. Ideal for automotive repair shops and tool wholesalers.'
 description: 'This 150-piece comprehensive tool set includes metric and SAE socket sizes across 1/4", 3/8" and 1/2" drive systems. Each socket features 6-point and 12-point designs for maximum fastener contact and torque transfer. Chrome vanadium steel (Cr-V) construction with full mirror polish finish provides professional-grade durability and corrosion resistance. The heavy-duty blow molded carrying case keeps all tools organized and portable for mobile mechanics and workshop use. Ratchet handles feature 72-tooth quick-release mechanism for efficient operation in tight spaces.'
-image: "https://img.toolsd.com/file/1782891191896_701-1.jpg"
+image: "https://img.toolsd.com/file/1782912332180_701-1.jpg"
 categories:
   - automotive-repair-tools
   - socket-wrench-sets
