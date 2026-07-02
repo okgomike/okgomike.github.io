@@ -6,7 +6,7 @@ date: 2026-07-01T07:39:32+08:00
 draft: false
 summary: 'Low MOQ 46-piece socket wrench set with 1/4" and 1/2" drive ratchet handles. Chrome vanadium steel with mirror polish. Suitable for auto repair shops and hardware retailers.'
 description: 'This 46-piece socket set includes metric sizes with dual-drive 1/4" and 1/2" ratchet handles. The 72-tooth ratchet mechanism requires only 5-degree swing arc for operation in confined spaces. Each socket is forged from chrome vanadium steel and heat-treated to HRC 42-48 hardness for maximum durability. The precision 6-point design prevents rounding of fastener corners. Blow molded case with removable lid and internal organizer keeps tools secure during transport.'
-image: "https://img.toolsd.com/file/1782891191896_701-1.jpg"
+image: "https://img.toolsd.com/file/1782912332180_701-1.jpg"
 categories:
   - automotive-repair-tools
   - socket-wrench-sets
