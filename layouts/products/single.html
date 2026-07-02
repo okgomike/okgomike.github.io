@@ -8,7 +8,7 @@
         <li><a href="{{ "/" | relURL }}">Home</a></li>
         <li><a href="{{ "/products/" | relURL }}">Products</a></li>
         {{ if .Params.categories }}{{ range first 1 .Params.categories }}
-        <li><a href="{{ printf "/categories/%s/" . | relURL }}">{{ humanize . }}</a></li>
+        <li><a href="{{ printf "/categories/%s/" (. | urlize) | relURL }}">{{ humanize . }}</a></li>
         {{ end }}{{ end }}
         <li aria-current="page">{{ .Title }}</li>
       </ol>
@@ -40,6 +40,7 @@
 
       <div class="product-meta">
         <h1 class="product-detail-title">{{ .Title }}</h1>
+        {{ if .Params.sku }}<span class="product-sku-badge">SKU: {{ .Params.sku }}</span>{{ end }}
         {{ if .Params.summary }}<p class="product-summary">{{ .Params.summary }}</p>{{ end }}
 
         <div class="wholesale-info">
