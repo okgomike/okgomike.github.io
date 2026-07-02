@@ -6,7 +6,7 @@ date: 2026-07-01T07:39:32+08:00
 draft: false
 summary: 'Low MOQ 12-piece combination wrench set with open end and ring end. Chrome vanadium steel with satin finish. Standard sizes from 8mm to 19mm.'
 description: 'This 12-piece combination wrench set covers the most commonly used metric sizes from 8mm to 19mm. Each wrench features a 15-degree offset open end for improved access in tight spaces and a 12-point ring end for secure fastener engagement. Forged from chrome vanadium steel and heat-treated for professional strength. The satin chrome finish resists corrosion while providing a non-slip grip surface. Tools are neatly organized in a compact roll-up pouch or plastic holder.'
-image: "https://img.toolsd.com/file/1782891191896_701-1.jpg"
+image: "https://img.toolsd.com/file/1782912332180_701-1.jpg"
 categories:
   - automotive-repair-tools
   - socket-wrench-sets
