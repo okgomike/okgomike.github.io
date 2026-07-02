@@ -42,4 +42,4 @@ The fastest way to get a consolidated quote is via WhatsApp. Send us your produc
 
 ---
 
-[Chat on WhatsApp Now](https://wa.me/8613800138000)
+[Chat on WhatsApp Now](https://wa.me/8618006891977)
