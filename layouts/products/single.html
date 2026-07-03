@@ -198,18 +198,22 @@
 <!-- ==================== Structured Data (JSON-LD) ==================== -->
 <script type="application/ld+json">
 {{ dict 
-  "context" "https://schema.org/"
-  "type" "Product"
+  "@context" "https://schema.org/"
+  "@type" "Product"
   "name" .Title
   "sku" (.Params.sku | default .Params.SKU | default "")
   "url" .Permalink
-  "image" (.Params.image | relURL)
+  "image" (.Params.image | relURL | default "")
   "description" (.Summary | plainify | default .Title)
-  "brand" (dict "type" "Brand" "name" (.Site.Title | default "ToolsD"))
+  "brand" (dict 
+    "@type" "Brand"
+    "name" (.Site.Title | default "ToolsD Wholesale")
+  )
   "offers" (dict 
-    "type" "Offer"
+    "@type" "Offer"
     "priceCurrency" "USD"
-    "price" "5.5"
+    "price" (.Params.price | default "5.5")
+    "priceRange" (.Params.price_range | default "")
     "availability" "https://schema.org/InStock"
     "url" .Permalink
   )
