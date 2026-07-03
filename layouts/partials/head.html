@@ -24,63 +24,19 @@
 
 {{ if .Params.robots }}<meta name="robots" content="{{ .Params.robots }}">{{ end }}
 
- 
 <script type="application/ld+json">
-{{ if eq .Type "products" }}
-  {{ if .IsList }}
-    {
-      "@context": "https://schema.org",
-      "@type": "ItemList",
-      "url": "{{ .Permalink }}",
-      "name": "{{ .Title }}",
-      "description": "{{ $desc }}",
-      "itemListElement": {{ range first 10 .Pages }}{
-        "@type":"ListItem",
-        "position":{{ .Position }},
-        "item":{
-          "@type":"Product",
-          "name":"{{ .Title }}",
-          "url":"{{ .Permalink | absURL }}"
-        }
-      },{{ end }}[]
-    }
-  {{ else }}
-    {
-      "@context": "https://schema.org",
-      "@type": "Product",
-      "url": "{{ .Permalink }}",
-      "name": "{{ .Title }}",
-      "description": "{{ $desc }}",
-      "brand": { "@type": "Brand", "name": "{{ .Site.Params.brand }}" },
-      {{ if .Params.image }}"image": "{{ .Params.image | absURL }}",{{ end }}
-      "offers": {
-        "@type": "Offer",
-        "availability": "https://schema.org/InStock",
-        "priceCurrency": "USD",
-        {{ if .Params.price_range }}"price": "{{ index (split .Params.price_range "-") 0 }}",{{ else }}"price": "0.5"{{ end }}
-        {{ if .Params.moq }}, "description": "MOQ: {{ .Params.moq }}"{{ end }}
-      }
-    }
+{
+  "@context": "https://schema.org",
+  "@type": "{{ if .IsHome }}WebSite{{ else if eq .Type "products" }}Product{{ else }}WebPage{{ end }}",
+  "url": "{{ .Permalink }}",
+  "name": "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
+  "description": "{{ $desc }}"
+  {{ if eq .Type "products" }},
+  "brand": { "@type": "Brand", "name": "{{ .Site.Params.brand }}" }
+  {{ if .Params.moq }},"offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "priceCurrency": "USD" }{{ end }}
   {{ end }}
-{{ else if .IsHome }}
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "url": "{{ .Permalink }}",
-    "name": "{{ .Site.Title }}",
-    "description": "{{ $desc }}"
-  }
-{{ else }}
-  {
-    "@context": "https://schema.org",
-    "@type": "WebPage",
-    "url": "{{ .Permalink }}",
-    "name": "{{ .Title }}",
-    "description": "{{ $desc }}"
-  }
-{{ end }}
+}
 </script>
- 
 
 {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
