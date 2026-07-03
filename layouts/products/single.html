@@ -194,28 +194,25 @@
 </section>
 
 
+
 <!-- ==================== Structured Data (JSON-LD) ==================== -->
 <script type="application/ld+json">
+{{ $price := .Params.price | default (.Params.price_range | replaceRE `.*(\d+\.\d+).*` "$1" | default "5.5") }}
 {{ dict 
   "@context" "https://schema.org/"
   "@type" "Product"
   "name" .Title
   "sku" (.Params.sku | default "")
   "url" .Permalink
-  "image" (.Params.image | relURL | default "")
-  "description" (.Params.summary | default .Summary | plainify)
+  "image" (.Params.image | relURL | default .Site.Params.seo.defaultImage)
+  "description" (.Params.summary | default (.Summary | plainify))
   "brand" (dict "@type" "Brand" "name" (.Site.Params.brand | default .Site.Title))
   "offers" (dict 
     "@type" "Offer"
     "priceCurrency" "USD"
-    "price" (.Params.price_range | default "5.5" | replaceRE `.*(\d+\.\d+).*` "$1")
+    "price" $price
     "availability" "https://schema.org/InStock"
     "url" .Permalink
-  )
-  "additionalProperty" (slice
-    (dict "name" "MOQ" "value" (.Params.moq | default ""))
-    (dict "name" "Material" "value" (.Params.material | default ""))
-    (dict "name" "Size Range" "value" (.Params.size_range | default ""))
   )
 | jsonify }}
 </script>
