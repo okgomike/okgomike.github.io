@@ -6,7 +6,7 @@ date: 2026-07-01T12:00:00+08:00
 draft: false
 summary: 'Low MOQ brass butt hinge assortment in 2-inch, 3-inch and 4-inch sizes. Satin brass and polished brass finish for residential doors, cabinets and furniture.'
 description: 'Brass butt hinge assortment set including the three most commonly used sizes for residential and light commercial door and cabinet applications. Each hinge features solid brass construction with precision knurled pins for smooth operation. Available in satin brass and polished brass finish options. Five knuckles with equal spacing provide even weight distribution. Compatible with standard door prep and wood screw installation. Suitable for interior doors, cabinet doors, cupboard doors and lightweight furniture panels.'
-image: "https://img.toolsd.com/file/1782906452776_701-2.jpg"
+image: "https://img.toolsd.com/file/1782911530018_701-2.jpg"
 categories:
   - locks-door-hardware
   - hinges-accessories
