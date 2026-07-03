@@ -6,7 +6,7 @@ date: 2026-07-01T12:00:00+08:00
 draft: false
 summary: 'Low MOQ galvanized steel L-bracket and corner brace assortment. Multiple sizes for shelving, furniture reinforcement and structural support applications.'
 description: 'Galvanized steel L-brackets and corner braces assortment kit covering various sizes for furniture assembly, shelving support, cabinet reinforcement and general construction use. Each bracket features pre-drilled mounting holes for easy screw installation. Hot-dip galvanized surface treatment provides superior corrosion resistance for indoor and outdoor applications. Zinc plated hex screws included with some sets. Suitable for wood-to-wood, wood-to-concrete and metal-to-wood connections.'
-image: "https://img.toolsd.com/file/1782906452776_701-2.jpg"
+image: "https://img.toolsd.com/file/1782911530018_701-2.jpg"
 categories:
   - fasteners-hardware
   - bolts-nuts
