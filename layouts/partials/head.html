@@ -45,6 +45,39 @@
     "availability": "https://schema.org/InStock",
     "url": {{ .Permalink | absURL | jsonify }}
   },
+
+
+ 
+    "shippingDetails": {
+      "@type": "OfferShippingDetails",
+     
+      "shippingRate": {
+        "@type": "MonetaryAmount",
+        "value": 0,
+        "currency": "USD"
+      },
+      
+      "shippingDestination": {
+        "@type": "DefinedRegion",
+        "addressCountry": ["US","ES","MX"]
+      },
+     
+      "deliveryTime": {
+        "@type": "ShippingDeliveryTime",
+        "handlingTime": {"minValue":7,"maxValue":15,"unit":"Day"},
+        "transitTime": {"minValue":20,"maxValue":40,"unit":"Day"}
+      }
+    },
+  
+    "hasMerchantReturnPolicy": true,
+  
+    "returnPolicy": {
+      "@type": "MerchantReturnPolicy",
+      "returnPolicyCountry": ["US","ES","MX"],
+      "returnDays": 30,
+      "returnShippingFeesAmount": {"value":0,"currency":"USD"}
+    }
+  },
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.8",
