@@ -1,6 +1,6 @@
 baseURL: 'https://toolsd.com/'
 languageCode: 'en'
-title: 'Hardware & Tools Wholesale Showroom from Yiwu China'
+title: 'ToolsD-Hardware & Tools Wholesale Showroom from Yiwu China'
 
 
 paginate: 24
@@ -12,7 +12,7 @@ taxonomies:
   tag: tags
 
 params:
-  brand: 'YourBrand Hardware'
+  brand: 'ToolsD'
   description: 'A Yiwu-based B2B online wholesale showroom for low MOQ hardware and tools, including fasteners, lifting equipment, automotive tools, construction tools, renovation tools and locks.'
   author: 'YourBrand'
   logo: '/images/logo.png'
