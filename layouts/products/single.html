@@ -197,24 +197,26 @@
 
 <!-- ==================== Structured Data (JSON-LD) ==================== -->
 <script type="application/ld+json">
-{{ $price := .Params.price | default (.Params.price_range | replaceRE `.*(\d+\.\d+).*` "$1" | default "5.5") }}
-{{ dict 
-  "@context" "https://schema.org/"
-  "@type" "Product"
-  "name" .Title
-  "sku" (.Params.sku | default "")
-  "url" .Permalink
-  "image" (.Params.image | relURL | default .Site.Params.seo.defaultImage)
-  "description" (.Params.summary | default (.Summary | plainify))
-  "brand" (dict "@type" "Brand" "name" (.Site.Params.brand | default .Site.Title))
-  "offers" (dict 
-    "@type" "Offer"
-    "priceCurrency" "USD"
-    "price" $price
-    "availability" "https://schema.org/InStock"
-    "url" .Permalink
-  )
-| jsonify }}
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "{{ .Title }}",
+  "sku": "{{ .Params.sku | default \"\" }}",
+  "url": "{{ .Permalink }}",
+  "image": "{{ .Params.image | relURL | default \"\" }}",
+  "description": "{{ .Params.summary | default (.Summary | plainify) }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ .Site.Params.brand | default .Site.Title }}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "5.5",
+    "availability": "https://schema.org/InStock",
+    "url": "{{ .Permalink }}"
+  }
+}
 </script>
 
 
