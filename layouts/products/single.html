@@ -192,4 +192,43 @@
     {{ end }}
   </div>
 </section>
+
+
+{{/* ==================== Structured Data (JSON-LD) ==================== */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "{{ .Title }}",
+  "sku": "{{ .Params.sku | default .Params.SKU }}",
+  "url": "{{ .Permalink }}",
+  "image": "{{ .Params.image | relURL }}",
+  "description": "{{ .Params.summary | default ( .Summary | plainify ) }}",
+  "brand": {
+    "@type": "Brand",
+    "name": "{{ .Site.Title | default \"ToolsD\" }}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "{{ if .Params.price_range }}{{ .Params.price_range }}{{ else }}{{ .Params.price | default \"5.5\" }}{{ end }}",
+    "availability": "https://schema.org/InStock",
+    "url": "{{ .Permalink }}"
+  },
+  "additionalProperty": [
+    {{ if .Params.moq }}
+    { "@type": "PropertyValue", "name": "MOQ", "value": "{{ .Params.moq }}" },
+    {{ end }}
+    {{ if .Params.material }}
+    { "@type": "PropertyValue", "name": "Material", "value": "{{ .Params.material }}" }
+    {{ end }}
+  ]
+}
+</script>
+
+
+
+
+
+
 {{ end }}
