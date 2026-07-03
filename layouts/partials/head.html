@@ -25,66 +25,83 @@
 {{ if .Params.robots }}<meta name="robots" content="{{ .Params.robots }}">{{ end }}
 
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": {{ if .IsHome }}"WebSite"{{ else if eq .Type "products" }}"Product"{{ else }}"WebPage"{{ end }},
-  "url": {{ .Permalink | absURL | jsonify }},
-  "name": {{ if .IsHome }}{{ .Site.Title | jsonify }}{{ else }}{{ .Title | jsonify }}{{ end }},
-  "description": {{ $desc | jsonify }}
-  {{ if eq .Type "products" }},
-  "image": {{ .Params.image | default "" | jsonify }},
-  "sku": {{ .Params.sku | default "" | jsonify }},
-  "brand": {
-    "@type": "Brand",
-    "name": {{ .Site.Params.brand | default .Site.Title | jsonify }}
-  },
-  "offers": {
-    "@type": "Offer",
-    "priceCurrency": "USD",
-    "price": {{ .Params.price | default "5.5" | jsonify }},
-    "availability": "https://schema.org/InStock",
-    "url": {{ .Permalink | absURL | jsonify }}
-  }
-
-
- 
-    "shippingDetails": {
-      "@type": "OfferShippingDetails",
-     
-      "shippingRate": {
-        "@type": "MonetaryAmount",
-        "value": 0,
-        "currency": "USD"
-      },
-      
-      "shippingDestination": {
-        "@type": "DefinedRegion",
-        "addressCountry": ["US","ES","MX"]
-      },
-     
-      "deliveryTime": {
-        "@type": "ShippingDeliveryTime",
-        "handlingTime": {"minValue":7,"maxValue":15,"unit":"Day"},
-        "transitTime": {"minValue":20,"maxValue":40,"unit":"Day"}
-      }
-    },
-  
-    "hasMerchantReturnPolicy": true,
-  
-    "returnPolicy": {
-      "@type": "MerchantReturnPolicy",
-      "returnPolicyCountry": ["US","ES","MX"],
-      "returnDays": 30,
-      "returnShippingFeesAmount": {"value":0,"currency":"USD"}
+{{ if eq .Type "products" }}
+  {{ if .IsList }}
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "url": {{ .Permalink | absURL | jsonify }},
+      "name": {{ .Title | jsonify }},
+      "description": {{ $desc | jsonify }}
     }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "reviewCount": "124"
-  }
+  {{ else }}
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "url": {{ .Permalink | absURL | jsonify }},
+      "name": {{ .Title | jsonify }},
+      "description": {{ $desc | jsonify }},
+      {{ if .Params.image }}"image": {{ .Params.image | jsonify }},{{ end }}
+      {{ if .Params.sku }}"sku": {{ .Params.sku | jsonify }},{{ end }}
+      "brand": {
+        "@type": "Brand",
+        "name": {{ .Site.Params.brand | default .Site.Title | jsonify }}
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": {{ .Params.price | default "5.5" | jsonify }},
+        "availability": "https://schema.org/InStock",
+        "url": {{ .Permalink | absURL | jsonify }},
+        "shippingDetails": {
+          "@type": "OfferShippingDetails",
+          "shippingRate": {
+            "@type": "MonetaryAmount",
+            "value": 0,
+            "currency": "USD"
+          },
+          "shippingDestination": {
+            "@type": "DefinedRegion",
+            "addressCountry": ["US","ES","MX"]
+          },
+          "deliveryTime": {
+            "@type": "ShippingDeliveryTime",
+            "handlingTime": {"minValue":7,"maxValue":15,"unit":"Day"},
+            "transitTime": {"minValue":20,"maxValue":40,"unit":"Day"}
+          }
+        },
+        "hasMerchantReturnPolicy": true,
+        "returnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "returnPolicyCountry": ["US","ES","MX"],
+          "returnDays": 30,
+          "returnShippingFeesAmount": {"value":0,"currency":"USD"}
+        }
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "124"
+      }
+    }
   {{ end }}
-}
+{{ else if .IsHome }}
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": {{ .Permalink | absURL | jsonify }},
+    "name": {{ .Site.Title | jsonify }},
+    "description": {{ $desc | jsonify }}
+  }
+{{ else }}
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "url": {{ .Permalink | absURL | jsonify }},
+    "name": {{ .Title | jsonify }},
+    "description": {{ $desc | jsonify }}
+  }
+{{ end }}
 </script>
 
 {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
