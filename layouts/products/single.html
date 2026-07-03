@@ -194,16 +194,17 @@
 </section>
 
 
-{{/* ==================== Structured Data (JSON-LD) ==================== */}}
+
+<!-- ==================== Google Structured Data ==================== -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Product",
   "name": "{{ .Title }}",
-  "sku": "{{ .Params.sku | default .Params.SKU }}",
+  "sku": "{{ .Params.sku | default .Params.SKU | default \"\" }}",
   "url": "{{ .Permalink }}",
   "image": "{{ .Params.image | relURL }}",
-  "description": "{{ .Params.summary | default ( .Summary | plainify ) }}",
+  "description": "{{ .Summary | plainify | default .Title }}",
   "brand": {
     "@type": "Brand",
     "name": "{{ .Site.Title | default \"ToolsD\" }}"
@@ -211,21 +212,12 @@
   "offers": {
     "@type": "Offer",
     "priceCurrency": "USD",
-    "price": "{{ if .Params.price_range }}{{ .Params.price_range }}{{ else }}{{ .Params.price | default \"5.5\" }}{{ end }}",
+    "price": "5.5",
     "availability": "https://schema.org/InStock",
     "url": "{{ .Permalink }}"
-  },
-  "additionalProperty": [
-    {{ if .Params.moq }}
-    { "@type": "PropertyValue", "name": "MOQ", "value": "{{ .Params.moq }}" },
-    {{ end }}
-    {{ if .Params.material }}
-    { "@type": "PropertyValue", "name": "Material", "value": "{{ .Params.material }}" }
-    {{ end }}
-  ]
+  }
 }
 </script>
-
 
 
 
