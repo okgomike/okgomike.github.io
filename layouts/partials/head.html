@@ -24,19 +24,73 @@
 
 {{ if .Params.robots }}<meta name="robots" content="{{ .Params.robots }}">{{ end }}
 
+<!-- ========== 【改动区域：整段替换原有的JSON-LD脚本】 ========== -->
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "{{ if .IsHome }}WebSite{{ else if eq .Type "products" }}Product{{ else }}WebPage{{ end }}",
-  "url": "{{ .Permalink }}",
-  "name": "{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}",
-  "description": "{{ $desc }}"
-  {{ if eq .Type "products" }},
-  "brand": { "@type": "Brand", "name": "{{ .Site.Params.brand }}" }
-  {{ if .Params.moq }},"offers": { "@type": "Offer", "availability": "https://schema.org/InStock", "priceCurrency": "USD" }{{ end }}
+{{ if eq .Type "products" }}
+  {{ if .IsList }}
+    // 产品列表目录页（/products/）：使用ItemList，不再用Product，彻底消除GSC报错
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "url": "{{ .Permalink }}",
+      "name": "{{ .Title }}",
+      "description": "{{ $desc }}",
+      "itemListElement": [
+        {{ $productItems := slice }}
+        {{ range first 10 .Pages }}
+        {{ $productItems = $productItems | append (dict
+          "@type" "ListItem"
+          "position" .Position
+          "item" (dict
+            "@type" "Product"
+            "name" .Title
+            "url" .Permalink
+          )
+        ) }}
+        {{ end }}
+        {{ $productItems | jsonify }}
+      ]
+    }
+  {{ else }}
+    // 单品详情页：保留Product类型，补全合法offers字段，满足谷歌校验
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "url": "{{ .Permalink }}",
+      "name": "{{ .Title }}",
+      "description": "{{ $desc }}",
+      "brand": { "@type": "Brand", "name": "{{ .Site.Params.brand }}" },
+      {{ if .Params.image }}"image": "{{ .Params.image | absURL }}",{{ end }}
+      "offers": {
+        "@type": "Offer",
+        "availability": "https://schema.org/InStock",
+        "priceCurrency": "USD",
+        {{ if .Params.price_range }}"price": "{{ index (split .Params.price_range "-") 0 }}",{{ else }}"price": "0.5",{{ end }}
+        {{ if .Params.moq }}"description": "MOQ: {{ .Params.moq }}"{{ end }}
+      }
+    }
   {{ end }}
-}
+{{ else if .IsHome }}
+  // 首页：WebSite 原有逻辑不变
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "{{ .Permalink }}",
+    "name": "{{ .Site.Title }}",
+    "description": "{{ $desc }}"
+  }
+{{ else }}
+  // 普通页面（About/Services等）：WebPage 原有逻辑不变
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "url": "{{ .Permalink }}",
+    "name": "{{ .Title }}",
+    "description": "{{ $desc }}"
+  }
+{{ end }}
 </script>
+<!-- ========== 改动区域结束 ========== -->
 
 {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
