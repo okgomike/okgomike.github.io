@@ -28,31 +28,23 @@
 <script type="application/ld+json">
 {{ if eq .Type "products" }}
   {{ if .IsList }}
-   
     {
       "@context": "https://schema.org",
       "@type": "ItemList",
       "url": "{{ .Permalink }}",
       "name": "{{ .Title }}",
       "description": "{{ $desc }}",
-      "itemListElement": [
-        {{ $productItems := slice }}
-        {{ range first 10 .Pages }}
-        {{ $productItems = $productItems | append (dict
-          "@type" "ListItem"
-          "position" .Position
-          "item" (dict
-            "@type" "Product"
-            "name" .Title
-            "url" .Permalink
-          )
-        ) }}
-        {{ end }}
-        {{ $productItems | jsonify }}
-      ]
+      "itemListElement": {{ range first 10 .Pages }}{
+        "@type":"ListItem",
+        "position":{{ .Position }},
+        "item":{
+          "@type":"Product",
+          "name":"{{ .Title }}",
+          "url":"{{ .Permalink | absURL }}"
+        }
+      },{{ end }}[]
     }
   {{ else }}
-    
     {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -65,13 +57,12 @@
         "@type": "Offer",
         "availability": "https://schema.org/InStock",
         "priceCurrency": "USD",
-        {{ if .Params.price_range }}"price": "{{ index (split .Params.price_range "-") 0 }}",{{ else }}"price": "0.5",{{ end }}
-        {{ if .Params.moq }}"description": "MOQ: {{ .Params.moq }}"{{ end }}
+        {{ if .Params.price_range }}"price": "{{ index (split .Params.price_range "-") 0 }}",{{ else }}"price": "0.5"{{ end }}
+        {{ if .Params.moq }}, "description": "MOQ: {{ .Params.moq }}"{{ end }}
       }
     }
   {{ end }}
 {{ else if .IsHome }}
-  
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
@@ -80,7 +71,6 @@
     "description": "{{ $desc }}"
   }
 {{ else }}
-   
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
