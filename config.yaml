@@ -14,7 +14,7 @@ taxonomies:
 params:
   brand: 'ToolsD'
   description: 'A Yiwu-based B2B online wholesale showroom for low MOQ hardware and tools, including fasteners, lifting equipment, automotive tools, construction tools, renovation tools and locks.'
-  author: 'YourBrand'
+  author: 'ToolsD'
   logo: '/images/logo.png'
   contact:
     whatsapp: '+8618006891977'
