@@ -195,30 +195,7 @@
 
 
 
-<!-- ==================== Structured Data (JSON-LD) ==================== -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Product",
-  "name": "{{ .Title }}",
-  "sku": "{{ .Params.sku | default \"\" }}",
-  "url": "{{ .Permalink }}",
-  "image": "{{ .Params.image | relURL | default \"\" }}",
-  "description": "{{ .Params.summary | default (.Summary | plainify) }}",
-  "brand": {
-    "@type": "Brand",
-    "name": "{{ .Site.Params.brand | default .Site.Title }}"
-  },
-  "offers": {
-    "@type": "Offer",
-    "priceCurrency": "USD",
-    "price": "5.5",
-    "availability": "https://schema.org/InStock",
-    "url": "{{ .Permalink }}"
-  }
-}
-</script>
-
+{{ partial "structured-data.html" . }}
 
 
 
