@@ -1,34 +1,6 @@
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-
-{{ $desc := "" }}
-{{ if .Params.summary }}{{ $desc = .Params.summary }}{{ else if .Params.description }}{{ $desc = .Params.description }}{{ else if .Site.Params.description }}{{ $desc = .Site.Params.description }}{{ end }}
-<meta name="description" content="{{ $desc }}">
-<meta name="author" content="{{ .Site.Params.author }}">
-
-<link rel="canonical" href="{{ .Permalink }}">
-<link rel="icon" type="image/x-icon" href="{{ "favicon.ico" | relURL }}">
-
-<meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
-<meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
-<meta property="og:description" content="{{ $desc }}">
-<meta property="og:site_name" content="{{ .Site.Title }}">
-{{ if .Params.image }}<meta property="og:image" content="{{ .Params.image | absURL }}">{{ else }}<meta property="og:image" content="{{ .Site.Params.seo.defaultImage | absURL }}">{{ end }}
-
-<meta name="twitter:card" content="{{ .Site.Params.seo.twitterCard }}">
-<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
-<meta name="twitter:description" content="{{ $desc }}">
-{{ if .Params.image }}<meta name="twitter:image" content="{{ .Params.image | absURL }}">{{ else }}<meta name="twitter:image" content="{{ .Site.Params.seo.defaultImage | absURL }}">{{ end }}
-
-{{ if .Params.robots }}<meta name="robots" content="{{ .Params.robots }}">{{ end }}
-
-<!-- ========== 【改动区域：整段替换原有的JSON-LD脚本】 ========== -->
 <script type="application/ld+json">
 {{ if eq .Type "products" }}
   {{ if .IsList }}
-    // 产品列表目录页（/products/）：使用ItemList，不再用Product，彻底消除GSC报错
     {
       "@context": "https://schema.org",
       "@type": "ItemList",
@@ -52,7 +24,6 @@
       ]
     }
   {{ else }}
-    // 单品详情页：保留Product类型，补全合法offers字段，满足谷歌校验
     {
       "@context": "https://schema.org",
       "@type": "Product",
@@ -71,7 +42,6 @@
     }
   {{ end }}
 {{ else if .IsHome }}
-  // 首页：WebSite 原有逻辑不变
   {
     "@context": "https://schema.org",
     "@type": "WebSite",
@@ -80,7 +50,6 @@
     "description": "{{ $desc }}"
   }
 {{ else }}
-  // 普通页面（About/Services等）：WebPage 原有逻辑不变
   {
     "@context": "https://schema.org",
     "@type": "WebPage",
@@ -90,7 +59,3 @@
   }
 {{ end }}
 </script>
-<!-- ========== 改动区域结束 ========== -->
-
-{{ $style := resources.Get "css/main.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $style.RelPermalink }}">
