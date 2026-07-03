@@ -6,7 +6,7 @@ date: 2026-07-01T12:00:00+08:00
 draft: false
 summary: 'Low MOQ aluminum blind rivets POP rivet assortment kit. Multiple diameters and lengths for sheet metal, plastic and hollow profile joining. Hand rivet tool compatible.'
 description: 'Aluminum blind rivets POP rivet assortment covering the most commonly used diameters and grip ranges for general-purpose fastening. Suitable for joining sheet metal, plastic, fiberglass and hollow profiles where access is only available from one side. Easy installation with standard hand rivet tools or pneumatic rivet guns. Aluminum alloy body with steel mandrel provides reliable clamping force. Widely used in automotive bodywork, HVAC ducting, signage mounting and furniture manufacturing.'
-image: "https://img.toolsd.com/file/1782906452776_701-2.jpg"
+image: "https://img.toolsd.com/file/1782911530018_701-2.jpg"
 categories:
   - fasteners-hardware
   - rivets-pins
