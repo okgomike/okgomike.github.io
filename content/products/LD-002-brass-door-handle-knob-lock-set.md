@@ -6,7 +6,7 @@ date: 2026-07-01T12:00:00+08:00
 draft: false
 summary: 'Low MOQ brass door handle and knob lock set for residential wooden doors. Polished brass and satin nickel finish with matching knob and handle designs.'
 description: 'Premium brass door handle and knob lock set designed for residential wooden doors. The set includes a door lever handle on one side and a matching knob on the other, connected through a standard mortise lock body. Solid brass construction ensures long-lasting durability and resistance to daily wear. Available in polished brass, satin nickel and antique bronze finishes to match various interior decor styles. Universal latch bolt fits standard door prep with 2-3/8" or 2-3/4" backset. Easy installation with included mounting hardware and template.'
-image: "https://img.toolsd.com/file/1782906452776_701-2.jpg"
+image: "https://img.toolsd.com/file/1782911530018_701-2.jpg"
 categories:
   - locks-door-hardware
   - door-handles-knobs
