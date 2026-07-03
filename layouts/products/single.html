@@ -194,31 +194,32 @@
 </section>
 
 
-
 <!-- ==================== Structured Data (JSON-LD) ==================== -->
 <script type="application/ld+json">
 {{ dict 
   "@context" "https://schema.org/"
   "@type" "Product"
   "name" .Title
-  "sku" (.Params.sku | default .Params.SKU | default "")
+  "sku" (.Params.sku | default "")
   "url" .Permalink
   "image" (.Params.image | relURL | default "")
-  "description" (.Summary | plainify | default .Title)
-  "brand" (dict 
-    "@type" "Brand"
-    "name" (.Site.Title | default "ToolsD Wholesale")
-  )
+  "description" (.Params.summary | default .Summary | plainify)
+  "brand" (dict "@type" "Brand" "name" (.Site.Params.brand | default .Site.Title))
   "offers" (dict 
     "@type" "Offer"
     "priceCurrency" "USD"
-    "price" (.Params.price | default "5.5")
-    "priceRange" (.Params.price_range | default "")
+    "price" (.Params.price_range | default "5.5" | replaceRE `.*(\d+\.\d+).*` "$1")
     "availability" "https://schema.org/InStock"
     "url" .Permalink
   )
+  "additionalProperty" (slice
+    (dict "name" "MOQ" "value" (.Params.moq | default ""))
+    (dict "name" "Material" "value" (.Params.material | default ""))
+    (dict "name" "Size Range" "value" (.Params.size_range | default ""))
+  )
 | jsonify }}
 </script>
+
 
 
 
