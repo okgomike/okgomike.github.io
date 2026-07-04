@@ -41,10 +41,10 @@
 {{ $finalImage := cond (ne $pageImage "") $pageImage $siteImage }}
 
 {{/* 描述逻辑：页面描述优先，无则产品默认描述，普通页面走原有desc函数 */}}
-{{ $pageDesc := partial "func/get-page-description.html" . }}
+{{ $pageDesc := .Params.description | default "" }}
 {{ $finalDesc := $pageDesc }}
-{{ if eq .Type "products" }}
-  {{ if eq $pageDesc "" }}{{ $finalDesc = $defaultProductDesc }}{{ end }}
+{{ if and (eq .Type "products") (eq $pageDesc "") }}
+  {{ $finalDesc = $defaultProductDesc }}
 {{ end }}
 
 {
