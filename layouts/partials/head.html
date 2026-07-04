@@ -40,7 +40,7 @@
 {{ if .Params.images }}{{ $pageImage = index .Params.images 0 }}{{ end }}
 {{ $finalImage := cond (ne $pageImage "") $pageImage $siteImage }}
 
-{{/* 描述逻辑：页面描述优先，无则产品默认描述，普通页面走原有desc函数 */}}
+{{/* 描述逻辑：无外部partial依赖 */}}
 {{ $pageDesc := .Params.description | default "" }}
 {{ $finalDesc := $pageDesc }}
 {{ if and (eq .Type "products") (eq $pageDesc "") }}
@@ -65,25 +65,14 @@
     "@type": "Organization",
     "name": "{{ .Site.Params.factoryName }}",
     "url": "{{ .Site.BaseURL }}"
-  }
-
-  {{/* 取页面参数，不存在则覆盖全局默认值 */}}
-  {{ $useMoq := cond (isset .Params "moq") .Params.moq $defaultMoq }}
-  {{ $useSamplePrice := cond (isset .Params "samplePrice") .Params.samplePrice $defaultSamplePrice }}
-  {{ $useLeadTime := cond (isset .Params "leadTime") .Params.leadTime $defaultLeadTime }}
-
-  {{/* 数组自动拼接，无多余逗号，杜绝JSON报错 */}}
-  {{ $offerParts := slice }}
-  {{ $offerParts = $offerParts | append "\"minQuantity\": {{ $useMoq }}" }}
-  {{ $offerParts = $offerParts | append "\"samplePrice\": {{ $useSamplePrice }}" }}
-  {{ $offerParts = $offerParts | append "\"deliveryLeadTime\": \"{{ $useLeadTime }}\"" }}
-
-  ,
+  },
   "aggregateOffer": {
     "@type": "AggregateOffer",
     "priceCurrency": "USD",
     "offerCount": 1,
-    {{ delimit $offerParts ", " }},
+    "minQuantity": {{ cond (isset .Params "moq") .Params.moq $defaultMoq }},
+    "samplePrice": {{ cond (isset .Params "samplePrice") .Params.samplePrice $defaultSamplePrice }},
+    "deliveryLeadTime": "{{ cond (isset .Params "leadTime") .Params.leadTime $defaultLeadTime }}",
     "offers": [
       {
         "@type": "Offer",
@@ -96,6 +85,9 @@
   {{/* 产品页专属字段 end */}}
 }
 </script>
+
+
+
 
 {{ $style := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
