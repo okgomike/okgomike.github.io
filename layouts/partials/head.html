@@ -24,57 +24,76 @@
 
 {{ if .Params.robots }}<meta name="robots" content="{{ .Params.robots }}">{{ end }}
 
+
+
+
 <script type="application/ld+json">
+{{/* 全局默认B2B产品参数，统一在此修改，全站产品共用 */}}
+{{ $defaultMoq := 100 }}
+{{ $defaultSamplePrice := 5 }}
+{{ $defaultLeadTime := "12-20 working days" }}
+{{ $defaultProductDesc := "Industrial lock wholesale factory, custom OEM available" }}
+
+{{/* 图片逻辑：第三方图床完整URL直接支持 */}}
+{{ $siteImage := .Site.Params.defaultOgImage }}
+{{ $pageImage := "" }}
+{{ if .Params.images }}{{ $pageImage = index .Params.images 0 }}{{ end }}
+{{ $finalImage := cond (ne $pageImage "") $pageImage $siteImage }}
+
+{{/* 描述逻辑：页面描述优先，无则产品默认描述，普通页面走原有desc函数 */}}
+{{ $pageDesc := partial "func/get-page-description.html" . }}
+{{ $finalDesc := $pageDesc }}
+{{ if eq .Type "products" }}
+  {{ if eq $pageDesc "" }}{{ $finalDesc = $defaultProductDesc }}{{ end }}
+{{ end }}
+
 {
   "@context": "https://schema.org",
-  "@type": {{ if .IsHome }}"WebSite"{{ else if eq .Type "products" }}"Product"{{ else }}"WebPage"{{ end }},
-  "url": {{ .Permalink | absURL | jsonify }},
-  "name": {{ if .IsHome }}{{ .Site.Title | jsonify }}{{ else }}{{ .Title | jsonify }}{{ end }},
-  "description": {{ $desc | jsonify }}
+  "@type": {{ if .IsHome }}"WebSite"{{ else if eq .Type "products" }}"IndustrialProduct"{{ else }}"WebPage"{{ end }},
+  "url": "{{ .Permalink }}",
+  "name": {{ if .IsHome }}"{{ .Site.Title }}"{{ else }}"{{ .Title }}"{{ end }},
+  "description": "{{ $finalDesc }}",
+  "image": "{{ $finalImage }}"
+
+  {{/* 产品页专属字段 start */}}
   {{ if eq .Type "products" }},
-  {{ if .Params.image }}"image": {{ .Params.image | jsonify }},{{ end }}
-  {{ if .Params.sku }}"sku": {{ .Params.sku | jsonify }},{{ end }}
   "brand": {
     "@type": "Brand",
-    "name": {{ .Site.Params.brand | default .Site.Title | jsonify }}
+    "name": "{{ .Site.Params.brand }}"
   },
-  "offers": {
-    "@type": "Offer",
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.factoryName }}",
+    "url": "{{ .Site.BaseURL }}"
+  }
+
+  {{/* 取页面参数，不存在则覆盖全局默认值 */}}
+  {{ $useMoq := cond (isset .Params "moq") .Params.moq $defaultMoq }}
+  {{ $useSamplePrice := cond (isset .Params "samplePrice") .Params.samplePrice $defaultSamplePrice }}
+  {{ $useLeadTime := cond (isset .Params "leadTime") .Params.leadTime $defaultLeadTime }}
+
+  {{/* 数组自动拼接，无多余逗号，杜绝JSON报错 */}}
+  {{ $offerParts := slice }}
+  {{ $offerParts = $offerParts | append "\"minQuantity\": {{ $useMoq }}" }}
+  {{ $offerParts = $offerParts | append "\"samplePrice\": {{ $useSamplePrice }}" }}
+  {{ $offerParts = $offerParts | append "\"deliveryLeadTime\": \"{{ $useLeadTime }}\"" }}
+
+  ,
+  "aggregateOffer": {
+    "@type": "AggregateOffer",
     "priceCurrency": "USD",
-    "price": {{ .Params.price | default "5.5" | jsonify }},
-    "availability": "https://schema.org/InStock",
-    "url": {{ .Permalink | absURL | jsonify }},
-    "shippingDetails": {
-      "@type": "OfferShippingDetails",
-      "shippingRate": {
-        "@type": "MonetaryAmount",
-        "value": 0,
-        "currency": "USD"
-      },
-      "shippingDestination": {
-        "@type": "DefinedRegion",
-        "addressCountry": ["US","ES","MX"]
-      },
-      "deliveryTime": {
-        "@type": "ShippingDeliveryTime",
-        "handlingTime": {"minValue":7,"maxValue":15,"unit":"Day"},
-        "transitTime": {"minValue":20,"maxValue":40,"unit":"Day"}
+    "offerCount": 1,
+    {{ delimit $offerParts ", " }},
+    "offers": [
+      {
+        "@type": "Offer",
+        "businessFunction": "https://schema.org/Wholesale",
+        "itemCondition": "https://schema.org/NewCondition"
       }
-    },
-    "hasMerchantReturnPolicy": true,
-    "returnPolicy": {
-      "@type": "MerchantReturnPolicy",
-      "returnPolicyCountry": ["US","ES","MX"],
-      "returnDays": 30,
-      "returnShippingFeesAmount": {"value":0,"currency":"USD"}
-    }
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "reviewCount": "124"
+    ]
   }
   {{ end }}
+  {{/* 产品页专属字段 end */}}
 }
 </script>
 
