@@ -195,34 +195,7 @@
 
 
 
-<!-- ==================== Structured Data (JSON-LD) ==================== -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org/",
-  "@type": "Product",
-  "name": {{ .Title | jsonify }},
-  "sku": {{ .Params.sku | default "" | jsonify }},
-  "url": {{ .Permalink | jsonify }},
-"image": {{ .Params.image | default "" | jsonify }},
-  "description": {{ .Params.summary | default (.Summary | plainify) | jsonify }},
-  "brand": {
-    "@type": "Brand",
-    "name": {{ .Site.Params.brand | default .Site.Title | jsonify }}
-  },
-  "offers": {
-    "@type": "Offer",
-    "priceCurrency": "USD",
-    "price": "5.5",
-    "availability": "https://schema.org/InStock",
-    "url": {{ .Permalink | jsonify }}
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "reviewCount": "124"
-  }
-}
-</script>
+
 
 
 
