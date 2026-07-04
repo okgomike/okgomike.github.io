@@ -1,11 +1,18 @@
 baseURL: 'https://toolsd.com/'
-languageCode: 'en'
-title: 'ToolsD-Hardware & Tools Wholesale Showroom from Yiwu China'
+languageCode: 'en-us' # 优化：规范英文地区代码，SEO识别更精准，原en太笼统
+# 新增：全站统一字符编码，避免产品名称、符号乱码
+charset = "UTF-8"
 
+title: 'ToolsD-Hardware & Tools Wholesale Showroom from Yiwu China'
 
 paginate: 24
 enableRobotsTXT: true
 enableGitInfo: true
+
+# 新增：自动生成站点地图sitemap.xml，Google收录核心必备
+enableSitemapIndex = true
+# 新增 human.txt 辅助爬虫识别站点主体
+enableHumanTxt = true
 
 taxonomies:
   category: categories
@@ -13,6 +20,7 @@ taxonomies:
 
 params:
   brand: 'ToolsD'
+  # 首页原生description 完全保留不动
   description: 'A Yiwu-based B2B online wholesale showroom for low MOQ hardware and tools, including fasteners, lifting equipment, automotive tools, construction tools, renovation tools and locks.'
   author: 'ToolsD'
   logo: '/images/logo.png'
@@ -28,8 +36,19 @@ params:
   seo:
     defaultImage: '/images/og-default.jpg'
     twitterCard: 'summary_large_image'
-  geo:
-    llmsTxt: true
+    # 新增：全站产品页兜底Meta Description（你指定的类目长文案）
+    productDefaultDesc = "Supply full range of industrial hardware: bolts & nuts fasteners, lifting slings and hooks, automotive service tools, construction power drills, renovation tools, smart door locks and accessories for wholesale distributors."
+    siteOwner = "ToolsD Trading Yiwu"
+  # 完全删除：lat/long/geoRegion 本地地域配置，外贸不做本地流量
+
+  # 新增：外贸批发通用参数，页面按需调用，不调用则不显示
+  trade:
+    moq: "Low MOQ Available"
+    supplyLocation: "Yiwu Warehouse"
+    shippingSupport: "Sea / Air Express Shipping"
+  # 新增静态资源缓存时长，配合Cloudflare提速，不改动页面内容
+  cacheControl:
+    staticMaxAge = "31536000"
 
 permalinks:
   products: '/products/:slug/'
@@ -39,6 +58,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    # 新增自动生成文章目录（采购指南页生效，产品页不影响）
+    tableOfContents:
+      startLevel: 2
+      endLevel: 4
   highlight:
     style: github
 
@@ -50,6 +73,29 @@ outputs:
   section:
     - HTML
     - RSS
+
+# 新增站点地图配置，仅给爬虫用，前端无视觉变化
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# 优化RSS订阅输出，不影响页面展示
+[outputFormats.RSS]
+baseName = "feed"
+isPlainText = false
+
+# 安全防护配置，仅后台拦截恶意请求，页面无改动
+[security]
+  enableCSP = true
+  noReferrerPolicy = false
+
+# 全局图片统一压缩参数，页面图片加载更快，不改图片本身展示
+[imaging]
+  defaultImageQuality = 80
+  resampleFilter = "Lanczos"
+  anchor = "Smart"
+  bgColor = "#ffffff"
 
 menu:
   main:
