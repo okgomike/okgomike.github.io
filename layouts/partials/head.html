@@ -3,7 +3,11 @@
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
 {{ $desc := "" }}
-{{ if .Params.summary }}{{ $desc = .Params.summary }}{{ else if .Params.description }}{{ $desc = .Params.description }}{{ else if .Site.Params.description }}{{ $desc = .Site.Params.description }}{{ end }}
+{{/* 修复：优先读取md中的meta_description字段 */}}
+{{ if .Params.meta_description }}{{ $desc = .Params.meta_description }}
+{{ else if .Params.description }}{{ $desc = .Params.description }}
+{{ else if .Params.summary }}{{ $desc = .Params.summary }}
+{{ else if .Site.Params.description }}{{ $desc = .Site.Params.description }}{{ end }}
 <meta name="description" content="{{ $desc }}">
 <meta name="author" content="{{ .Site.Params.author }}">
 
@@ -34,14 +38,18 @@
 {{ $defaultLeadTime := "12-20 working days" }}
 {{ $defaultProductDesc := "Supply full range industrial hardware: bolts nuts fasteners, lifting slings hooks, automotive service tools, construction power drills, renovation tools, smart door locks & accessories for wholesale distributors." }}
 
-{{/* 图片逻辑：第三方图床完整URL直接支持 */}}
+{{/* 修复图片逻辑：先读单图image，再读images数组第一张 */}}
 {{ $siteImage := .Site.Params.defaultOgImage }}
 {{ $pageImage := "" }}
-{{ if .Params.images }}{{ $pageImage = index .Params.images 0 }}{{ end }}
+{{ if .Params.image }}
+  {{ $pageImage = .Params.image }}
+{{ else if .Params.images }}
+  {{ $pageImage = index .Params.images 0 }}
+{{ end }}
 {{ $finalImage := cond (ne $pageImage "") $pageImage $siteImage }}
 
-{{/* 描述逻辑：无外部partial依赖 */}}
-{{ $pageDesc := .Params.description | default "" }}
+{{/* 修复描述逻辑：兼容meta_description字段 */}}
+{{ $pageDesc := .Params.meta_description | default .Params.description | default "" }}
 {{ $finalDesc := $pageDesc }}
 {{ if and (eq .Type "products") (eq $pageDesc "") }}
   {{ $finalDesc = $defaultProductDesc }}
@@ -72,7 +80,8 @@
     "offerCount": 1,
     "minQuantity": {{ cond (isset .Params "moq") .Params.moq $defaultMoq }},
     "samplePrice": {{ cond (isset .Params "samplePrice") .Params.samplePrice $defaultSamplePrice }},
-    "deliveryLeadTime": "{{ cond (isset .Params "leadTime") .Params.leadTime $defaultLeadTime }}",
+    {{/* 修复交期字段：读取production_lead_time */}}
+    "deliveryLeadTime": "{{ cond (isset .Params "production_lead_time") .Params.production_lead_time $defaultLeadTime }}",
     "offers": [
       {
         "@type": "Offer",
