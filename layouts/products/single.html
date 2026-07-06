@@ -53,8 +53,8 @@
           {{ if .Params.material }}
           <div class="info-row"><span class="info-label">Material:</span><span class="info-value">{{ .Params.material }}</span></div>
           {{ end }}
-          {{ if .Params.standard }}
-          <div class="info-row"><span class="info-label">Standard:</span><span class="info-value">{{ .Params.standard }}</span></div>
+          {{ if or .Params.standard .Params.certifications .Params.certification }}
+          <div class="info-row"><span class="info-label">{{ if .Params.certifications }}Certifications{{ else if .Params.certification }}Certification{{ else }}Standard{{ end }}:</span><span class="info-value">{{ or .Params.standard .Params.certifications .Params.certification }}</span></div>
           {{ end }}
           {{ if and .Params.grade (ne .Params.grade "-") (ne .Params.grade "") }}
           <div class="info-row"><span class="info-label">Grade:</span><span class="info-value">{{ .Params.grade }}</span></div>
@@ -67,9 +67,6 @@
           {{ end }}
           {{ if or .Params.weight .Params.weight_g .Params.net_weight }}
           <div class="info-row"><span class="info-label">Weight:</span><span class="info-value">{{ or .Params.weight .Params.weight_g .Params.net_weight }}</span></div>
-          {{ end }}
-          {{ if or .Params.certification .Params.certifications }}
-          <div class="info-row"><span class="info-label">Certification:</span><span class="info-value">{{ or .Params.certification .Params.certifications }}</span></div>
           {{ end }}
           {{ if or .Params.packing .Params.packaging_detail }}
           <div class="info-row"><span class="info-label">Packing:</span><span class="info-value">{{ or .Params.packing .Params.packaging_detail }}</span></div>
@@ -114,54 +111,57 @@
         {{ end }}
 
         {{ if .Params.core_features }}
-        {{ $features := split .Params.core_features ";" }}
-        {{ if gt (len $features) 1 }}
         <div class="tab-panel">
           <h2>Core Features</h2>
           <div class="tab-body">
+            {{ $features := split .Params.core_features ";" }}
+            {{ if gt (len $features) 1 }}
             <ul class="feature-list">
               {{ range $features }}
-                {{ $item := strings.TrimSpace . }}
-                {{ if $item }}<li>{{ $item }}</li>{{ end }}
+              <li>{{ . }}</li>
               {{ end }}
             </ul>
+            {{ else }}
+            <p>{{ .Params.core_features }}</p>
+            {{ end }}
           </div>
         </div>
-        {{ end }}
         {{ end }}
 
         {{ if .Params.application_scenarios }}
-        {{ $scenarios := split .Params.application_scenarios ";" }}
-        {{ if gt (len $scenarios) 1 }}
         <div class="tab-panel">
           <h2>Application Scenarios</h2>
           <div class="tab-body">
+            {{ $scenarios := split .Params.application_scenarios ";" }}
+            {{ if gt (len $scenarios) 1 }}
             <ul class="feature-list">
               {{ range $scenarios }}
-                {{ $item := strings.TrimSpace . }}
-                {{ if $item }}<li>{{ $item }}</li>{{ end }}
+              <li>{{ . }}</li>
               {{ end }}
             </ul>
+            {{ else }}
+            <p>{{ .Params.application_scenarios }}</p>
+            {{ end }}
           </div>
         </div>
-        {{ end }}
         {{ end }}
 
         {{ if .Params.differentiate_advantages }}
-        {{ $advantages := split .Params.differentiate_advantages ";" }}
-        {{ if gt (len $advantages) 1 }}
         <div class="tab-panel">
           <h2>Why Choose Us</h2>
           <div class="tab-body">
+            {{ $advantages := split .Params.differentiate_advantages ";" }}
+            {{ if gt (len $advantages) 1 }}
             <ul class="feature-list">
               {{ range $advantages }}
-                {{ $item := strings.TrimSpace . }}
-                {{ if $item }}<li>{{ $item }}</li>{{ end }}
+              <li>{{ . }}</li>
               {{ end }}
             </ul>
+            {{ else }}
+            <p>{{ .Params.differentiate_advantages }}</p>
+            {{ end }}
           </div>
         </div>
-        {{ end }}
         {{ end }}
 
         {{ if .Params.specifications }}
@@ -240,7 +240,7 @@
             {{ if .Params.sku }}<p class="product-sku">{{ .Params.sku }}</p>{{ end }}
             <h3 class="product-title">{{ .Title }}</h3>
             {{ if .Params.summary }}<p class="product-desc">{{ .Params.summary }}</p>{{ end }}
-            {{ if .Params.moq }}<span class="product-moq-badge">{{ .Params.moq }}</span></div>
+            {{ if .Params.moq }}<span class="product-moq-badge">{{ .Params.moq }}</span>{{ end }}
           </div>
         </a>
         {{ end }}
