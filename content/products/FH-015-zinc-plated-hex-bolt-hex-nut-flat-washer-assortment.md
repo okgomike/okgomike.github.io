@@ -21,8 +21,8 @@ packaging_detail: Compartmentalized plastic case for assortments; Bulk carton fo
 faq_content: "Q: What is the difference between Grade 4.8 and Grade 8.8? A: Grade 8.8 has 800MPa tensile strength (structural use); Grade 4.8 has 400MPa (general purpose). Both are available. | Q: Are stainless steel bolts included? A: Standard assortments are zinc-plated carbon steel; 304 stainless steel assortments are available as a separate SKU. | Q: Do lock nuts require a washer? A: Nylon insert lock nuts work with or without flat washers; spring washers are not needed."
 image: "https://img.toolsd.com/file/1783339897022_706-13.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783339897022_706-13.jpg'
-  - 'https://img.toolsd.com/file/1783339889888_706-14.jpg'
+  - "https://img.toolsd.com/file/1783339897022_706-13.jpg"
+  - "https://img.toolsd.com/file/1783339889888_706-14.jpg"
 keywords: zinc plated hex bolt, hex nut assortment, flat washer set, grade 8.8 bolt, metric bolt set, socket head cap screw, carriage bolt, lock nut, threaded rod, fastener assortment box
 price_range: $0.01 - $0.50 / pc
 draft: false

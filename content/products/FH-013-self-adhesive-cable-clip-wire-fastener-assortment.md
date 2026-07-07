@@ -21,8 +21,8 @@ packaging_detail: Poly-bag 100pcs per pack; Color box 100pcs with header card; A
 faq_content: "Q: Does the adhesive work on painted walls? A: Yes; 3M foam tape adheres to painted walls but may remove paint upon removal. For permanent use nail-mount is recommended. | Q: What cable diameter should I select? A: Choose clip diameter 1-2mm larger than cable diameter for easy snap-in and secure hold. | Q: Are these suitable for outdoor use? A: Standard PE clips are for indoor use; UV-resistant PP clips are available for outdoor cable management."
 image: "https://img.toolsd.com/file/1783339889888_706-14.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783339889888_706-14.jpg'
-  - 'https://img.toolsd.com/file/1783339897022_706-13.jpg'
+  - "https://img.toolsd.com/file/1783339889888_706-14.jpg"
+  - "https://img.toolsd.com/file/1783339897022_706-13.jpg"
 keywords: self adhesive cable clip, cable clip, wire fastener, cable management clip, nail mount cable clip, ethernet cable clip, wire organizer, cord clip, cable routing clip, adhesive wire clip
 price_range: $0.01 - $0.15 / pc
 draft: false

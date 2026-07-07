@@ -13,8 +13,8 @@ tags:
 summary: Professional cargo lashing straps with heavy-duty ratchet mechanisms and forged steel S-hooks or J-hooks for truck trailer motorcycle and equipment transportation.
 image: "https://img.toolsd.com/file/1782974706796_702-18.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782974706796_702-18.jpg'
-  - 'https://img.toolsd.com/file/1782974709929_702-19.jpg'
+  - "https://img.toolsd.com/file/1782974706796_702-18.jpg"
+  - "https://img.toolsd.com/file/1782974709929_702-19.jpg"
 moq: 500 sets
 price_range: $2.00 - $7.00 / set
 material: Polyester Webbing + Forged Steel Buckle + Vinyl-Coated S-Hook / J-Hook

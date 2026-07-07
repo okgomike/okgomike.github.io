@@ -13,8 +13,8 @@ tags:
 summary: Solid brass body padlocks with hardened steel shackles and pin tumbler mechanisms available in multiple sizes from 20mm to 70mm for luggage lockers gates and storage cabinets.
 image: "https://img.toolsd.com/file/1782974128950_702-16.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782974128950_702-16.jpg'
-  - 'https://img.toolsd.com/file/1782974128748_702-17.jpg'
+  - "https://img.toolsd.com/file/1782974128950_702-16.jpg"
+  - "https://img.toolsd.com/file/1782974128748_702-17.jpg"
 moq: 1000 pcs
 price_range: $0.30 - $2.50 / pc
 material: Solid Brass Body + Hardened Steel Shackle

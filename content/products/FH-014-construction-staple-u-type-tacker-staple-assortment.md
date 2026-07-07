@@ -21,8 +21,8 @@ packaging_detail: Cardboard box 1000-5000 staples per box; Shrink-wrapped multi-
 faq_content: "Q: What staple gun are these compatible with? A: Crown width 10-12mm fits light-duty tackers; 14mm fits heavy-duty construction staplers. Check your gun crown width specification. | Q: Can stainless steel staples be used outdoors? A: Yes; 304 stainless steel staples resist corrosion for outdoor fencing and marine upholstery. | Q: What leg length for 12mm plywood? A: Use staples with leg length 3x the material thickness; 12mm plywood requires 28-32mm leg length."
 image: "https://img.toolsd.com/file/1783339897022_706-13.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783339897022_706-13.jpg'
-  - 'https://img.toolsd.com/file/1783339889888_706-14.jpg'
+  - "https://img.toolsd.com/file/1783339897022_706-13.jpg"
+  - "https://img.toolsd.com/file/1783339889888_706-14.jpg"
 keywords: construction staple, U type staple, tacker staple, upholstery staple, roofing staple, staple gun staple, galvanized staple, stainless steel staple, copper staple, heavy duty staple
 price_range: $0.001 - $0.02 / pc
 draft: false

@@ -21,8 +21,8 @@ packaging_detail: Each hook in individual PE bag + hanging card; 50-80 pcs per e
 faq_content: "Q: What is the difference between zinc alloy and stainless steel options? A: Zinc alloy with chrome plating is cost-effective for indoor use; 304 stainless steel is recommended for humid or coastal environments. | Q: Can this hold heavy winter coats? A: Yes; the double-prong design distributes weight and each hook is tested to 12kg static load. | Q: Do you have matching bathroom accessories? A: Yes; towel bars, toilet paper holders, soap dishes, and towel rings are available in matching chrome finish."
 image: "https://img.toolsd.com/file/1783331889928_706-10.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783331889928_706-10.jpg'
-  - 'https://img.toolsd.com/file/1783331887697_706-9.jpg'
+  - "https://img.toolsd.com/file/1783331889928_706-10.jpg"
+  - "https://img.toolsd.com/file/1783331887697_706-9.jpg"
 keywords: chrome robe hook, double prong hook, bathroom robe hook, towel hook chrome, hat hook wall mount, classic coat hook, chrome plated hook, garment hook set, hotel bathroom hook, wardrobe hook
 draft: false
 date: "2026-07-01T12:00:00+08:00"

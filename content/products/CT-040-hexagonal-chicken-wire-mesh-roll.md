@@ -21,8 +21,8 @@ packaging_detail: Each roll wrapped in woven bag + plastic film; 20-50 rolls per
 faq_content: "Q: What is the difference between double twist and triple twist? A: Double twist is standard for most applications; triple twist provides higher strength and is recommended for large animal containment. | Q: Can PVC coated mesh be used in saltwater environments? A: PVC coating provides good corrosion resistance but marine environments require stainless steel wire core; galvanized core may corrode under prolonged saltwater exposure. | Q: What height roll for deer fencing? A: 1.8m to 2.0m height with 50mm opening is standard for deer exclusion; attach to wooden or steel posts at 2-3m spacing."
 image: "https://img.toolsd.com/file/1783342135348_706-15.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783342135348_706-15.jpg'
-  - 'https://img.toolsd.com/file/1783342127935_706-16.jpg'
+  - "https://img.toolsd.com/file/1783342135348_706-15.jpg"
+  - "https://img.toolsd.com/file/1783342127935_706-16.jpg"
 keywords: hexagonal wire mesh, chicken wire, poultry mesh, garden fence mesh, PVC coated wire mesh, animal enclosure mesh, bird mesh, tree guard mesh, decorative garden mesh, farm fencing mesh
 price_range: $0.60 - $2.80 / sqm
 draft: false

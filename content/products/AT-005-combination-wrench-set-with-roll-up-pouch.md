@@ -19,8 +19,8 @@ specifications: "Material: Chrome Vanadium Steel CR-V 6140 | Hardness: HRC 42-48
 faq: "Q: What is the difference between mirror polish and satin finish? A: Mirror polish provides maximum corrosion resistance and easy cleaning; satin finish reduces glare and hides scratches in workshop environments. | Q: Can I get a custom size range? A: Yes; we can assemble custom sets with any metric or SAE size combination starting from 500 sets. | Q: Are these suitable for impact use? A: No; these are hand wrenches for standard torque applications. For impact use please see our impact wrench socket sets. | Q: What is chrome vanadium steel? A: CR-V is an alloy steel with chromium and vanadium that provides high strength toughness and wear resistance for professional hand tools."
 image: "https://img.toolsd.com/file/1782976205777_702-22.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782976205777_702-22.jpg'
-  - 'https://img.toolsd.com/file/1782976209618_702-23.jpg'
+  - "https://img.toolsd.com/file/1782976205777_702-22.jpg"
+  - "https://img.toolsd.com/file/1782976209618_702-23.jpg"
 keywords: combination wrench set, chrome vanadium wrench, open end wrench, box end wrench, metric wrench set, automotive wrench, CR-V wrench, mirror polish wrench, roll up pouch wrench set, mechanic wrench
 long_tail_keywords: professional combination wrench set 8-24mm wholesale, chrome vanadium steel wrench set with canvas pouch, metric combination wrench set for auto repair, mirror polish wrench set DIN 3113, mechanic hand wrench set OEM
 draft: false

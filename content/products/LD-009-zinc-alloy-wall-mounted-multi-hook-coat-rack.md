@@ -21,8 +21,8 @@ packaging_detail: Each hook rack individually wrapped in PE film + bubble bag; 2
 faq_content: "Q: Can the hook spacing be customized? A: Yes; our mold workshop can adjust hook spacing from 60mm to 120mm and base length accordingly for orders above 500 pcs. | Q: What is the maximum load per hook? A: Each hook is tested to hold 15kg static load; the 5-hook rack supports 50kg total distributed load. | Q: Do you provide installation screws and wall anchors? A: Yes; matching screws and plastic wall anchors are included in the packaging at no extra cost."
 image: "https://img.toolsd.com/file/1783331887697_706-9.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783331887697_706-9.jpg'
-  - 'https://img.toolsd.com/file/1783331889928_706-10.jpg'
+  - "https://img.toolsd.com/file/1783331887697_706-9.jpg"
+  - "https://img.toolsd.com/file/1783331889928_706-10.jpg"
 keywords: wall mounted coat rack, zinc alloy hook rack, multi hook coat rack, decorative wall hook, hotel coat rack, bathroom towel rack, wall mounted hook set, garment hook rack, closet organizer hook, entryway coat hook
 draft: false
 date: "2026-07-01T12:00:00+08:00"

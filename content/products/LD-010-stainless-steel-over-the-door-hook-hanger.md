@@ -21,7 +21,7 @@ packaging_detail: Each hanger in individual PE bag + header card; 50-100 pcs per
 faq_content: "Q: Will it damage the door paint? A: No; soft EVA pads on the back prevent scratching and distribute weight evenly. | Q: What door thickness does it fit? A: Standard fit is 35-45mm; custom springs can accommodate 30-50mm for bulk orders. | Q: Can the hook count be customized? A: Yes; we offer 1-hook to 5-hook configurations with custom spacing per your requirements."
 image: "https://img.toolsd.com/file/1783331889928_706-10.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783331889928_706-10.jpg'
+  - "https://img.toolsd.com/file/1783331889928_706-10.jpg"
 keywords: over the door hook, stainless steel door hanger, bathroom door hook, closet door organizer, tool free hook hanger, coat hook door, towel hook over door, bedroom door hanger, rental apartment hook, space saving hook
 draft: false
 date: "2026-07-01T12:00:00+08:00"

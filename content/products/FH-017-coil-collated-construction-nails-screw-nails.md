@@ -21,7 +21,7 @@ packaging_detail: Carton 1200-3000 nails per carton; Shrink-wrapped pallet; Cust
 faq_content: "Q: What is the difference between ring shank and screw shank? A: Ring shank has annular rings for grip; screw shank has helical threads for maximum withdrawal resistance. Screw is best for structural framing. | Q: Can these be used in pressure-treated lumber? A: Yes; hot-dip galvanized or stainless steel nails resist the ACQ chemicals in pressure-treated wood. | Q: How many coils per carton? A: Standard is 20-40 coils per carton depending on coil count (120 nails vs 300 nails per coil)."
 image: "https://img.toolsd.com/file/1783342135348_706-15.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783342135348_706-15.jpg'
+  - "https://img.toolsd.com/file/1783342135348_706-15.jpg"
 keywords: coil collated nails, screw shank nail, construction nails, framing nails, coil nails, ring shank nail, collated nail coil, pneumatic nail gun nails, pallet nails, decking nails
 price_range: $0.008 - $0.04 / pc
 draft: false

@@ -13,8 +13,8 @@ tags:
 summary: Light-duty cam buckle tie-down straps with quick-release cam mechanisms and vinyl-coated hooks for securing light cargo kayaks bicycles and household items on roof racks.
 image: "https://img.toolsd.com/file/1782974706796_702-18.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782974706796_702-18.jpg'
-  - 'https://img.toolsd.com/file/1782974709929_702-19.jpg'
+  - "https://img.toolsd.com/file/1782974706796_702-18.jpg"
+  - "https://img.toolsd.com/file/1782974709929_702-19.jpg"
 moq: 500 sets
 price_range: $1.00 - $3.50 / set
 material: Polyester Webbing + Zinc-Alloy Cam Buckle + Vinyl-Coated S-Hook

@@ -21,8 +21,8 @@ packaging_detail: Bulk in carton 500-1000 pcs; Blister card 2-4 pcs per pack; Ex
 faq_content: "Q: What embedment depth is required for M10? A: M10 requires minimum 80mm embedment in concrete with 100mm total bolt length. | Q: Can these be used in hollow brick? A: These are designed for solid concrete and masonry; for hollow brick use our nylon expansion anchors. | Q: What is the pull-out strength? A: M8 in C30 concrete achieves approximately 8kN pull-out resistance; M12 achieves 18kN."
 image: "https://img.toolsd.com/file/1783339889888_706-14.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783339889888_706-14.jpg'
-  - 'https://img.toolsd.com/file/1783339897022_706-13.jpg'
+  - "https://img.toolsd.com/file/1783339889888_706-14.jpg"
+  - "https://img.toolsd.com/file/1783339897022_706-13.jpg"
 keywords: expansion sleeve anchor, eye bolt anchor, ring anchor bolt, concrete anchor, masonry anchor, zinc plated anchor, sleeve anchor hook, ceiling anchor bolt, pipe hanging anchor, structural anchor
 price_range: $0.08 - $1.20 / pc
 draft: false

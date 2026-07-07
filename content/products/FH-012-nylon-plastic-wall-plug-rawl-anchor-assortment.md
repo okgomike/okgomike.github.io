@@ -21,8 +21,8 @@ packaging_detail: Bulk poly-bag 100-500 pcs; Color box 20-50 pcs per box; Bliste
 faq_content: "Q: What screw size matches each plug? A: M5 plug uses 3-4mm screw; M6 uses 4-5mm; M8 uses 5-6mm; M10 uses 6-8mm; M12 uses 8-10mm. | Q: Can these be removed after installation? A: Yes; the through-hole design allows screw removal and reinsertion without damaging the plug. | Q: Are these suitable for ceiling use? A: For light-duty ceiling items under 5kg; for heavier ceiling loads use our metal expansion anchors."
 image: "https://img.toolsd.com/file/1783339897022_706-13.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783339897022_706-13.jpg'
-  - 'https://img.toolsd.com/file/1783339889888_706-14.jpg'
+  - "https://img.toolsd.com/file/1783339897022_706-13.jpg"
+  - "https://img.toolsd.com/file/1783339889888_706-14.jpg"
 keywords: nylon wall plug, plastic wall anchor, rawl plug, drywall anchor, expansion plug, color coded wall plug, tile anchor, concrete wall plug, masonry plug, multi size anchor assortment
 price_range: $0.005 - $0.06 / pc
 draft: false

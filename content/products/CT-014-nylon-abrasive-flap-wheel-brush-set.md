@@ -13,8 +13,8 @@ tags:
 summary: Multi-purpose nylon abrasive flap wheels and brushes for deburring polishing and surface finishing on metal wood and plastic without loading or gouging.
 image: "https://img.toolsd.com/file/1782971182386_702-10.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782971182386_702-10.jpg'
-  - 'https://img.toolsd.com/file/1782971176741_702-11.jpg'
+  - "https://img.toolsd.com/file/1782971182386_702-10.jpg"
+  - "https://img.toolsd.com/file/1782971176741_702-11.jpg"
 moq: 500 pcs
 price_range: $0.80 - $2.50 / pc
 material: Nylon Fiber + Silicon Carbide / Aluminum Oxide Abrasive Grain

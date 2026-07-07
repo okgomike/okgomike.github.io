@@ -19,7 +19,7 @@ specifications: "Body Material: Q235 Carbon Steel / 304 Stainless Steel | Lining
 faq: "Q: What is the purpose of the rubber lining? A: The rubber lining prevents metal-to-metal contact reduces vibration noise and protects pipe coatings from abrasion. | Q: Can these support copper pipes? A: Yes; the rubber lining is compatible with copper PVC PPR and steel pipes without causing galvanic corrosion. | Q: What bolt size do I need for heavy pipes? A: M8 bolts for pipes up to 80mm; M10 bolts for 100mm and larger pipes. | Q: Are stainless steel clamps available for outdoor use? A: Yes; 304 stainless steel body with EPDM rubber lining resists UV and weather exposure."
 image: "https://img.toolsd.com/file/1782975404270_702-20.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782975404270_702-20.jpg'
+  - "https://img.toolsd.com/file/1782975404270_702-20.jpg"
 keywords: pipe clamp, split ring clamp, rubber lined pipe clamp, conduit clamp, Munsen ring clamp, HVAC pipe support, plumbing clamp, two bolt pipe clamp, EPDM rubber pipe clamp, heavy duty pipe clamp
 long_tail_keywords: rubber lined pipe clamp set wholesale, split ring pipe clamp for HVAC installation, stainless steel pipe clamp with EPDM lining, heavy duty Munsen ring clamp for fire protection, plumbing pipe support clamp assortment
 draft: false

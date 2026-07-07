@@ -21,8 +21,8 @@ packaging_detail: Cardboard box 1kg-5kg per box; Export carton 20-40 boxes; Shri
 faq_content: "Q: Can these be used on reinforced concrete? A: These work best on standard concrete and brick; reinforced concrete with rebar near surface may deflect nails. Pre-drill a pilot hole for hard concrete. | Q: What is the difference between zinc and copper plating? A: Zinc provides general corrosion resistance; copper is often specified for roofing nails where galvanic compatibility with copper flashing matters. | Q: Can pneumatic nailers drive these? A: Yes; these nails are compatible with most concrete nail guns rated for the appropriate length and diameter."
 image: "https://img.toolsd.com/file/1783339889888_706-14.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783339889888_706-14.jpg'
-  - 'https://img.toolsd.com/file/1783339897022_706-13.jpg'
+  - "https://img.toolsd.com/file/1783339889888_706-14.jpg"
+  - "https://img.toolsd.com/file/1783339897022_706-13.jpg"
 keywords: concrete nail, masonry nail, hardened nail, high carbon steel nail, concertina groove nail, roofing nail, brick nail, concrete pin, pneumatic concrete nail, construction nail
 price_range: $0.005 - $0.15 / pc
 draft: false

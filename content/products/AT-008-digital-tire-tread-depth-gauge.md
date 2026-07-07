@@ -19,7 +19,7 @@ specifications: "Body Material: ABS Engineering Plastic | Probe Material: 304 St
 faq: "Q: How do I replace the battery? A: Remove the small screw on the back cover; replace with one LR44 or AG13 1.5V alkaline button cell. | Q: Can this measure brake pad thickness? A: Yes; the narrow probe tip can measure brake pad material thickness in addition to tire tread depth. | Q: What tread depth indicates tire replacement? A: Most jurisdictions require minimum 1.6mm (2/32 inch); we recommend replacement at 3mm for safety in wet conditions. | Q: Is the probe rust-resistant? A: Yes; the 304 stainless steel probe resists corrosion from road salt and moisture."
 image: "https://img.toolsd.com/file/1782976209618_702-23.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782976209618_702-23.jpg'
+  - "https://img.toolsd.com/file/1782976209618_702-23.jpg"
 keywords: digital tire tread depth gauge, tire depth gauge, LCD tire gauge, automotive tire gauge, tire tread meter, digital tire tester, tire safety gauge, tire wear gauge, metric inch tire gauge, CE tire gauge
 long_tail_keywords: LCD digital tire tread depth gauge wholesale, automotive tire safety inspection tool, 0-25mm digital tire gauge with stainless probe, CE certified tire tread meter, pocket tire depth gauge for auto shop
 draft: false

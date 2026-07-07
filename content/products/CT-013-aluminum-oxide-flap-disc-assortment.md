@@ -14,8 +14,8 @@ tags:
 summary: Industrial-grade aluminum oxide flap discs for metal grinding deburring and finishing available in multiple grits and diameters with fiberglass backing plate.
 image: "https://img.toolsd.com/file/1782971182386_702-10.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782971182386_702-10.jpg'
-  - 'https://img.toolsd.com/file/1782971176741_702-11.jpg'
+  - "https://img.toolsd.com/file/1782971182386_702-10.jpg"
+  - "https://img.toolsd.com/file/1782971176741_702-11.jpg"
 moq: 1000 pcs
 price_range: $0.15 - $0.45 / pc
 material: Aluminum Oxide / Zirconia Alumina + Fiberglass Backing

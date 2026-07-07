@@ -21,8 +21,8 @@ packaging_detail: Individual color box with mounting template and screws; 6-10 p
 faq_content: "Q: What EN grade do I need for a 60kg office door? A: EN 3 is suitable for 40-60kg doors; EN 4 for 60-80kg; EN 5 for 80-100kg. We offer EN 2 through EN 6. | Q: Can floor springs be used on wood floors? A: Yes; our floor springs include a floor plate that mounts flush with finished flooring. Cutout dimensions provided. | Q: What is the warranty on hydraulic door closers? A: Standard warranty is 2 years; extended 5-year warranty available for premium models."
 image: "https://img.toolsd.com/file/1783344966404_706-17.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783344966404_706-17.jpg'
-  - 'https://img.toolsd.com/file/1783344965796_706-18.jpg'
+  - "https://img.toolsd.com/file/1783344966404_706-17.jpg"
+  - "https://img.toolsd.com/file/1783344965796_706-18.jpg"
 keywords: hydraulic door closer, floor spring, automatic door closer, commercial door closer, door control hardware, fire rated door closer, hold open door closer, overhead door closer, concealed door closer, door damper
 price_range: $4.50 - $35.00 / pc
 draft: false

@@ -19,7 +19,7 @@ specifications: "Material: Q235 Carbon Steel / 304 Stainless Steel / 316 Stainle
 faq: "Q: What is the difference between galvanized and hot-dip galvanized? A: Hot-dip galvanizing provides thicker zinc coating (50-80 microns) for 20+ year outdoor corrosion protection; electro-galvanizing is thinner (5-10 microns) for indoor use. | Q: Can U-bolts be used for square or rectangular tubes? A: Standard U-bolts fit round pipes; square U-bolts are available for square and rectangular structural tubing. | Q: What nut size matches each U-bolt? A: M6 U-bolt uses M6 nut; M8 uses M8 nut etc. Hex nuts and flange nuts are both available. | Q: Are spring clips reusable? A: Spring clips can be reused several times if not overstretched; inspect for fatigue cracks before reuse."
 image: "https://img.toolsd.com/file/1782975404270_702-20.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782975404270_702-20.jpg'
+  - "https://img.toolsd.com/file/1782975404270_702-20.jpg"
 keywords: U-bolt, spring clip, wire clamp, cable clamp, DIN 3570 U-bolt, exhaust pipe clamp, suspension U-bolt, marine U-bolt, hose spring clip, pipe support U-bolt
 long_tail_keywords: carbon steel U-bolt with plate and nut wholesale, stainless steel U-bolt for marine exhaust pipe, heavy duty spring clip for hose securing, square U-bolt for rectangular tubing, hot dip galvanized U-bolt for outdoor construction
 draft: false

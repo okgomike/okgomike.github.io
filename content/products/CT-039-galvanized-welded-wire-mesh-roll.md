@@ -21,8 +21,8 @@ packaging_detail: Each roll wrapped in moisture-proof paper + plastic film; 20-5
 faq_content: "Q: What mesh size do I need for chicken coop? A: 25×25mm with 1.8mm wire is standard for poultry; 50×50mm works for larger animals like dogs. | Q: How long does galvanized coating last outdoors? A: Hot-dip galvanized 60g/m2 lasts 10-15 years in normal climates; PVC coated extends to 20+ years. | Q: Can rolls be cut to custom lengths? A: Yes; we can cut rolls to any length from 5m to 30m per your project requirements."
 image: "https://img.toolsd.com/file/1783342135348_706-15.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783342135348_706-15.jpg'
-  - 'https://img.toolsd.com/file/1783342127935_706-16.jpg'
+  - "https://img.toolsd.com/file/1783342135348_706-15.jpg"
+  - "https://img.toolsd.com/file/1783342127935_706-16.jpg"
 keywords: welded wire mesh, galvanized wire mesh, wire mesh roll, fencing mesh, construction mesh, PVC coated wire mesh, animal enclosure mesh, gabion mesh, concrete reinforcement mesh, farm fence mesh
 price_range: $0.80 - $3.50 / sqm
 draft: false

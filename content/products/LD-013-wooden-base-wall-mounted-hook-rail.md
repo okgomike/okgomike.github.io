@@ -21,7 +21,7 @@ packaging_detail: Each rail in PE sleeve + bubble wrap; 20-30 pcs per carton wit
 faq_content: "Q: What wood species are available? A: Standard is Paulownia (lightweight); upgrades include Oak, Bamboo, Walnut, and Rubberwood. FSC certification available. | Q: Can I mix hook colors on one rail? A: Yes; we can assemble chrome, matte black, and brass hooks on the same wooden base per your design. | Q: Is the wood treated for humidity resistance? A: Yes; all wood bases receive moisture-resistant lacquer coating suitable for normal indoor use."
 image: "https://img.toolsd.com/file/1783331889928_706-10.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783331889928_706-10.jpg'
+  - "https://img.toolsd.com/file/1783331889928_706-10.jpg"
 keywords: wooden coat hook rack, natural wood hook rail, rustic wall hook, scandinavian coat rack, entryway organizer, wooden towel hook, farmhouse wall hook, wood and metal hook, home decor hook, wooden hanger rack
 draft: false
 date: "2026-07-01T12:00:00+08:00"

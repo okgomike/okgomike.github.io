@@ -19,7 +19,7 @@ specifications: "Material: Q235 Carbon Steel / 304 Stainless Steel | Finish: Gal
 faq: "Q: What thickness do I need for shelf brackets? A: 2.0mm-3.0mm thickness for shelves holding 20kg+; 1.2mm-1.5mm for light decorative shelves under 10kg. | Q: Are stainless steel brackets suitable for outdoor furniture? A: Yes; 304 stainless steel resists rain and humidity; 316 grade recommended for coastal salt air environments. | Q: Can I get custom hole patterns? A: Yes; custom hole spacing diameter and slot patterns available for orders over 5,000 pcs. | Q: What is the difference between corner brace and gusset plate? A: Corner braces are flat right-angle plates; gusset plates are triangular reinforcements that provide greater rigidity for structural frames."
 image: "https://img.toolsd.com/file/1782975404199_702-21.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782975404199_702-21.jpg'
+  - "https://img.toolsd.com/file/1782975404199_702-21.jpg"
 keywords: corner brace, L-bracket, metal bracket, shelf bracket, T-bracket, mending plate, gusset plate, flat bracket, steel angle bracket, structural connector
 long_tail_keywords: galvanized steel corner brace assortment wholesale, stainless steel L-bracket for outdoor furniture, heavy duty shelf bracket 3mm thickness, custom hole pattern metal bracket manufacturer, flat mending plate for wood repair
 draft: false

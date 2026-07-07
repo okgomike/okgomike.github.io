@@ -21,8 +21,8 @@ packaging_detail: Each pair in individual PE bag + inner box; 20-50 pairs per ca
 faq_content: "Q: What length slide for a 450mm deep drawer? A: Use a 450mm slide for full extension. Standard practice: slide length equals drawer depth. | Q: What is the difference between half and full extension? A: Half extension opens 75% of slide length; full extension opens 100% for complete drawer access. | Q: Can these support heavy files in office cabinets? A: Yes; our 45kg rated slides support full filing cabinets. For extra heavy loads, 60kg custom slides are available."
 image: "https://img.toolsd.com/file/1783344965796_706-18.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783344965796_706-18.jpg'
-  - 'https://img.toolsd.com/file/1783344966404_706-17.jpg'
+  - "https://img.toolsd.com/file/1783344965796_706-18.jpg"
+  - "https://img.toolsd.com/file/1783344966404_706-17.jpg"
 keywords: drawer slide rail, ball bearing slide, full extension slide, cabinet drawer slide, telescopic drawer runner, furniture slide rail, kitchen drawer slide, soft close drawer slide, push to open slide, wardrobe slide
 price_range: $0.45 - $3.20 / pair
 draft: false

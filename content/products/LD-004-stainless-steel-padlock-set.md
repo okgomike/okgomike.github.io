@@ -13,8 +13,8 @@ tags:
 summary: Marine-grade stainless steel padlocks with rust-resistant bodies and shackles for outdoor marine industrial and high-humidity environments requiring long-term corrosion protection.
 image: "https://img.toolsd.com/file/1782974128950_702-16.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782974128950_702-16.jpg'
-  - 'https://img.toolsd.com/file/1782974128748_702-17.jpg'
+  - "https://img.toolsd.com/file/1782974128950_702-16.jpg"
+  - "https://img.toolsd.com/file/1782974128748_702-17.jpg"
 moq: 1000 pcs
 price_range: $0.80 - $4.00 / pc
 material: 304 / 201 Stainless Steel Body + Stainless Steel Shackle

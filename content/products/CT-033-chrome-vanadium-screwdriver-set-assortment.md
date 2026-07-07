@@ -21,8 +21,8 @@ packaging_detail: Each set in plastic organizer case or canvas pouch; Blister ca
 faq_content: "Q: Are the insulated screwdrivers safe for live electrical work? A: Yes; the 1000V AC rated option is tested per IEC 60900 for electrician use on live circuits up to 1000V. | Q: What is the warranty on CR-V shafts? A: We offer 12-month replacement warranty against shaft bending or tip breakage under normal use. | Q: Can you match my existing handle design? A: Yes; send us a sample and we can replicate or modify the handle geometry with our mold workshop."
 image: "https://img.toolsd.com/file/1783338319036_706-12.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783338319036_706-12.jpg'
-  - 'https://img.toolsd.com/file/1783338316185_706-11.jpg'
+  - "https://img.toolsd.com/file/1783338319036_706-12.jpg"
+  - "https://img.toolsd.com/file/1783338316185_706-11.jpg"
 keywords: screwdriver set, CR-V screwdriver, Phillips screwdriver, flathead screwdriver, insulated screwdriver, magnetic tip screwdriver, ergonomic screwdriver, electrician screwdriver, mechanic screwdriver set, professional screwdriver
 draft: false
 date: "2026-07-02T09:00:00+08:00"

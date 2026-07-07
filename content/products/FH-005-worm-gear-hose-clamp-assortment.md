@@ -19,8 +19,8 @@ specifications: "Band Material: 201 SS / 304 SS / Galvanized Steel | Housing Mat
 faq: "Q: What is the difference between 201 and 304 stainless steel? A: 304 offers superior corrosion resistance for marine and food applications; 201 is more economical for general use. | Q: Can these be used for high-pressure hoses? A: Yes; heavy-duty 12mm wide clamps with 0.8mm thick bands handle high-pressure hydraulic and pneumatic hoses. | Q: Are colored handles available? A: Yes; plastic wing nut handles in red blue green yellow and black available for hand-tightening models. | Q: What is the maximum tightening torque? A: Standard clamps tolerate 3.5-5.5 Nm; heavy-duty models up to 8 Nm without band distortion."
 image: "https://img.toolsd.com/file/1782975404270_702-20.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782975404270_702-20.jpg'
-  - 'https://img.toolsd.com/file/1782975404199_702-21.jpg'
+  - "https://img.toolsd.com/file/1782975404270_702-20.jpg"
+  - "https://img.toolsd.com/file/1782975404199_702-21.jpg"
 keywords: worm gear hose clamp, stainless steel hose clamp, automotive hose clamp, DIN 3017 clamp, pipe clamp assortment, adjustable hose clamp, hydraulic hose clamp, plumbing clamp, 201 stainless steel clamp, 304 stainless steel clamp
 long_tail_keywords: bulk worm gear hose clamps wholesale, stainless steel hose clamp assortment for automotive repair, DIN 3017 hose clamp manufacturer China, heavy duty 12mm band hose clamp for high pressure, adjustable hose clamp with wing nut handle
 draft: false

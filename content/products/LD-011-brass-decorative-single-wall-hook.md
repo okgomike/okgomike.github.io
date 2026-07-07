@@ -21,8 +21,8 @@ packaging_detail: Each hook in velvet drawstring pouch + foam insert; 30-50 pcs 
 faq_content: "Q: Is this real solid brass or plated? A: Standard is solid brass H59; economy option uses zinc alloy with thick brass plating. Both are clearly labeled. | Q: Will the brass tarnish in humid bathrooms? A: Genuine brass develops a natural patina; lacquer coating option prevents tarnishing for 3+ years. | Q: Can I get matching towel bars and toilet paper holders? A: Yes; we have 6 complete bathroom accessory collections that match this hook design."
 image: "https://img.toolsd.com/file/1783331887697_706-9.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783331887697_706-9.jpg'
-  - 'https://img.toolsd.com/file/1783331889928_706-10.jpg'
+  - "https://img.toolsd.com/file/1783331887697_706-9.jpg"
+  - "https://img.toolsd.com/file/1783331889928_706-10.jpg"
 keywords: brass wall hook, solid brass hook, decorative wall hook, antique brass hook, luxury bathroom hook, robe hook brass, coat hook decorative, hotel hook hardware, vintage wall hook, designer hook
 draft: false
 date: "2026-07-01T12:00:00+08:00"

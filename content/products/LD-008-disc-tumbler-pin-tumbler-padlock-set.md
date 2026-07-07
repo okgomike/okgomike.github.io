@@ -13,8 +13,8 @@ tags:
 summary: Comprehensive padlock set featuring both disc tumbler and pin tumbler mechanisms across brass iron and stainless steel bodies for residential commercial and industrial security applications.
 image: "https://img.toolsd.com/file/1782974128950_702-16.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782974128950_702-16.jpg'
-  - 'https://img.toolsd.com/file/1782974128748_702-17.jpg'
+  - "https://img.toolsd.com/file/1782974128950_702-16.jpg"
+  - "https://img.toolsd.com/file/1782974128748_702-17.jpg"
 moq: 1000 pcs
 price_range: $0.40 - $3.00 / pc
 material: Brass / Iron / Stainless Steel Body + Hardened Steel Shackle

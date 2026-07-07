@@ -13,8 +13,8 @@ tags:
 summary: Industrial-grade polyester ratchet tie-down straps with zinc-plated steel ratchet buckles and vinyl-coated S-hooks for securing cargo on trucks trailers and flatbeds.
 image: "https://img.toolsd.com/file/1782974706796_702-18.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782974706796_702-18.jpg'
-  - 'https://img.toolsd.com/file/1782974709929_702-19.jpg'
+  - "https://img.toolsd.com/file/1782974706796_702-18.jpg"
+  - "https://img.toolsd.com/file/1782974709929_702-19.jpg"
 moq: 500 sets
 price_range: $2.50 - $8.00 / set
 material: High-Tenacity Polyester Webbing + Zinc-Plated Steel Buckle + Vinyl-Coated S-Hook

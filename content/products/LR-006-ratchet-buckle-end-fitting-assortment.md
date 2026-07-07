@@ -13,8 +13,8 @@ tags:
 summary: Individual ratchet buckles end fittings and replacement hardware for building custom tie-down straps repairing damaged straps and creating specialized lashing solutions.
 image: "https://img.toolsd.com/file/1782974706796_702-18.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1782974706796_702-18.jpg'
-  - 'https://img.toolsd.com/file/1782974709929_702-19.jpg'
+  - "https://img.toolsd.com/file/1782974706796_702-18.jpg"
+  - "https://img.toolsd.com/file/1782974709929_702-19.jpg"
 moq: 1000 pcs
 price_range: $0.50 - $2.50 / pc
 material: Zinc-Plated Steel / Chrome-Plated Steel / Aluminum Alloy
