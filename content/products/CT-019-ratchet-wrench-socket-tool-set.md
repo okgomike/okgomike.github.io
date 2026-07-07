@@ -19,8 +19,8 @@ moq: 500 pcs
 price_range: $2.50 - $12.00 / pc
 material: Chrome Vanadium Steel (Cr-V) + Chrome Plated Finish
 standard: ISO 9001 / DIN 3120
-surface: Chrome Plated / Mirror Polished
-size_range: Drive Size: 1/4" / 3/8" / 1/2" | Socket Size: 4mm - 32mm | Length: 135mm - 280mm
+surface: "Chrome Plated / Mirror Polished"
+size_range: Drive Size: "1/4" / "3/8" / "1/2" | Socket Size: 4mm - 32mm | Length: 135mm - 280mm
 packing: Blister card / Metal tool case; 1-94 pcs per set
 sample: Sample available within 5 days
 customization: OEM/ODM accepted; custom laser logo, color handle and case branding
