@@ -25,9 +25,9 @@ specifications: 'Material: High Tensile Carbon Steel Grade 5.8 / Grade 8.8 | Sur
 # 问答统一分隔符 |，外层单引号适配Hugo模板split拆分逻辑
 faq_content: 'Q: What is the working principle of chemical anchor bolt?: A: It relies on curing resin capsule to form integrated bonding between stud and concrete base, providing stronger holding force than mechanical expansion anchors. | Q: What steel strength grades are provided?: A: Standard Grade 5.8 for general civil construction; high tensile Grade 8.8 for heavy load structural engineering projects. | Q: What complete sizes does this series cover?: A: Full range M8 to M20 with varied embedment lengths, embedment depth from 80mm to 200mm for different wall thicknesses. | Q: What accessories are included in one complete set?: A: Each set contains anchor stud, hex nut, flat washer and matched chemical resin capsule for one-step installation. | Q: Can these anchors bear heavy structural loads?: A: Yes, Grade 8.8 chemical anchors fully meet engineering standards for high-load structural steel connection and bridge construction. | Q: Is hot dip galvanized surface finish available?: A: Hot dip galvanized treatment is optional, offering superior anti-corrosion performance for coastal and outdoor long-term exposure scenarios.'
 # 统一模板图片字段，弃用image_url
-image: "https://img.toolsd.com/file/1783338319036_706-12.jpg"
+image: "https://img.toolsd.com/file/1783423505955_707-5.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783342127935_706-16.jpg'
+  - 'https://img.toolsd.com/file/1783423504424_707-4.jpg'
 keywords: chemical anchor bolt, expansion bolt, construction fastener, concrete anchor, chem anchor bolt, heavy duty anchor, structural anchor, high strength anchor, building bolt, masonry fixing anchor, anchor stud, chemical resin capsule, DIN 529 anchor, ISO 898-1 bolt
 draft: false
 date: "2026-07-07T12:00:00+08:00"
