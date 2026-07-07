@@ -21,7 +21,7 @@ faq: "What sizes are included? | M6 to M16 with various lengths 60-150mm. Each s
 description: "Complete expansion bolt wall anchor assortment featuring carbon steel sleeve anchors with matching nuts and washers. Available in M6 through M16 sizes with multiple length options from 60mm to 150mm. Zinc plated surface treatment ensures corrosion resistance for both indoor and outdoor construction applications. Each set includes the expansion bolt nut washer and shield anchor for immediate installation. Ideal for concrete brick and masonry fixing projects in construction and renovation."
 keywords: "expansion bolt, wall anchor, sleeve anchor, concrete anchor, shield anchor, fixing bolt, masonry fastener, construction anchor, heavy duty anchor, zinc plated anchor, carbon steel bolt, anchor bolt set, anchor bolt assortment, concrete fixing bolt, brick wall anchor"
 long_tail_keywords: "wholesale expansion bolt assortment, heavy duty wall anchor bulk, construction sleeve anchor set, masonry anchor bolt with nut washer, carbon steel expansion bolt M6 M8 M10 M12 M16, zinc plated concrete anchor wholesale, building fixing bolt manufacturer Yiwu, OEM anchor bolt packaging, construction fastener supplier China, anchor bolt sample available"
-image: "https://img.toolsd.com/file/1783423504424_707-4.jpg"
+image: https://img.toolsd.com/file/1783423504424_707-4.jpg
 gallery: ["https://img.toolsd.com/file/1783423505955_707-5.jpg"]
 date: "2026-07-07T12:00:00+08:00"
 draft: false
