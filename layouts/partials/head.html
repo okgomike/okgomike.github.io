@@ -3,7 +3,7 @@
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
 
 {{ $desc := "" }}
-{{ if .Params.summary }}{{ $desc = .Params.summary }}{{ else if .Params.description }}{{ $desc = .Params.description }}{{ else if .Site.Params.description }}{{ $desc = .Site.Params.description }}{{ end }}
+{{ if .Params.summary }}{{ $desc = .Params.summary }}{{ else if .Params.meta_description }}{{ $desc = .Params.meta_description }}{{ else if .Params.description }}{{ $desc = .Params.description }}{{ else if .Site.Params.description }}{{ $desc = .Site.Params.description }}{{ end }}
 <meta name="description" content="{{ $desc }}">
 <meta name="author" content="{{ .Site.Params.author }}">
 
