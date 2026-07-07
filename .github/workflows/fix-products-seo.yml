@@ -1,0 +1,33 @@
+name: Fix Products SEO (One-Time)
+
+on:
+  workflow_dispatch:  # 手动触发，不会自动跑
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 允许推送修改
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Run fix script
+        run: python fix_products_seo.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/products/
+          git diff --staged --quiet || git commit -m "fix: auto-add date+draft to products for SEO [skip ci]"
+          git push
