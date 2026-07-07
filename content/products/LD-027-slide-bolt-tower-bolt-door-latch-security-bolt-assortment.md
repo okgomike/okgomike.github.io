@@ -25,9 +25,9 @@ specifications: 'Material: Die-Cast Zinc Alloy / Stainless Steel / Wrought Iron 
 # 问答统一分隔符 |，外层单引号适配Hugo模板拆分逻辑
 faq_content: 'Q: What slide bolt lengths are available?: A: Standard sizes cover 3 inch, 4 inch, 5 inch, 6 inch and 8 inch, with bolt rod diameters ranging from 8mm to 12mm. | Q: What raw material options do you supply?: A: Main die-cast zinc alloy for daily use; stainless steel and solid iron for heavy-duty gate security scenarios. | Q: What surface finish styles can I choose?: A: Zinc white electroplating, matte black powder coat, brass tone plating and bright chrome plating are all optional. | Q: Are matching installation accessories included?: A: Each single bolt set comes with a matched strike plate and complete mounting screws for instant installation. | Q: Can I order spring-loaded auto locking slide bolts?: A: Yes, customized spring automatic locking slide bolts are available upon bulk order request. | Q: What is the custom size MOQ?: A: Standard 300pcs MOQ for regular sizes; customized non-standard bolt lengths require minimum 500pcs.'
 # 适配模板图片字段，弃用image_url
-image: "https://img.toolsd.com/file/1783338319036_706-12.jpg"
+image: "https://img.toolsd.com/file/1783423504424_707-4.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783338316185_706-11.jpg'
+  - 'https://img.toolsd.com/file/1783423505955_707-5.jpg'
 keywords: slide bolt, tower bolt, door latch, barrel bolt, security bolt, gate latch, cabinet bolt, spring loaded slide bolt, zinc alloy tower bolt, stainless steel door bolt, chrome plated slide bolt, brass finish gate bolt, household security hardware
 draft: false
 date: "2026-07-07T12:00:00+08:00"
