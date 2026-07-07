@@ -25,9 +25,9 @@ specifications: 'Material: Cold Rolled Steel / Stainless Steel / Die-Cast Zinc A
 # 问答统一分隔符 |，外层单引号适配Hugo模板拆分逻辑
 faq_content: 'Q: What is the difference between self-locking and ordinary hasp?: A: Self-locking hasps adopt built-in spring structure to auto fasten after closing; ordinary models need padlock to lock manually. | Q: What raw material options do you offer?: A: Standard cold rolled steel for general use; stainless steel for anti-corrosion outdoor scenes; lightweight zinc alloy for furniture drawers & small boxes. | Q: What complete lengths and thicknesses are available?: A: Four mainstream lengths 2.5/3/4/4.5 inch, plate thickness ranges from 1.2mm to 2.0mm for different load demands. | Q: Are matching installation accessories included?: A: Every hasp set comes with matched staple and full mounting screws for one-step installation. | Q: Can I customize exclusive powder coat colors?: A: Custom color powder coating service is available for bulk orders above 500 pieces. | Q: What is the order MOQ rule?: A: 300pcs MOQ for single size; mixed multiple sizes are allowed if total quantity reaches 500 pcs.'
 # 适配模板图片字段，弃用image_url
-image: "https://img.toolsd.com/file/1783338319036_706-12.jpg"
+image: "https://img.toolsd.com/file/1783423504424_707-4.jpg"
 gallery:
-  - 'https://img.toolsd.com/file/1783342127935_707-5.jpg'
+  - 'https://img.toolsd.com/file/1783423505955_707-5.jpg'
 keywords: hasp lock, padlock hasp, self locking hasp, door hasp, drawer lock hasp, box hasp, cabinet hasp, safety metal hasp, hasp and staple, spring locking hasp, steel security hasp, toolbox latch, storage cabinet lock
 draft: false
 date: "2026-07-07T12:00:00+08:00"
