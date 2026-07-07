@@ -7,7 +7,8 @@ category_2: Door Hinges & Hardware
 main_keyword: brass door hinge
 long_tail_keywords: wholesale brass door hinge OEM, gold plated decorative hinge bulk supplier, luxury hotel door hinge importer, antique brass hinge factory direct, LD-016-brass-hinge
 material: Solid Brass H59 / Stainless Steel 304 with PVD Gold Plating / Zinc Alloy with Gold Electroplating
-size: "Size: 3" (75mm) / 4" (100mm) / 5" (125mm); Thickness: 2.5mm / 3.0mm; Pin: Solid Brass / Stainless Steel; Finish: Polished Gold / Brushed Gold / Antique Gold / Rose Gold / Matte Black"
+# 单引号包裹，解决内部冒号+英寸符号触发YAML mapping语法报错
+size: 'Size: 3" (75mm) / 4" (100mm) / 5" (125mm); Thickness: 2.5mm / 3.0mm; Pin: Solid Brass / Stainless Steel; Finish: Polished Gold / Brushed Gold / Antique Gold / Rose Gold / Matte Black'
 net_weight: 3" Pair 220g; 4" Pair 380g; 5" Pair 550g
 color_options: Polished Gold / Brushed Gold / Antique Gold / Rose Gold / Chrome / Matte Black / Oil-Rubbed Bronze
 core_features: Solid brass or PVD gold plating maintains color for 10+ years without tarnishing; Decorative engraved patterns and finial tips match luxury interior themes; Heavy-duty brass pin withstands 80kg door weight per pair; Silent nylon washer insert eliminates squeaking; Concealed bearing cap hides fasteners for premium appearance; Matching door handles and accessories available in same finish
@@ -18,7 +19,8 @@ oem_odm_service: Logo engraving on hinge leaf; Custom decorative pattern and fin
 moq: 500pcs
 production_lead_time: Samples 5-7 days (hand finishing); 1000-3000pcs 15-20 days; 5000pcs+ 25-30 days
 packaging_detail: Each pair in velvet pouch + foam insert; 20-40 pairs per carton with divider; Custom gift box with logo available; Pallet loading for sea freight
-faq_content: "Q: Will the gold plating tarnish in humid bathrooms? A: PVD plating resists tarnishing; solid brass develops a natural patina. Lacquer coating available for additional protection. | Q: What is the difference between PVD and electroplating? A: PVD vacuum deposition is 5x more durable than wet electroplating and resists scratching and fading. | Q: Can I get matching door handles? A: Yes; we offer 6 coordinated collections including handles, hinges, stops, and accessories in matching finishes."
+# FAQ外层改为单引号，内部英寸双引号无需转义，杜绝嵌套引号解析错误
+faq_content: 'Q: Will the gold plating tarnish in humid bathrooms? A: PVD plating resists tarnishing; solid brass develops a natural patina. Lacquer coating available for additional protection. | Q: What is the difference between PVD and electroplating? A: PVD vacuum deposition is 5x more durable than wet electroplating and resists scratching and fading. | Q: Can I get matching door handles? A: Yes; we offer 6 coordinated collections including handles, hinges, stops, and accessories in matching finishes.'
 image: "https://img.toolsd.com/file/1783344965796_706-18.jpg"
 gallery:
   - 'https://img.toolsd.com/file/1783344965796_706-18.jpg'
@@ -30,6 +32,8 @@ date: "2026-07-01T12:00:00+08:00"
 slug: ld-016-brass-gold-plated-decorative-door-hinge-set
 ---
 
-This brass gold-plated decorative door hinge set brings luxury and sophistication to high-end hotel, residential, and heritage interior doors. Available in solid brass H59 for genuine material authenticity or stainless steel 304 with PVD gold plating for maximum durability, these hinges maintain their brilliant color for over 10 years without tarnishing or fading.
+This brass gold-plated decorative door hinge set delivers luxury and refined aesthetics for high-end hotel, residential villa, heritage restoration and premium commercial interior doors. Choose genuine solid H59 brass or 304 stainless steel with PVD vacuum gold plating; both variants retain bright metallic luster for over 10 years without tarnish or discoloration.
 
-The PVD vacuum deposition process creates a coating five times more durable than traditional wet electroplating, resisting scratching, fading, and chemical exposure from cleaning products. Eight decorative pattern options with engraved details and finial tips match classical, art deco, and contemporary luxury interior themes. The heavy-duty brass pin supports doors up to 80kg per pair, while the silent nylon washer insert eliminates the squeaking that plagues lesser hinges. Matching door handles, stops, and accessories in identical finishes enable complete room outfitting from a single supplier. OEM engraving, custom patterns, and exclusive luxury collections support wholesale programs for architects, interior designers, and hospitality procurement teams.
+The PVD coating technology is 5 times more scratch and fade resistant than traditional wet electroplating, fully resistant to daily cleaning chemical corrosion. Eight built-in engraved decorative patterns with delicate finial tips suit classical, Art Deco and modern luxury interior design styles. Thick solid brass bearing pins support door loads up to 80kg per hinge pair, while built-in silent nylon washers completely eliminate door squeaking during opening and closing. A full matching hardware series including door handles and door stops can be supplied for unified interior finishing.
+
+We support full custom OEM & ODM solutions, such as laser logo engraving, exclusive decorative pattern development and custom gold color toning. Ideal wholesale hardware supply for architects, interior designers and hotel procurement teams undertaking luxury renovation projects.
