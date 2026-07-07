@@ -33,7 +33,7 @@
       <div class="product-media">
         {{ if .Params.image }}
         <div class="product-main-image">
-          <img src={{ .Params.image | printf "%q" }} alt={{ .Title | printf "%q" }} loading="eager">
+          <img src="{{ .Params.image | safeURL }}" alt="{{ .Title }}" loading="eager">
         </div>
         {{ else }}
         <div class="product-main-image placeholder">
@@ -43,7 +43,7 @@
         {{ if .Params.gallery }}
         <div class="product-gallery">
           {{ range .Params.gallery }}
-          <img src={{ . | printf "%q" }} alt={{ $.Title | printf "%q" }} loading="lazy">
+         <img src="{{ . | safeURL }}" alt="{{ $.Title }}" loading="lazy">
           {{ end }}
         </div>
         {{ end }}
@@ -247,7 +247,7 @@
         <a href={{ .Permalink | printf "%q" }} class="product-card related-card">
           <div class="product-image">
             {{ if .Params.image }}
-            <img src={{ .Params.image | printf "%q" }} alt={{ .Title | printf "%q" }} loading="lazy">
+            <img src="{{ .Params.image | safeURL }}" alt="{{ .Title }}" loading="lazy">
             {{ else }}
             <div class="product-image placeholder"><span>{{ substr .Title 0 1 }}</span></div>
             {{ end }}
