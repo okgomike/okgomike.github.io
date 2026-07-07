@@ -203,13 +203,17 @@
             {{ if gt (len $qaList) 1 }}
             <div class="faq-list">
               {{ range $qaList }}
-              {{ $qa := split . ": " }}
-              {{ if ge (len $qa) 2 }}
-              <div class="faq-item">
-                <p class="faq-q"><strong>Q: {{ index $qa 0 }}</strong></p>
-                <p class="faq-a">A: {{ delimit (after 1 $qa) ": " }}</p>
-              </div>
-              {{ end }}
+              {{/* Extract Q and A from "Q: ... A: ..." format */}}
+{{ $qaRaw := . }}
+{{ $qText := replaceRE "^Q:\\s+(.*)\\s+A:.*$" "$1" $qaRaw }}
+{{ $aText := replaceRE "^Q:.*\\s+A:\\s+(.*)$" "$1" $qaRaw }}
+{{ if and (ne $qText "") (ne $aText "") }}
+<div class="faq-item">
+  <p class="faq-q"><strong>Q: {{ $qText }}</strong></p>
+  <p class="faq-a">A: {{ $aText }}</p>
+</div>
+{{ end }}
+
               {{ end }}
             </div>
             {{ else }}
