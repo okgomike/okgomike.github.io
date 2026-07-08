@@ -3,7 +3,7 @@ title: "LR-011 Metal Painted Safety Barrier Chain Color Coded Reel | Wholesale S
 slug: "metal-painted-safety-barrier-chain-color-coded-reel"
 sku: "LR-011"
 meta_description: "Wholesale metal painted safety barrier chain on reels in yellow black red white and blue colors. Carbon steel with powder coating for crowd control and safety barriers. Yiwu supplier."
-Price Range: "$0.80 - $4.50 / meter"
+Price_Range: "$0.80 - $4.50 / meter"
 
 categories: ["chains-ropes"]
 tags: ["metal chain", "safety chain", "barrier chain", "painted chain", "crowd control chain", "stanchion chain", "warning chain", "color chain", "powder coated chain"]
