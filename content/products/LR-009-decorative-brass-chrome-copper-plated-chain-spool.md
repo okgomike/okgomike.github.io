@@ -3,7 +3,7 @@ title: "LR-009 Decorative Brass Chrome Copper Plated Chain Spool | Wholesale Sup
 slug: "decorative-brass-chrome-copper-plated-chain-spool"
 sku: "LR-009"
 meta_description: "Wholesale decorative plated metal chain spools in brass chrome copper and antique finishes. Multiple gauges for jewelry craft display and home decor. Yiwu hardware supplier."
-Price Range: "$0.80 - $12.00 / meter"
+Price_Range: "$0.80 - $12.00 / meter"
 
 categories: 
 - lifting-rigging-equipment
