@@ -5,7 +5,8 @@ sku: "LR-009"
 meta_description: "Wholesale decorative plated metal chain spools in brass chrome copper and antique finishes. Multiple gauges for jewelry craft display and home decor. Yiwu hardware supplier."
 Price Range: "$0.80 - $12.00 / meter"
 
-categories: ["chains-ropes"]
+categories: 
+- lifting-rigging-equipment
 tags: ["decorative chain", "brass chain", "chrome chain", "copper chain", "antique chain", "plated chain", "craft chain", "display chain", "jewelry chain"]
 usecases: ["jewelry making", "craft projects", "chandeliers", "curtain hardware", "plant hangers", "signage display", "home decor", "retail merchandising"]
 description: "Premium decorative plated chain spools for jewelry craft display and home decor applications. Available in brass chrome copper and antique bronze plated finishes over steel core for lasting beauty and strength. Link gauges from 1.5mm to 4mm on convenient display spools. Each chain features consistent plating thickness with smooth link surfaces suitable for decorative hanging curtain hardware chandeliers plant hangers and retail merchandising displays. Factory direct from Yiwu with low MOQ and custom cut lengths."
