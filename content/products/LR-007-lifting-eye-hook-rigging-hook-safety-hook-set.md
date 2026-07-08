@@ -2,7 +2,7 @@
 sku: LR-007
 title: "LR-007 Lifting Eye Hook Rigging Hook Safety Hook Set"
 meta_description: "LR-007 drop forged 40Cr alloy steel lifting safety hook, 0.5T-10T WLL crane rigging hardware, 100pcs MOQ, CE GS ISO9001 wholesale industrial lifting supplier."
-category_1: lifting-rigging-hardware
+category_1: lifting-rigging-equipment
 category_2: lifting-hooks
 main_keyword: lifting eye safety rigging hook set
 long_tail_keywords: "wholesale lifting eye hook OEM, 0.5T/1T/2T/3T/5T/8T/10T rigging hook bulk supplier, heavy duty swivel safety latch hook importer, 40Cr alloy steel drop forged crane hook factory direct Yiwu, ASME B30.10 EN1677 certified hoist hook, hot dip galvanized industrial lifting hook, custom painted color rigging hook, mixed tonnage hook set MOQ 100, construction shipping lifting hardware sample available"
