@@ -194,34 +194,38 @@
         </div>
         {{ end }}
 
-        {{ $faqData := or .Params.faq .Params.faq_string .Params.faq_content }}
-        {{ if $faqData }}
-        <div class="tab-panel">
-          <h2>FAQ</h2>
-          <div class="tab-body">
-            {{ $qaList := split $faqData " | " }}
-            {{ if gt (len $qaList) 1 }}
-            <div class="faq-list">
-              {{ range $qaList }}
-              {{/* Extract Q and A from "Q: ... A: ..." format */}}
-{{ $qaRaw := . }}
-{{ $qText := replaceRE "^Q:\\s+(.*)\\s+A:.*$" "$1" $qaRaw }}
-{{ $aText := replaceRE "^Q:.*\\s+A:\\s+(.*)$" "$1" $qaRaw }}
-{{ if and (ne $qText "") (ne $aText "") }}
-<div class="faq-item">
-  <p class="faq-q"><strong>Q: {{ $qText }}</strong></p>
-  <p class="faq-a">A: {{ $aText }}</p>
+       {{/* 优先读取新字段faqData，兜底兼容旧faq/faq_string/faq_content */}}
+{{ $rawFaq := or .Params.faqData .Params.faq .Params.faq_string .Params.faq_content }}
+{{ if $rawFaq }}
+<div class="tab-panel">
+  <h2>FAQ</h2>
+  <div class="tab-body">
+    <div class="faq-block">
+      {{/* 判断类型：字符串（老分隔符格式） */}}
+      {{ if eq (printf "%T" $rawFaq) "string" }}
+        {{ $faqItems := split $rawFaq "||" }}
+        {{ range $faqItems }}
+          {{ $qa := split . "|" }}
+          {{ if eq (len $qa) 2 }}
+            <div class="faq-item">
+              <h4>{{ index $qa 0 }}</h4>
+              <p>{{ index $qa 1 }}</p>
+            </div>
+          {{ end }}
+        {{ end }}
+      {{/* 判断类型：数组map（新结构化faqData） */}}
+      {{ else if reflect.IsSlice $rawFaq }}
+        {{ range $rawFaq }}
+          <div class="faq-item">
+            <h4>{{ .question }}</h4>
+            <p>{{ .answer }}</p>
+          </div>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
 </div>
 {{ end }}
-
-              {{ end }}
-            </div>
-            {{ else }}
-            {{ $faqData | markdownify }}
-            {{ end }}
-          </div>
-        </div>
-        {{ end }}
       </div>
     </div>
 
