@@ -3,7 +3,7 @@ sku: LD-004
 title: LD-004 Stainless Steel Padlock Set
 slug: ld-004-stainless-steel-padlock-set
 categories:
-- locks-and-door-hardware
+- locks-door-hardware
 tags:
 - stainless steel padlock
 - marine lock
