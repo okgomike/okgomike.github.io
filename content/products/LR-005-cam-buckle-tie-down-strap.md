@@ -3,7 +3,7 @@ sku: LR-005
 title: LR-005 Cam Buckle Tie-Down Strap
 slug: lr-005-cam-buckle-tie-down-strap
 categories:
-- lifting-and-rigging-equipment
+- lifting-rigging-equipment
 tags:
 - cam buckle
 - tie down
