@@ -2,7 +2,8 @@
 sku: LD-012
 title: LD-012 Aluminum Bathroom Towel Hook Rack | Factory Wholesale Supplier
 meta_description: LD-012 aluminum bathroom towel hook rack. Rustproof anodized finish for wet environments. OEM/ODM, 50pcs MOQ, ISO9001. Perfect for bathroom wholesalers and contractors.
-category_1: Locks & Door Hardware
+category_1:
+- locks-door-hardware
 category_2: Bathroom Towel Hooks & Rails
 main_keyword: aluminum towel hook rack
 long_tail_keywords: wholesale aluminum bathroom hook rack OEM, rustproof towel rack bulk supplier, anodized bathroom hook importer, shower room towel hanger factory direct, LD-012-towel-rack
