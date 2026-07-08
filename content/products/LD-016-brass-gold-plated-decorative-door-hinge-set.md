@@ -2,7 +2,8 @@
 sku: LD-016
 title: LD-016 Brass Gold-Plated Decorative Door Hinge Set | Factory Wholesale Supplier
 meta_description: LD-016 brass gold-plated decorative door hinge. Luxury finish for hotel/residential interior doors. OEM, 500pcs MOQ, CE. Wholesale decorative hinge importer & distributor.
-category_1: Locks & Door Hardware
+category_1:
+- locks-door-hardware
 category_2: Door Hinges & Hardware
 main_keyword: brass door hinge
 long_tail_keywords: wholesale brass door hinge OEM, gold plated decorative hinge bulk supplier, luxury hotel door hinge importer, antique brass hinge factory direct, LD-016-brass-hinge
