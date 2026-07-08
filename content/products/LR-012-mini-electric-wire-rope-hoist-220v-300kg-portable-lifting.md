@@ -3,9 +3,10 @@ title: "LR-012 Mini Electric Wire Rope Hoist 220V 300kg Portable Lifting | Whole
 slug: "mini-electric-wire-rope-hoist-220v-300kg-portable-lifting"
 sku: "LR-012"
 meta_description: "Wholesale mini electric wire rope hoist 220V 300kg capacity portable lifting equipment. Brushless DC and AC models with pendant control. Yiwu lifting equipment supplier."
-Price Range: "$25.00 - $120.00 / pc"
+Price_Range: "$25.00 - $120.00 / pc"
 
-categories: ["lifting-rigging"]
+categories: 
+- lifting-rigging-equipment
 tags: ["mini electric hoist", "wire rope hoist", "portable hoist", "electric hoist 300kg", "compact hoist", "garage hoist", "DC hoist", "lifting winch"]
 usecases: ["garage workshops", "home lifting", "light construction", "signage installation", "automotive repair", "warehouse light duty", "DIY projects", "retail display"]
 description: "Compact mini electric wire rope hoist designed for light duty portable lifting applications. Available in 220V AC standard and premium brushless DC speed-control models. 300kg rated capacity with single-line lifting speeds of 10-20 meters per minute. Features die-cast aluminum housing for lightweight durability and built-in thermal protection for motor safety. Includes pendant control switch with coiled cable. CE certified with compact design ideal for garage workshops home lifting light construction signage installation and automotive repair applications."
