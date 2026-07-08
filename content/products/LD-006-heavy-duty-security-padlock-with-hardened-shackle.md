@@ -3,7 +3,7 @@ sku: LD-006
 title: LD-006 Heavy-Duty Security Padlock with Hardened Shackle
 slug: ld-006-heavy-duty-security-padlock-with-hardened-shackle
 categories:
-- locks-and-door-hardware
+- locks-door-hardware
 tags:
 - security padlock
 - hardened shackle
