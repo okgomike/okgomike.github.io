@@ -2,7 +2,8 @@
 sku: LD-014
 title: LD-014 Chrome Plated Robe and Hat Hook Set | Factory Wholesale Supplier
 meta_description: LD-014 chrome plated robe and hat hook set. Classic double-prong design for bathroom/bedroom. OEM/ODM, 50pcs MOQ, CE certified. Wholesale for hardware distributors and retailers.
-category_1: Locks & Door Hardware
+category_1:
+- locks-door-hardware
 category_2: Bathroom Towel Hooks & Rails
 main_keyword: chrome robe hook
 long_tail_keywords: wholesale chrome plated robe hook set OEM, double prong coat hook bulk supplier, bathroom robe hook importer, classic hat hook factory direct, LD-014-robe-hook
