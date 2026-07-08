@@ -3,7 +3,7 @@ title: "LR-008 Carbon Steel Link Chain Assortment Welded Chain | Wholesale Suppl
 slug: "carbon-steel-link-chain-assortment-welded-chain"
 sku: "LR-008"
 meta_description: "Wholesale carbon steel welded link chain assortment in multiple gauges and finishes. Zinc plated galvanized and black oxide options from 2mm to 8mm. Low MOQ chain supplier from Yiwu China."
-Price Range: "$0.50 - $8.00 / meter"
+Price_Range: "$0.50 - $8.00 / meter"
 
 categories: 
 - lifting-rigging-equipment
