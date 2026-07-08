@@ -3,7 +3,7 @@ sku: LR-006
 title: LR-006 Ratchet Buckle & End Fitting Assortment
 slug: lr-006-ratchet-buckle-end-fitting-assortment
 categories:
-- lifting-and-rigging-equipment
+- lifting-rigging-equipment
 tags:
 - ratchet buckle
 - end fitting
