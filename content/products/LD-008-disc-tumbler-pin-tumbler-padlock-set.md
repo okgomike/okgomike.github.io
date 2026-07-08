@@ -3,8 +3,8 @@ sku: LD-008
 title: LD-008 Disc Tumbler & Pin Tumbler Padlock Set
 slug: ld-008-disc-tumbler-pin-tumbler-padlock-set
 categories:
-- locks-door-hardware
-- padlocks
+  locks-door-hardware:
+    - padlocks
 tags:
 - disc tumbler
 - pin tumbler
