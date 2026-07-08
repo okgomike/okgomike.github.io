@@ -3,7 +3,7 @@ sku: LD-003
 title: LD-003 Brass Padlock Assortment
 slug: ld-003-brass-padlock-assortment
 categories:
-- locks-and-door-hardware
+- locks-door-hardware
 tags:
 - brass padlock
 - pin tumbler
