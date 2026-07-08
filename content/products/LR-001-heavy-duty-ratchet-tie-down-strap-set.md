@@ -2,8 +2,8 @@
 sku: LR-001
 title: LR-001 Heavy-Duty Ratchet Tie-Down Strap Set
 slug: lr-001-heavy-duty-ratchet-tie-down-strap-set
-categories:
-- lifting-and-rigging-equipment
+categories: 
+- lifting-rigging-equipment
 tags:
 - ratchet strap
 - tie down
