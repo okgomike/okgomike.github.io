@@ -5,7 +5,8 @@ sku: "LR-011"
 meta_description: "Wholesale metal painted safety barrier chain on reels in yellow black red white and blue colors. Carbon steel with powder coating for crowd control and safety barriers. Yiwu supplier."
 Price_Range: "$0.80 - $4.50 / meter"
 
-categories: ["chains-ropes"]
+categories: 
+- lifting-rigging-equipment
 tags: ["metal chain", "safety chain", "barrier chain", "painted chain", "crowd control chain", "stanchion chain", "warning chain", "color chain", "powder coated chain"]
 usecases: ["crowd control", "safety barriers", "construction zones", "parking lots", "warehouse marking", "event management", "hazard marking", "road work zones"]
 description: "Professional metal painted safety barrier chain manufactured from carbon steel with durable powder coating in high-visibility colors for crowd control and safety barrier applications. Available in yellow black red white and blue color options on convenient plastic reels. Standard lengths include 3m and 5m per reel with custom cutting available. Powder-coated steel construction ensures long outdoor durability without fading rusting or cracking. Compatible with standard stanchion posts and barrier systems. Ideal for construction zones parking lots event management warehouse floor marking hazard areas and traffic control applications."
