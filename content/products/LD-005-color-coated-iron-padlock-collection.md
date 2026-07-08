@@ -3,7 +3,7 @@ sku: LD-005
 title: LD-005 Color-Coated Iron Padlock Collection
 slug: ld-005-color-coated-iron-padlock-collection
 categories:
-- locks-and-door-hardware
+- locks-door-hardware
 tags:
 - color padlock
 - iron padlock
