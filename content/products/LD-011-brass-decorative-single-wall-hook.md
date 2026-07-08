@@ -2,7 +2,8 @@
 sku: LD-011
 title: LD-011 Brass Decorative Single Wall Hook | Factory Wholesale Supplier
 meta_description: LD-011 brass decorative single wall hook. Premium solid brass for luxury hotel interiors. OEM/ODM, 50pcs MOQ, CE certified. Wholesale for architects and interior designers.
-category_1: Locks & Door Hardware
+category_1:
+- locks-door-hardware
 category_2: Decorative Wall Hooks & Hardware
 main_keyword: brass wall hook
 long_tail_keywords: wholesale brass decorative wall hook OEM, solid brass coat hook luxury hotel, premium wall hook importer bulk, antique brass robe hook factory direct, LD-011-brass-hook
