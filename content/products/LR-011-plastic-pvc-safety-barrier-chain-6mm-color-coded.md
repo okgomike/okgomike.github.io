@@ -3,7 +3,7 @@ title: "LR-011 Plastic PVC Safety Barrier Chain 6mm Color Coded | Wholesale Supp
 slug: "plastic-pvc-safety-barrier-chain-6mm-color-coded"
 sku: "LR-011"
 meta_description: "Wholesale plastic PVC safety barrier chain in 6mm yellow black red white and blue colors. 3m and 5m reels for crowd control. Factory direct from Yiwu."
-Price Range: "$0.30 - $2.50 / meter"
+Price_Range: "$0.30 - $2.50 / meter"
 
 categories: ["chains-ropes"]
 tags: ["plastic chain", "safety chain", "barrier chain", "PVC chain", "crowd control chain", "stanchion chain", "warning chain", "color chain"]
