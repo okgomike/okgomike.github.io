@@ -8,7 +8,7 @@ categories:
   - locks-door-hardware
 main_keyword: "nylon coated guide roller"
 long_tail_keywords: "wholesale nylon guide roller wheel, PU coated bearing roller bulk, sliding door nylon wheel supplier, machinery guide roller manufacturer, window roller wheel Yiwu, nylon pulley wheel wholesale"
-date: "2026-07-09T12:00:00+08:00"
+date: "2026-07-07T12:00:00+08:00"
 draft: false
 image: "https://img.toolsd.com/file/1783561244316_709-1.jpg"
 gallery:
