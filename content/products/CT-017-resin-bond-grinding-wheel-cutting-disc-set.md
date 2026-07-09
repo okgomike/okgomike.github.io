@@ -25,9 +25,15 @@ mixed_order: Mixed container orders accepted
 specifications: 'Abrasive Material: Aluminum Oxide / Silicon Carbide / Zirconia Alumina | Bond Type: Resin Bond (Bakelite) | Reinforcement: Double Fiberglass Mesh | Diameter: 100mm / 115mm / 125mm / 150mm
   / 180mm / 230mm | Thickness: 1.0mm / 1.6mm / 2.0mm / 2.5mm / 3.0mm / 6.0mm | Bore Size: 16mm / 22.23mm | Max Speed: 80m/s | Application: Metal Cutting / Metal Grinding / Stone Cutting | Packing: Color
   Box + Carton'
-faq: 'Q: What is the difference between a cutting disc and grinding wheel? A: Cutting discs are thin (1.0-2.5mm) for fast cuts; grinding wheels are thick (3-6mm) for material removal and shaping. | Q: Can
-  I use these on an angle grinder? A: Yes; all discs are designed for standard 115mm and 125mm angle grinders with 22.23mm bore. | Q: Are these discs MPA certified? A: Yes; our discs carry MPA EN 12413
-  safety certification with oSa membership. | Q: What is the shelf life of resin bond discs? A: Store in dry conditions; recommended use within 3 years of manufacture for optimal performance.'
+faq:
+  - question: "What is the difference between a cutting disc and grinding wheel?"
+    answer: "Cutting discs are thin (1.0‑2.5mm) for fast cuts; grinding wheels are thick (3‑6mm) for material removal and shaping."
+  - question: "Can I use these on an angle grinder?"
+    answer: "Yes; all discs are designed for standard 115mm and 125mm angle grinders with 22.23mm bore."
+  - question: "Are these discs MPA certified?"
+    answer: "Yes; our discs carry MPA EN 12413 safety certification with oSa membership."
+  - question: "What is the shelf life of resin bond discs?"
+    answer: "Store in dry conditions; recommended use within 3 years of manufacture for optimal performance."
 draft: false
 date: '2026-07-02T09:00:00+08:00'
 ---
