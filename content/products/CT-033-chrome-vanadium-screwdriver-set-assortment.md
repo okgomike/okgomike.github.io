@@ -2,7 +2,8 @@
 sku: CT-033
 title: CT-033 Chrome Vanadium Screwdriver Set Assortment | Factory Wholesale Supplier
 meta_description: CT-333 CR-V screwdriver set with ergonomic handles for electrical/mechanical repair. OEM/ODM, 50pcs MOQ, CE RoHS. Wholesale for hardware distributors.
-category_1: Construction Tools
+categories:
+- construction-tools
 category_2: Hand Tools
 main_keyword: screwdriver set
 long_tail_keywords: wholesale CR-V screwdriver set OEM, ergonomic handle screwdriver bulk supplier, Phillips flathead screwdriver set importer, professional mechanic screwdriver factory direct, CT-033-screwdriver
