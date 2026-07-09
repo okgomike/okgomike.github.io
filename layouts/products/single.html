@@ -91,9 +91,10 @@
           {{ if or .Params.customization .Params.customization_options .Params.oem_odm_service }}
           <div class="info-row"><span class="info-label">Customization:</span><span class="info-value">{{ or .Params.customization .Params.customization_options .Params.oem_odm_service }}</span></div>
           {{ end }}
-          {{ if .Params.mixed_order }}
-          <div class="info-row"><span class="info-label">Mixed Order:</span><span class="info-value">{{ .Params.mixed_order }}</span></div>
+                   {{ if or .Params.mixed_order .Params.mixed_order_supported }}
+          <div class="info-row"><span class="info-label">Mixed Order:</span><span class="info-value">{{ or .Params.mixed_order .Params.mixed_order_supported }}</span></div>
           {{ end }}
+
         </div>
 
         <div class="product-actions">
@@ -114,12 +115,18 @@
 
     <div class="product-content">
       <div class="content-tabs">
-        {{ if .Content }}
+              {{ if or .Content .Params.long_description }}
         <div class="tab-panel">
           <h2>Product Details</h2>
-          <div class="tab-body">{{ .Content }}</div>
+          <div class="tab-body">
+            {{ .Content }}
+            {{ with .Params.long_description }}
+            <div class="long-description">{{ . | markdownify }}</div>
+            {{ end }}
+          </div>
         </div>
         {{ end }}
+
 
                 {{ if .Params.core_features }}
         <div class="tab-panel">
