@@ -2,7 +2,8 @@
 sku: CT-040
 title: CT-040 Hexagonal Chicken Wire Mesh Roll | Factory Wholesale Supplier
 meta_description: CT-040 hexagonal chicken wire mesh. PVC coated for garden/animal fencing. OEM, 100 rolls MOQ, ISO9001. Wholesale wire mesh importer & distributor.
-category_1: Construction Tools
+categories:
+- construction-tools
 category_2: Wire Mesh & Fencing
 main_keyword: hexagonal wire mesh
 long_tail_keywords: wholesale hexagonal chicken wire OEM, PVC coated wire mesh bulk supplier, garden animal fence importer, poultry mesh roll factory direct, CT-040-chicken-wire
