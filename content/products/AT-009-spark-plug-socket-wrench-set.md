@@ -18,10 +18,15 @@ mixed_order: Mixed container orders accepted
 specifications: 'Socket Material: Chrome Vanadium Steel CR-V | Handle Material: ABS + TPR / Chrome Vanadium Steel T-bar | Finish: Chrome Plated / Black Oxide / Nickel Plated | Socket Sizes: 14mm / 16mm
   / 18mm / 21mm (thin-wall) | Drive Size: 3/8" / 1/2" | Socket Type: 6-point with rubber retention insert | Extension Bars: 100mm / 150mm / 250mm | Universal Joint: Optional | Handle Types: T-handle / L-handle
   / Ratchet handle | Hardness: HRC 42-48 | Standard: DIN 3120 / ISO 1174 | Application: Gasoline / Diesel / Motorcycle engines | Packing: Blister Card / Plastic Case / Color Box + Carton'
-faq: 'Q: Why do spark plug sockets have a rubber insert? A: The internal rubber sleeve grips the spark plug ceramic insulator securely, allowing removal and installation without dropping the plug into the
-  cylinder head. | Q: What size do I need for my car? A: Most Japanese cars use 14mm or 16mm; most European cars use 16mm; many motorcycles use 18mm or 21mm. | Q: Are thin-wall sockets necessary? A: Yes;
-  modern engines with tight spark plug wells require thin-wall sockets that fit where standard sockets cannot. | Q: Can I use these with a torque wrench? A: Yes; the 3/8" drive fits standard torque wrenches
-  for precise spark plug tightening to manufacturer specifications.'
+faq:
+  - question: "Why do spark plug sockets have a rubber insert?"
+    answer: "The internal rubber sleeve grips the spark plug ceramic insulator securely, allowing removal and installation without dropping the plug into the cylinder head."
+  - question: "What size do I need for my car?"
+    answer: "Most Japanese cars use 14mm or 16mm; most European cars use 16mm; many motorcycles use 18mm or 21mm."
+  - question: "Are thin‑wall sockets necessary?"
+    answer: "Yes; modern engines with tight spark plug wells require thin‑wall sockets that fit where standard sockets cannot."
+  - question: "Can I use these with a torque wrench?"
+    answer: "Yes; the 3/8\" drive fits standard torque wrenches for precise spark plug tightening to manufacturer specifications."
 image: https://img.toolsd.com/file/1782976209618_702-23.jpg
 gallery:
 - https://img.toolsd.com/file/1782976209618_702-23.jpg
