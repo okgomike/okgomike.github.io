@@ -38,7 +38,12 @@ gw_nw: 18/16
 specifications: 'Blade Material: SK-5 High Carbon Steel | Body Material: Aluminum Alloy | Mechanism: 4-Stage Ratchet | Cutting Capacity: Up to 30mm | Overall Length: 220mm (8.7") | Blade Length: 60mm |
   Handle Material: TPR Non-Slip Grip | Handle Colors: Red, Black, Green | Ratchet Stages: 4 clicks per cut | Safety Lock: Yes | Blade Finish: Chrome Plated | Weight per Unit: 280g | Application: Thick branches,
   hardwood, orchard pruning | Packing: Blister card | Carton Qty: 60 pcs | Carton Size: 54x38x28cm | GW/NW: 18/16kg'
-faq: 'Q: How does ratchet pruning work? A: The ratchet mechanism multiplies force in 4 stages, making thick cuts easier with less hand strength. | Q: Can these cut live branches? A: Yes, the bypass blade
-  design is suitable for both live and dead wood up to 30mm. | Q: Are they good for arthritis sufferers? A: Yes, ratchet shears require significantly less grip strength than standard shears.'
+faq:
+  - question: "How does ratchet pruning work?"
+    answer: "The ratchet mechanism multiplies force in 4 stages, making thick cuts easier with less hand strength."
+  - question: "Can these cut live branches?"
+    answer: "Yes, the bypass blade design is suitable for both live and dead wood up to 30mm."
+  - question: "Are they good for arthritis sufferers?"
+    answer: "Yes, ratchet shears require significantly less grip strength than standard shears."
 ---
 These heavy duty ratchet pruning shears use a 4-stage ratchet mechanism that multiplies cutting force, making it easy to cut through thick branches up to 30mm diameter with minimal hand strength. The ratchet action engages incrementally, allowing users to cut in stages rather than one powerful squeeze. Premium SK-5 high carbon steel blade maintains a sharp edge through heavy use. Lightweight aluminum alloy body reduces overall weight. Ergonomic non-slip TPR grips provide comfort during extended pruning sessions. Ideal for arborists, orchard managers, vineyard workers and gardeners with limited hand strength.
