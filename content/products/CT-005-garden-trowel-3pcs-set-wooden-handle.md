@@ -37,8 +37,14 @@ gw_nw: 15/13
 specifications: 'Blade Material: Carbon Steel Q235 | Handle Material: Solid Hardwood | Coating: Anti-Rust Color Paint | Set Contents: Transplant Trowel + Cultivator + Weeding Fork | Trowel Length: 280-320mm
   | Blade Width: 60-80mm | Blade Thickness: 1.5mm | Handle Length: 120mm | Handle Finish: Varnished Wood | Handle Colors: Natural, Red, Green, Blue, Purple | Hanging Hole: Yes, 8mm diameter | Weight per
   Set: 350g | Application: Planting, transplanting, weeding | Packing: Blister card | Carton Qty: 80 sets | Carton Size: 48x35x28cm | GW/NW: 15/13kg'
-faq: 'Q: Are the blades rust-proof? A: The color coating provides rust resistance, but dry after use for longest life. | Q: What wood is the handle? A: Solid hardwood, typically birch or ash, varnished
-  for weather resistance. | Q: Can I choose different blade colors? A: Yes, green, blue, purple, orange and red coating available. | Q: Are these suitable for rocky soil? A: Yes, carbon steel blades are
-  strong enough for most soil types.'
+faq:
+  - question: "Are the blades rust‑proof?"
+    answer: "The color coating provides rust resistance, but dry after use for longest life."
+  - question: "What wood is the handle?"
+    answer: "Solid hardwood, typically birch or ash, varnished for weather resistance."
+  - question: "Can I choose different blade colors?"
+    answer: "Yes, green, blue, purple, orange and red coating available."
+  - question: "Are these suitable for rocky soil?"
+    answer: "Yes, carbon steel blades are strong enough for most soil types."
 ---
 This 3-piece garden trowel set includes a transplanting trowel, a cultivating trowel and a weeding fork — the three essential hand tools for any gardener. Each tool features a durable carbon steel blade with a colorful anti-rust coating for extended outdoor use. Solid hardwood handles are ergonomically shaped for comfortable grip and reduced hand fatigue during extended gardening sessions. The hanging holes at the end of each handle allow for convenient storage on garden shed hooks. Ideal for planting bulbs, transplanting seedlings, loosening soil, removing weeds and mixing potting compost.
