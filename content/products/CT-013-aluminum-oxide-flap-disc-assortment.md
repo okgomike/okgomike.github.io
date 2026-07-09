@@ -28,9 +28,15 @@ customization: OEM/ODM accepted; custom grit color label and private branding
 mixed_order: Mixed container orders accepted
 specifications: 'Abrasive Material: Aluminum Oxide / Zirconia Alumina | Backing Plate: Fiberglass / Plastic | Grit Range: 40# 60# 80# 120# 180# 240# 320# | Diameter: 100mm / 115mm / 125mm / 150mm / 180mm
   | Bore Size: 16mm / 22.23mm | Max Speed: 80m/s (12200 RPM) | Application: Metal / Stainless Steel / Wood | Packing: Color Box + Carton'
-faq: 'Q: What materials can these flap discs grind? A: Suitable for carbon steel stainless steel aluminum cast iron and wood. | Q: What is the difference between Aluminum Oxide and Zirconia? A: Zirconia
-  lasts 2-3x longer on hard metals; Aluminum Oxide is more economical for general use. | Q: Can I mix different grits in one order? A: Yes; mixed grit orders are accepted with 1,000 pcs total MOQ. | Q:
-  Do you provide sample discs for testing? A: Yes; free samples available for serious buyers with freight collect.'
+faq:
+  - question: "What materials can these flap discs grind?"
+    answer: "Suitable for carbon steel stainless steel aluminum cast iron and wood."
+  - question: "What is the difference between Aluminum Oxide and Zirconia?"
+    answer: "Zirconia lasts 2‑3x longer on hard metals; Aluminum Oxide is more economical for general use."
+  - question: "Can I mix different grits in one order?"
+    answer: "Yes; mixed grit orders are accepted with 1,000 pcs total MOQ."
+  - question: "Do you provide sample discs for testing?"
+    answer: "Yes; free samples available for serious buyers with freight collect."
 draft: false
 date: '2026-07-02T09:00:00+08:00'
 ---
