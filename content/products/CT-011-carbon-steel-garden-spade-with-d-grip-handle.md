@@ -24,9 +24,15 @@ customization: OEM/ODM accepted; custom handle length and logo
 mixed_order: Mixed container orders accepted
 specifications: 'Blade Material: Q235 Carbon Steel | Blade Shape: Pointed with Tread Edge | Blade Finish: Black Powder Coated | Handle Material: Hardwood Ash | Handle Type: D-Grip Ergonomic | Overall Length:
   700mm / 900mm / 1100mm | Blade Dimensions: 230mm x 170mm | Weight: 1.2kg - 1.6kg | Packing: Color Sleeve + Carton'
-faq: 'Q: What is the blade shape? A: Pointed blade with a treaded top edge for foot pressure when digging. | Q: Is the handle varnished? A: Yes; the hardwood handle receives a weather-resistant varnish
-  coating. | Q: Can I order different handle lengths? A: Yes; we offer 700mm 900mm and 1100mm options. | Q: Is this suitable for rocky soil? A: Yes; the Q235 carbon steel blade is tough enough for rocky
-  and compacted soils.'
+faq:
+  - question: "What is the blade shape?"
+    answer: "Pointed blade with a treaded top edge for foot pressure when digging."
+  - question: "Is the handle varnished?"
+    answer: "Yes; the hardwood handle receives a weather‑resistant varnish coating."
+  - question: "Can I order different handle lengths?"
+    answer: "Yes; we offer 700mm 900mm and 1100mm options."
+  - question: "Is this suitable for rocky soil?"
+    answer: "Yes; the Q235 carbon steel blade is tough enough for rocky and compacted soils."
 draft: false
 date: '2026-07-02T09:00:00+08:00'
 ---
