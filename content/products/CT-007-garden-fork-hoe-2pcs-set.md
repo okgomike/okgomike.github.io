@@ -38,7 +38,12 @@ gw_nw: 14/12
 specifications: 'Fork Head Material: Carbon Steel Q235 | Fork Tines: 4 flat tines | Hoe Blade Material: Carbon Steel Q235 | Hoe Blade Angle: 45 degrees | Handle Material: Solid Hardwood | Handle Length:
   110mm | Head Finish: Anti-Rust Color Coating | Handle Finish: Varnished Wood | Handle Colors: Natural, Green, Red | Hanging Hole: Yes, both tools | Fork Overall Length: 300mm | Hoe Overall Length: 280mm
   | Weight per Set: 520g | Application: Soil aeration, weeding, cultivation | Packing: Blister card | Carton Qty: 60 sets | Carton Size: 50x35x25cm | GW/NW: 14/12kg'
-faq: 'Q: What is the fork used for? A: For loosening soil, aerating beds, turning compost and mixing amendments. | Q: Can the hoe blade be sharpened? A: Yes, use a file to maintain a sharp edge for easier
-  weed cutting. | Q: Are handles replaceable? A: Yes, standard handle size allows replacement if damaged.'
+faq:
+  - question: "What is the fork used for?"
+    answer: "For loosening soil, aerating beds, turning compost and mixing amendments."
+  - question: "Can the hoe blade be sharpened?"
+    answer: "Yes, use a file to maintain a sharp edge for easier weed cutting."
+  - question: "Are handles replaceable?"
+    answer: "Yes, standard handle size allows replacement if damaged."
 ---
 This essential 2-piece garden tool set includes a digging fork and a draw hoe — fundamental tools for soil preparation and maintenance. The digging fork features four sturdy carbon steel tines for loosening compacted soil, aerating garden beds and turning compost. The draw hoe has a sharp carbon steel blade angled at 45 degrees for efficient weed removal and soil cultivation. Both tools feature solid hardwood handles with ergonomic grips and hanging holes for storage. The carbon steel heads are coated with anti-rust paint for extended outdoor durability. Ideal for vegetable gardens, flower beds, nurseries and landscaping projects.
