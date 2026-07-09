@@ -35,9 +35,15 @@ gw_nw: 24/22
 specifications: 'Material: Chrome Molybdenum Steel (Cr-Mo) | Standard: DIN3120 / ANSI B107.1 | Drive Size: 1/2" | Socket Sizes: 10-32mm | Socket Type: Deep Wall + Spark Plug + Wheel Nut + Oxygen Sensor
   | Breaker Bar: 24-inch Included | Finish: Chrome Plated | Impact Rated: Yes | Certification: CE, GS | Packing: Heavy-Duty Blow Molded Case | Pieces: 40pcs | Weight per Set: 3.7kg | Carton Qty: 6 sets
   | Carton Size: 65x48x35cm | GW/NW: 24/22kg'
-faq: 'Q: What is the breaker bar length? A: 24-inch breaker bar included for high-torque applications. | Q: Is this set rated for impact use? A: Yes, Cr-Mo steel construction is impact-rated for heavy-duty
-  use. | Q: What vehicles is this suitable for? A: Designed for truck, machinery and agricultural equipment repair. | Q: Are spark plug sockets included? A: Yes, spark plug sockets, oxygen sensor socket
-  and wheel nut sockets are included.'
+faq:
+  - question: "What is the breaker bar length?"
+    answer: "24-inch breaker bar included for high-torque applications."
+  - question: "Is this set rated for impact use?"
+    answer: "Yes, Cr-Mo steel construction is impact-rated for heavy-duty use."
+  - question: "What vehicles is this suitable for?"
+    answer: "Designed for truck, machinery and agricultural equipment repair."
+  - question: "Are spark plug sockets included?"
+    answer: "Yes, spark plug sockets, oxygen sensor socket and wheel nut sockets are included."
 ---
 This heavy-duty 40-piece socket set is designed for truck, machinery and agricultural equipment maintenance. The 1/2" drive system handles higher torque applications with a 24-inch breaker bar for stubborn fasteners. All sockets feature deep-wall construction for reaching recessed nuts and bolts. The set includes spark plug sockets, oxygen sensor socket and wheel nut sockets commonly used in heavy vehicle repair. Chrome molybdenum steel (Cr-Mo) construction provides superior strength for impact-rated use.
 
