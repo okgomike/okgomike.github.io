@@ -24,9 +24,15 @@ customization: OEM/ODM accepted; laser logo and custom grip color
 mixed_order: Mixed container orders accepted
 specifications: 'Blade Material: SK5 High Carbon Steel | Blade Type: Wavy Edge for Grip on Stems | Blade Finish: Chrome Plated | Handle Material: Lightweight Aluminum | Handle Grip: TPR Soft Grip (Orange/Black)
   | Blade Length: 200mm / 230mm / 250mm | Overall Length: 540mm / 600mm / 650mm | Cutting Capacity: Up to 15mm Diameter | Weight: 520g - 680g | Packing: Color Box + Carton'
-faq: 'Q: What is the advantage of wavy blades? A: Wavy blades grip stems and prevent slipping for cleaner more controlled cuts. | Q: Are replacement blades available? A: Yes; replacement SK5 blades available
-  for bulk orders over 2,000 pcs. | Q: Can these trim thick woody branches? A: Recommended for hedges and shrubs up to 15mm; thicker branches should use loppers. | Q: Is the blade adjustable for tension?
-  A: Yes; a center tension nut allows users to adjust blade alignment as needed.'
+faq:
+  - question: "What is the advantage of wavy blades?"
+    answer: "Wavy blades grip stems and prevent slipping for cleaner more controlled cuts."
+  - question: "Are replacement blades available?"
+    answer: "Yes; replacement SK5 blades available for bulk orders over 2,000 pcs."
+  - question: "Can these trim thick woody branches?"
+    answer: "Recommended for hedges and shrubs up to 15mm; thicker branches should use loppers."
+  - question: "Is the blade adjustable for tension?"
+    answer: "Yes; a center tension nut allows users to adjust blade alignment as needed."
 draft: false
 date: '2026-07-02T09:00:00+08:00'
 ---
