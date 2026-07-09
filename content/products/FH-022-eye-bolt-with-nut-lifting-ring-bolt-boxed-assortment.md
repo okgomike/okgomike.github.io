@@ -23,7 +23,19 @@ price_range: "$0.20 - $1.60 / pc"
 # 长规格文本单引号包裹防解析错误
 specifications: 'Material: Q235 Carbon Steel / 304 Stainless Steel | Surface Finish: Zinc White / Yellow Zinc / Plain Raw Steel | Sizes: M6×35 ~ M16×90mm | Kit Components: Lifting Eye Bolt + Hex Nut + Flat Washer | Industrial Standard: DIN 580 / BS 4278 | Working Load Limit: 50kg ~ 450kg by model | Thread Type: Metric Coarse Thread | Pack Options: Blister Retail Pack / Plastic Storage Box / Bulk Carton'
 # 问答统一分隔符 |，外层单引号适配Hugo模板拆分逻辑
-faq_content: 'Q: What is the working load limit of each size?: A: Load capacity ranges from 50kg for M6 up to 450kg for M16; all WLL values are conservative safe estimates for lifting work. | Q: What raw material options do you offer?: A: Standard Q235 carbon steel with zinc plating for general rigging use; 304 stainless steel available as premium upgrade for corrosion-resistant environments. | Q: Which industry standards comply with this lifting bolt?: A: All lifting eye bolts are manufactured strictly to DIN 580 and BS 4278 rigging hardware standards, with CE & ISO9001 certification. | Q: Can thread length and eye ring size be customized?: A: Yes, bespoke thread lengths and eye diameters are supported for bulk orders over 500 pcs. | Q: What packaging formats and OEM services are available?: A: Single blister retail packs, custom printed plastic storage boxes or loose bulk export cartons; private branded box OEM packaging is fully supported. | Q: Can I mix multiple sizes in one order?: A: Mixed M6-M16 assortments are allowed, as long as the total order quantity reaches the 300pcs MOQ.'
+faq:
+  - question: "What is the working load limit of each size?"
+    answer: "Load capacity ranges from 50kg for M6 up to 450kg for M16; all WLL values are conservative safe estimates for lifting work."
+  - question: "What raw material options do you offer?"
+    answer: "Standard Q235 carbon steel with zinc plating for general rigging use; 304 stainless steel available as premium upgrade for corrosion-resistant environments."
+  - question: "Which industry standards comply with this lifting bolt?"
+    answer: "All lifting eye bolts are manufactured strictly to DIN 580 and BS 4278 rigging hardware standards, with CE & ISO9001 certification."
+  - question: "Can thread length and eye ring size be customized?"
+    answer: "Yes, bespoke thread lengths and eye diameters are supported for bulk orders over 500 pcs."
+  - question: "What packaging formats and OEM services are available?"
+    answer: "Single blister retail packs, custom printed plastic storage boxes or loose bulk export cartons; private branded box OEM packaging is fully supported."
+  - question: "Can I mix multiple sizes in one order?"
+    answer: "Mixed M6-M16 assortments are allowed, as long as the total order quantity reaches the 300pcs MOQ."
 # 原始第三方图床链接完全保留，不做任何修改
 image: "https://img.toolsd.com/file/1783424219114_707-3.jpg"
 gallery:
