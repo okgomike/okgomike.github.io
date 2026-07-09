@@ -18,10 +18,15 @@ mixed_order: Mixed container orders accepted
 specifications: 'Material: Chrome Vanadium Steel CR-V 6140 | Hardness: HRC 42-48 | Finish: Mirror Polish / Chrome Plated / Satin | Types: Combination Wrench (Open + Box End) / Double Open End / Double Box
   End | Size Range: 8mm / 10mm / 12mm / 13mm / 14mm / 15mm / 17mm / 18mm / 19mm / 21mm / 22mm / 24mm | Length: 100mm - 320mm depending on size | Thickness: 5mm - 8mm | Offset Angle: 15-degree | Standard:
   DIN 3113 / ANSI B107.8 / ISO 1711 | Packing: Red Canvas Roll-up Pouch / Plastic Case / Color Box + Carton'
-faq: 'Q: What is the difference between mirror polish and satin finish? A: Mirror polish provides maximum corrosion resistance and easy cleaning; satin finish reduces glare and hides scratches in workshop
-  environments. | Q: Can I get a custom size range? A: Yes; we can assemble custom sets with any metric or SAE size combination starting from 500 sets. | Q: Are these suitable for impact use? A: No; these
-  are hand wrenches for standard torque applications. For impact use please see our impact wrench socket sets. | Q: What is chrome vanadium steel? A: CR-V is an alloy steel with chromium and vanadium that
-  provides high strength toughness and wear resistance for professional hand tools.'
+faq:
+  - question: "What is the difference between mirror polish and satin finish?"
+    answer: "Mirror polish provides maximum corrosion resistance and easy cleaning; satin finish reduces glare and hides scratches in workshop environments."
+  - question: "Can I get a custom size range?"
+    answer: "Yes; we can assemble custom sets with any metric or SAE size combination starting from 500 sets."
+  - question: "Are these suitable for impact use?"
+    answer: "No; these are hand wrenches for standard torque applications. For impact use please see our impact wrench socket sets."
+  - question: "What is chrome vanadium steel?"
+    answer: "CR-V is an alloy steel with chromium and vanadium that provides high strength toughness and wear resistance for professional hand tools."
 image: https://img.toolsd.com/file/1782976205777_702-22.jpg
 gallery:
 - https://img.toolsd.com/file/1782976205777_702-22.jpg
