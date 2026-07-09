@@ -18,9 +18,15 @@ mixed_order: Mixed container orders accepted
 specifications: 'Bit Material: Chrome Vanadium Steel / S2 Alloy Steel | Handle Material: PP + TPR Soft Grip / Magnetic Aluminum | Bit Finish: Sandblasted / Nickel Plated / Black Oxide | Handle Finish: Color-coded
   by type | Bit Types: Phillips PH0-PH3 / Slotted SL3-SL6 / Torx T10-T40 / Hex H2-H6 / Pozidriv PZ1-PZ3 / Square | Shank Size: 1/4" hex (6.35mm) | Length: 25mm / 50mm / 75mm / 100mm | Hardness: HRC 58-62
   (S2) / HRC 52-56 (CR-V) | Magnetic: Yes | Case: Transparent PP / ABS organizer | Standard: ISO 9001 / DIN 5265 | Packing: Blister Card / Transparent Case + Carton'
-faq: 'Q: What is the difference between CR-V and S2 steel bits? A: S2 alloy steel offers higher hardness HRC 58-62 and longer life for professional daily use; CR-V at HRC 52-56 is cost-effective for occasional
-  DIY use. | Q: Are the bits magnetic? A: Yes; all bits feature strong magnetic tips that hold screws securely for one-handed operation. | Q: Can these be used with an electric screwdriver? A: Yes; the
-  1/4" hex shank fits all standard cordless screwdrivers and impact drivers. | Q: What is the warranty on S2 bits? A: S2 bits carry a 1-year replacement warranty against breakage under normal use conditions.'
+faq:
+  - question: "What is the difference between CR-V and S2 steel bits?"
+    answer: "S2 alloy steel offers higher hardness HRC 58-62 and longer life for professional daily use; CR-V at HRC 52-56 is cost-effective for occasional DIY use."
+  - question: "Are the bits magnetic?"
+    answer: "Yes; all bits feature strong magnetic tips that hold screws securely for one-handed operation."
+  - question: "Can these be used with an electric screwdriver?"
+    answer: "Yes; the 1/4\" hex shank fits all standard cordless screwdrivers and impact drivers."
+  - question: "What is the warranty on S2 bits?"
+    answer: "S2 bits carry a 1-year replacement warranty against breakage under normal use conditions."
 image: https://img.toolsd.com/file/1782976209618_702-23.jpg
 gallery:
 - https://img.toolsd.com/file/1782976209618_702-23.jpg
