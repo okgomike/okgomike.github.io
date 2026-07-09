@@ -18,10 +18,15 @@ mixed_order: Mixed container orders accepted
 specifications: 'Material: Chrome Vanadium Steel CR-V (socket) / Carbon Steel (handle) | Handle Material: ABS + TPR Soft Grip | Finish: Chrome Plated / Nickel Plated / Black Oxide | Drive Sizes: 1/4" /
   3/8" / 1/2" | Handle Length: 250mm / 300mm / 350mm / 400mm | Sliding Bar Length: 150mm - 250mm | Socket Range: 8mm - 32mm (metric) | Socket Type: 6-point / 12-point | Standard: DIN 3120 / ISO 1174 | Torque
   Capacity: 1/4" 30 Nm; 3/8" 80 Nm; 1/2" 150 Nm | Packing: Blister Card / Color Box + Carton'
-faq: 'Q: What is the advantage of a T-handle over a ratchet? A: T-handles provide two-handed leverage for high-torque applications and allow quick spinning of fasteners by sliding the bar to one side. |
-  Q: Can the sliding bar be removed? A: Yes; the sliding cross-bar detaches for compact storage and can be repositioned for maximum leverage. | Q: Are deep sockets included? A: Yes; both standard and deep
-  sockets are available in the assortment. Custom socket sets can be configured. | Q: What drive size do I need for automotive work? A: 3/8" drive is the most versatile for automotive; 1/2" for heavy-duty
-  suspension and truck work; 1/4" for small fasteners and interior trim.'
+faq:
+  - question: "What is the advantage of a T-handle over a ratchet?"
+    answer: "T-handles provide two-handed leverage for high-torque applications and allow quick spinning of fasteners by sliding the bar to one side."
+  - question: "Can the sliding bar be removed?"
+    answer: "Yes; the sliding cross-bar detaches for compact storage and can be repositioned for maximum leverage."
+  - question: "Are deep sockets included?"
+    answer: "Yes; both standard and deep sockets are available in the assortment. Custom socket sets can be configured."
+  - question: "What drive size do I need for automotive work?"
+    answer: "3/8\" drive is the most versatile for automotive; 1/2\" for heavy-duty suspension and truck work; 1/4\" for small fasteners and interior trim."
 image: https://img.toolsd.com/file/1782976205777_702-22.jpg
 gallery:
 - https://img.toolsd.com/file/1782976205777_702-22.jpg
