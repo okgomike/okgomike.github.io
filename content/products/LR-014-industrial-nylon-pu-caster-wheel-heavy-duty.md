@@ -8,7 +8,7 @@ categories:
   - lifting-rigging-equipment
 main_keyword: "industrial nylon PU caster wheel"
 long_tail_keywords: "wholesale industrial caster wheel, nylon PU caster bulk, heavy duty trolley wheel supplier, swivel caster wheel manufacturer, plate mount caster Yiwu, machinery caster wheel wholesale"
-date: "2026-07-09T12:00:00+08:00"
+date: "2026-07-07T12:00:00+08:00"
 draft: false
 image: "https://img.toolsd.com/file/1783561240003_709-2.jpg"
 gallery:
