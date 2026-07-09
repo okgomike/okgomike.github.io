@@ -13,7 +13,7 @@ permissions:
 
 concurrency:
   group: "pages"
-  cancel-in-progress: true   # 建议改为 true，避免旧构建占用资源
+  cancel-in-progress: true
 
 defaults:
   run:
@@ -22,21 +22,28 @@ defaults:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # 强制使用 Node 24，减少警告
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
-          fetch-depth: 0
+          fetch-depth: 1
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.140.0'     # 建议更新到较新稳定版（比 0.125.0 更新）
+          hugo-version: '0.140.0'
           extended: true
+
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: |
+            /tmp/hugo_cache
+            ~/.cache/hugo
+          key: ${{ runner.os }}-hugo-${{ hashFiles('config.yaml', 'content/products/**') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-
 
       - name: Setup Pages
         id: pages
@@ -48,8 +55,8 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo \
-            --gc \
             --minify \
+            --cacheDir /tmp/hugo_cache \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
       - name: Upload artifact
