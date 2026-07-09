@@ -26,9 +26,15 @@ mixed_order: Mixed container orders accepted
 specifications: 'Material: YG8 Tungsten Carbide / Corundum (Al2O3) | Shank Material: 45# Carbon Steel | Shank Diameter: 3mm / 6mm | Head Diameter: 3mm / 6mm / 8mm / 10mm / 12mm / 16mm | Head Shapes: Cylindrical
   / Ball / Tree / Cone / Oval / Flame / Inverted Cone | Grit Grade: A (Coarse) to W (Fine) | Max RPM: 15,000 - 35,000 | Coating: Nickel Plated Shank | Application: Metal Engraving / Casting Deburring /
   Weld Grinding | Packing: Plastic Case + Carton'
-faq: 'Q: What is the difference between carbide burrs and mounted points? A: Carbide burrs cut aggressively on hard metals; mounted points are economical for general deburring and softer materials. | Q:
-  What tool do I need to use these? A: A die grinder rotary tool or flexible shaft grinder with 3mm or 6mm collet. | Q: How long do carbide burrs last? A: 50-200 hours depending on material pressure and
-  RPM; always use at recommended speed. | Q: Can I order custom head shapes? A: Yes; custom shapes and special profiles available for orders over 5,000 pcs.'
+faq:
+  - question: "What is the difference between carbide burrs and mounted points?"
+    answer: "Carbide burrs cut aggressively on hard metals; mounted points are economical for general deburring and softer materials."
+  - question: "What tool do I need to use these?"
+    answer: "A die grinder rotary tool or flexible shaft grinder with 3mm or 6mm collet."
+  - question: "How long do carbide burrs last?"
+    answer: "50‑200 hours depending on material pressure and RPM; always use at recommended speed."
+  - question: "Can I order custom head shapes?"
+    answer: "Yes; custom shapes and special profiles available for orders over 5,000 pcs."
 draft: false
 date: '2026-07-02T09:00:00+08:00'
 ---
