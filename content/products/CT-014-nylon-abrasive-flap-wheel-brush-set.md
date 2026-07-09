@@ -28,9 +28,15 @@ mixed_order: Mixed container orders accepted
 specifications: 'Abrasive Material: Silicon Carbide / Aluminum Oxide | Base Material: Nylon 6/6 Fiber | Grit Range: 60# 80# 120# 180# 240# 320# | Diameter Range: 50mm / 75mm / 100mm / 125mm / 150mm | Width:
   25mm / 30mm / 40mm / 50mm | Shank Diameter: 6mm (for mounted types) | Max RPM: 4500 - 12000 | Color: Purple / Brown / Black / Green | Application: Deburring Polishing Cleaning | Packing: Plastic Box +
   Carton'
-faq: 'Q: What is the advantage of nylon abrasive over wire brush? A: Nylon abrasive will not rust damage substrate or leave ferrous contamination making it ideal for stainless steel and aluminum. | Q: Can
-  these be used on wood? A: Yes; excellent for wood grain raising and between-coat sanding without clogging. | Q: What speed should I run these wheels? A: Recommended 4,500 - 8,000 RPM depending on diameter;
-  do not exceed max rated speed. | Q: Are mounted versions available? A: Yes; 6mm shank mounted flap wheels and end brushes are available for die grinders and drills.'
+faq:
+  - question: "What is the advantage of nylon abrasive over wire brush?"
+    answer: "Nylon abrasive will not rust damage substrate or leave ferrous contamination making it ideal for stainless steel and aluminum."
+  - question: "Can these be used on wood?"
+    answer: "Yes; excellent for wood grain raising and between‑coat sanding without clogging."
+  - question: "What speed should I run these wheels?"
+    answer: "Recommended 4,500‑8,000 RPM depending on diameter; do not exceed max rated speed."
+  - question: "Are mounted versions available?"
+    answer: "Yes; 6mm shank mounted flap wheels and end brushes are available for die grinders and drills."
 draft: false
 date: '2026-07-02T09:00:00+08:00'
 ---
