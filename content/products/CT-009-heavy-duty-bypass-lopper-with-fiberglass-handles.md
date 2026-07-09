@@ -24,8 +24,15 @@ customization: OEM/ODM accepted; laser logo on blade
 mixed_order: Mixed container orders accepted
 specifications: 'Blade Material: Hardened 65Mn Carbon Steel | Handle Material: Fiberglass with TPR Grip | Cutting Capacity: Up to 50mm Diameter | Overall Length: 600mm / 750mm / 900mm | Blade Finish: Chrome
   Plated + Anti-rust Coating | Handle Color: Red + Black | Weight: 580g - 820g | Packing: Color Box + Carton'
-faq: 'Q: What is the cutting capacity? A: This lopper can cut branches up to 50mm in diameter. | Q: Is the handle length adjustable? A: We offer three fixed lengths (600mm / 750mm / 900mm). | Q: Can I customize
-  the handle color? A: Yes; handle grip colors can be customized for bulk orders. | Q: What is the MOQ for custom branding? A: 1,000 pcs with laser logo on blade.'
+faq:
+  - question: "What is the cutting capacity?"
+    answer: "This lopper can cut branches up to 50mm in diameter."
+  - question: "Is the handle length adjustable?"
+    answer: "We offer three fixed lengths (600mm / 750mm / 900mm)."
+  - question: "Can I customize the handle color?"
+    answer: "Yes; handle grip colors can be customized for bulk orders."
+  - question: "What is the MOQ for custom branding?"
+    answer: "1,000 pcs with laser logo on blade."
 draft: false
 date: '2026-07-02T09:00:00+08:00'
 ---
