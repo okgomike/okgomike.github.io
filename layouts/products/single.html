@@ -121,78 +121,113 @@
         </div>
         {{ end }}
 
-        {{ if .Params.core_features }}
+                {{ if .Params.core_features }}
         <div class="tab-panel">
           <h2>Core Features</h2>
           <div class="tab-body">
-            {{ $features := split .Params.core_features ";" }}
-            {{ if gt (len $features) 1 }}
+            {{ if reflect.IsSlice .Params.core_features }}
             <ul class="feature-list">
-              {{ range $features }}
+              {{ range .Params.core_features }}
               <li>{{ . }}</li>
               {{ end }}
             </ul>
             {{ else }}
-            <p>{{ .Params.core_features }}</p>
+              {{ $features := split .Params.core_features ";" }}
+              {{ if gt (len $features) 1 }}
+              <ul class="feature-list">
+                {{ range $features }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+              {{ else }}
+              <p>{{ .Params.core_features }}</p>
+              {{ end }}
             {{ end }}
           </div>
         </div>
         {{ end }}
 
-        {{ if .Params.application_scenarios }}
+         {{ if .Params.application_scenarios }}
         <div class="tab-panel">
           <h2>Application Scenarios</h2>
           <div class="tab-body">
-            {{ $scenarios := split .Params.application_scenarios ";" }}
-            {{ if gt (len $scenarios) 1 }}
+            {{ if reflect.IsSlice .Params.application_scenarios }}
             <ul class="feature-list">
-              {{ range $scenarios }}
+              {{ range .Params.application_scenarios }}
               <li>{{ . }}</li>
               {{ end }}
             </ul>
             {{ else }}
-            <p>{{ .Params.application_scenarios }}</p>
+              {{ $scenarios := split .Params.application_scenarios ";" }}
+              {{ if gt (len $scenarios) 1 }}
+              <ul class="feature-list">
+                {{ range $scenarios }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+              {{ else }}
+              <p>{{ .Params.application_scenarios }}</p>
+              {{ end }}
             {{ end }}
           </div>
         </div>
         {{ end }}
+
 
         {{ if .Params.differentiate_advantages }}
         <div class="tab-panel">
           <h2>Why Choose Us</h2>
           <div class="tab-body">
-            {{ $advantages := split .Params.differentiate_advantages ";" }}
-            {{ if gt (len $advantages) 1 }}
+            {{ if reflect.IsSlice .Params.differentiate_advantages }}
             <ul class="feature-list">
-              {{ range $advantages }}
+              {{ range .Params.differentiate_advantages }}
               <li>{{ . }}</li>
               {{ end }}
             </ul>
             {{ else }}
-            <p>{{ .Params.differentiate_advantages }}</p>
+              {{ $advantages := split .Params.differentiate_advantages ";" }}
+              {{ if gt (len $advantages) 1 }}
+              <ul class="feature-list">
+                {{ range $advantages }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+              {{ else }}
+              <p>{{ .Params.differentiate_advantages }}</p>
+              {{ end }}
             {{ end }}
           </div>
         </div>
         {{ end }}
 
-        {{ if .Params.specifications }}
+
+         {{ if .Params.specifications }}
         <div class="tab-panel">
           <h2>Specifications</h2>
           <div class="tab-body">
-            {{ $specs := .Params.specifications }}
-            {{ $parts := split $specs " | " }}
-            {{ if gt (len $parts) 1 }}
+            {{ if reflect.IsSlice .Params.specifications }}
             <div class="spec-grid">
-              {{ range $parts }}
+              {{ range .Params.specifications }}
               <div class="spec-item">{{ . }}</div>
               {{ end }}
             </div>
             {{ else }}
-            {{ $specs | markdownify }}
+              {{ $specs := .Params.specifications }}
+              {{ $parts := split $specs " | " }}
+              {{ if gt (len $parts) 1 }}
+              <div class="spec-grid">
+                {{ range $parts }}
+                <div class="spec-item">{{ . }}</div>
+                {{ end }}
+              </div>
+              {{ else }}
+              {{ $specs | markdownify }}
+              {{ end }}
             {{ end }}
           </div>
         </div>
         {{ end }}
+
 
        {{/* 优先读取新字段faqData，兜底兼容旧faq/faq_string/faq_content */}}
 {{ $rawFaq := or .Params.faqData .Params.faq .Params.faq_string .Params.faq_content }}
