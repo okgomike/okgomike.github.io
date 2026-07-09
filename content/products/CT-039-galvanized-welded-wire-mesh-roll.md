@@ -2,7 +2,8 @@
 sku: CT-039
 title: CT-039 Galvanized Welded Wire Mesh Roll | Factory Wholesale Supplier
 meta_description: CT-039 galvanized welded wire mesh roll. Heavy-duty for fencing/construction. OEM, 100 rolls MOQ, ISO9001. Wholesale wire mesh importer & contractor.
-category_1: Construction Tools
+categories:
+- construction-tools
 category_2: Wire Mesh & Fencing
 main_keyword: welded wire mesh
 long_tail_keywords: wholesale galvanized welded wire mesh OEM, heavy duty wire mesh roll bulk supplier, construction fencing mesh importer, welded wire fence factory direct, CT-039-wire-mesh
