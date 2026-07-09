@@ -37,7 +37,12 @@ gw_nw: 17/15
 specifications: 'Set Contents: Pruning Shears + Flower Scissors + Grafting Knife | Blade Material: Stainless Steel 420J2 | Handle Material: Anodized Aluminum | Pruning Shears Length: 200mm | Flower Scissors
   Length: 160mm | Grafting Knife Length: 180mm | Cutting Capacity: Up to 15mm (pruner) | Handle Colors: Red, Green, Blue, Orange, Pink | Safety Features: Lock on shears, sheath on knife | Knife Blade: Straight
   edge, 65mm | Weight per Set: 380g | Packing: Color box with tray | Carton Qty: 40 sets | Carton Size: 55x40x30cm | GW/NW: 17/15kg'
-faq: 'Q: Is the knife sharp enough for grafting? A: Yes, the grafting knife has a razor-sharp beveled edge for clean cuts. | Q: Can I choose different color handles? A: Yes, handle colors customizable MOQ
-  100 sets. | Q: What is the scissors used for? A: Flower scissors are for deadheading, trimming herbs and precise cutting.'
+faq:
+  - question: "Is the knife sharp enough for grafting?"
+    answer: "Yes, the grafting knife has a razor‑sharp beveled edge for clean cuts."
+  - question: "Can I choose different color handles?"
+    answer: "Yes, handle colors customizable MOQ 100 sets."
+  - question: "What is the scissors used for?"
+    answer: "Flower scissors are for deadheading, trimming herbs and precise cutting."
 ---
 This versatile 3-piece garden scissors set covers all basic gardening cutting needs. The set includes one bypass pruning shears for branch cutting, one precision flower scissors for deadheading and detail work, and one grafting knife for budding and grafting tasks. All blades are made from corrosion-resistant stainless steel that stays sharp longer. Lightweight aluminum alloy handles come in vibrant colors for easy identification. Each tool features a safety lock or protective sheath. Perfect for home gardeners, florists, nursery workers and landscaping professionals.
