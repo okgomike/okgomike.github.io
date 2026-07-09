@@ -26,9 +26,15 @@ mixed_order: Mixed container orders accepted
 specifications: 'Material: 100% Natural Wool / High-Density PU Sponge / Compressed Felt | Pad Diameter: 75mm / 100mm / 125mm / 150mm / 180mm | Backing Type: Hook & Loop (Velcro) / M14 Thread / M16 Thread
   | Thickness: 10mm - 30mm | Density: Low / Medium / High | Color: White / Yellow / Black / Orange / Green | Max RPM: 2,500 - 4,500 | Application: Automotive Paint / Metal Buffing / Marble Polishing | Packing:
   Color Box + Carton'
-faq: 'Q: What is the difference between wool and sponge pads? A: Wool pads cut faster and remove deeper defects; sponge pads provide smoother, finer finishing. | Q: Can these be used with a standard angle
-  grinder? A: Yes; M14 threaded backing fits most angle grinders; hook-loop backing requires a backing plate. | Q: What polishing compound should I use? A: Coarse compound with wool; fine compound with
-  sponge; final glaze with felt. | Q: Are these washable and reusable? A: Wool pads can be washed with warm water and mild soap; sponge pads are typically replaced after heavy use.'
+faq:
+  - question: "What is the difference between wool and sponge pads?"
+    answer: "Wool pads cut faster and remove deeper defects; sponge pads provide smoother, finer finishing."
+  - question: "Can these be used with a standard angle grinder?"
+    answer: "Yes; M14 threaded backing fits most angle grinders; hook‑loop backing requires a backing plate."
+  - question: "What polishing compound should I use?"
+    answer: "Coarse compound with wool; fine compound with sponge; final glaze with felt."
+  - question: "Are these washable and reusable?"
+    answer: "Wool pads can be washed with warm water and mild soap; sponge pads are typically replaced after heavy use."
 draft: false
 date: '2026-07-02T09:00:00+08:00'
 ---
