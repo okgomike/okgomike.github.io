@@ -18,9 +18,15 @@ mixed_order: Mixed container orders accepted
 specifications: 'Body Material: ABS Engineering Plastic | Probe Material: 304 Stainless Steel | Display: LCD 4-digit | Measuring Range: 0-25mm (0-1 inch) | Resolution: 0.01mm / 0.0005 inch | Accuracy: ±0.02mm
   | Units: Metric / Imperial switchable | Auto Power Off: 5 minutes | Battery: LR44 / AG13 1.5V (included) | Button: Zero-setting / Unit switch / Power | Color: Black / Blue / Red / Yellow | Standard: ISO
   9001 | Certification: CE / RoHS | Packing: Blister Card / Color Box + Carton'
-faq: 'Q: How do I replace the battery? A: Remove the small screw on the back cover; replace with one LR44 or AG13 1.5V alkaline button cell. | Q: Can this measure brake pad thickness? A: Yes; the narrow
-  probe tip can measure brake pad material thickness in addition to tire tread depth. | Q: What tread depth indicates tire replacement? A: Most jurisdictions require minimum 1.6mm (2/32 inch); we recommend
-  replacement at 3mm for safety in wet conditions. | Q: Is the probe rust-resistant? A: Yes; the 304 stainless steel probe resists corrosion from road salt and moisture.'
+faq:
+  - question: "How do I replace the battery?"
+    answer: "Remove the small screw on the back cover; replace with one LR44 or AG13 1.5V alkaline button cell."
+  - question: "Can this measure brake pad thickness?"
+    answer: "Yes; the narrow probe tip can measure brake pad material thickness in addition to tire tread depth."
+  - question: "What tread depth indicates tire replacement?"
+    answer: "Most jurisdictions require minimum 1.6mm (2/32 inch); we recommend replacement at 3mm for safety in wet conditions."
+  - question: "Is the probe rust-resistant?"
+    answer: "Yes; the 304 stainless steel probe resists corrosion from road salt and moisture."
 image: https://img.toolsd.com/file/1782976209618_702-23.jpg
 gallery:
 - https://img.toolsd.com/file/1782976209618_702-23.jpg
