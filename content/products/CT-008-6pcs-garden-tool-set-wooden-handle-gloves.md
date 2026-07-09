@@ -39,7 +39,14 @@ specifications: 'Set Contents: Trowel + Fork + Rake + Hoe + Pruning Shears + Glo
   Material: Solid Hardwood | Glove Material: Breathable Fabric + Rubber Palm | Glove Sizes: M, L, XL | Handle Colors: Natural, Green, Red, Blue | Shears Cutting Capacity: Up to 15mm | Bag Material: 600D
   Oxford Fabric | Bag Pockets: 6 tool pockets + 1 zip pocket | Weight per Set: 1.2kg | Application: Home gardening, balcony, gift set | Packing: Carrying bag with insert card | Carton Qty: 30 sets | Carton
   Size: 55x40x35cm | GW/NW: 18/16kg'
-faq: 'Q: Are the gloves machine washable? A: Yes, hand wash or gentle machine cycle, air dry. | Q: What size are the gloves? A: Medium is standard, but Large and XL available on request. | Q: Is the bag
-  waterproof? A: The 600D Oxford fabric is water-resistant, not fully waterproof. | Q: Can I customize the bag color? A: Yes, bag colors available: green, black, blue, red, beige.'
+faq:
+  - question: "Are the gloves machine washable?"
+    answer: "Yes, hand wash or gentle machine cycle, air dry."
+  - question: "What size are the gloves?"
+    answer: "Medium is standard, but Large and XL available on request."
+  - question: "Is the bag waterproof?"
+    answer: "The 600D Oxford fabric is water‑resistant, not fully waterproof."
+  - question: "Can I customize the bag color?"
+    answer: "Yes, bag colors available: green, black, blue, red, beige."
 ---
 This comprehensive 6-piece garden tool set provides everything a home gardener needs to get started. The set includes a transplanting trowel, a hand fork, a mini rake, a draw hoe, a pair of bypass pruning shears and a pair of protective gardening gloves. All metal tools feature durable carbon steel heads with anti-rust coating and solid hardwood handles for comfortable, long-lasting use. The pruning shears have stainless steel blades with a safety lock. The gardening gloves feature breathable fabric backs with rubber-coated palms for grip and protection. All tools come in a convenient carrying bag with pockets for organized storage and transport. Perfect for home gardens, balconies, community gardens and as a gift set.
