@@ -8,7 +8,7 @@ categories:
   - locks-door-hardware
 main_keyword: "rubber magnetic door stop"
 long_tail_keywords: "wholesale door stop bumper set, magnetic door catch bulk, rubber door stopper supplier, wall mount door stop manufacturer, floor mount door bumper Yiwu, door holder hardware wholesale"
-date: "2026-07-09T12:00:00+08:00"
+date: "2026-07-07T12:00:00+08:00"
 draft: false
 image: "https://img.toolsd.com/file/1783561244316_709-1.jpg"
 gallery:
