@@ -19,10 +19,15 @@ specifications: 'Material: Chrome Vanadium Steel CR-V 6150 | Finish: Black Oxide
   Metric: 1.5mm / 2mm / 2.5mm / 3mm / 4mm / 5mm / 6mm / 8mm / 10mm | Size Range SAE: 1/16" / 5/64" / 3/32" / 1/8" / 5/32" / 3/16" / 1/4" / 5/16" / 3/8" | Hardness: HRC 52-56 | Ball End Angle: 25-degree
   working angle | Torque Capacity: Exceeds DIN 911 standard | Case: Plastic Organizer / Folding Metal Holder / Canvas Pouch | Standard: DIN 911 / ISO 2936 | Packing: Plastic Case / Folding Holder / Color
   Box + Carton'
-faq: 'Q: What is the advantage of ball-end hex keys? A: The ball end allows insertion and turning at up to a 25-degree angle, enabling work in tight spaces where straight insertion is impossible. | Q: Are
-  these suitable for high-torque applications? A: Yes; CR-V 6150 steel with hardness HRC 52-56 withstands torque exceeding DIN 911 requirements without twisting. | Q: Can I get both metric and SAE in one
-  set? A: Yes; combination sets with 18 pieces covering both metric and SAE sizes are available. | Q: What case options are available? A: Plastic organizer cases, folding metal holders, canvas pouches and
-  key-ring style holders are all available with custom branding.'
+faq:
+  - question: "What is the advantage of ball‑end hex keys?"
+    answer: "The ball end allows insertion and turning at up to a 25‑degree angle, enabling work in tight spaces where straight insertion is impossible."
+  - question: "Are these suitable for high‑torque applications?"
+    answer: "Yes; CR‑V 6150 steel with hardness HRC 52‑56 withstands torque exceeding DIN 911 requirements without twisting."
+  - question: "Can I get both metric and SAE in one set?"
+    answer: "Yes; combination sets with 18 pieces covering both metric and SAE sizes are available."
+  - question: "What case options are available?"
+    answer: "Plastic organizer cases, folding metal holders, canvas pouches and key‑ring style holders are all available with custom branding."
 image: https://img.toolsd.com/file/1782976209618_702-23.jpg
 gallery:
 - https://img.toolsd.com/file/1782976209618_702-23.jpg
