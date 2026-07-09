@@ -37,7 +37,14 @@ gw_nw: 19/17
 specifications: 'Blade Material: SK-5 High Carbon Steel | Body Material: Aluminum Alloy | Blade Type: Bypass | Cutting Capacity: Up to 20mm | Overall Length: 200mm (8") | Blade Length: 55mm | Handle Material:
   TPR Rubber Coated | Handle Colors: Red, Green, Yellow, Blue, Black | Safety Lock: Yes, thumb-operated | Blade Finish: Chrome Plated | Adjustment: Blade tension screw | Weight per Unit: 210g | Packing:
   Blister card | Carton Qty: 80 pcs | Carton Size: 52x38x28cm | GW/NW: 19/17kg'
-faq: 'Q: What is SK-5 steel? A: SK-5 is a Japanese high carbon tool steel known for excellent edge retention. | Q: Can these cut wet branches? A: Yes, but dry and clean blades after use to prevent rust.
-  | Q: What is bypass vs anvil? A: Bypass has two blades that slide past each other for clean cuts on live plants. | Q: Are replacement blades available? A: Yes, replacement blades available MOQ 100 sets.'
+faq:
+  - question: "What is SK-5 steel?"
+    answer: "SK-5 is a Japanese high carbon tool steel known for excellent edge retention."
+  - question: "Can these cut wet branches?"
+    answer: "Yes, but dry and clean blades after use to prevent rust."
+  - question: "What is bypass vs anvil?"
+    answer: "Bypass has two blades that slide past each other for clean cuts on live plants."
+  - question: "Are replacement blades available?"
+    answer: "Yes, replacement blades available MOQ 100 sets."
 ---
 These professional bypass pruning shears feature premium SK-5 high carbon steel blades that maintain sharpness through extended use. The bypass cutting action provides clean, precise cuts on live branches and stems up to 20mm diameter. Adjustable blade tension allows customization for different cutting tasks. Ergonomic TPR rubber-coated handles reduce hand fatigue and provide a secure non-slip grip. Safety lock mechanism keeps blades closed when not in use. Ideal for vineyards, orchards, nurseries, landscaping and home gardening.
