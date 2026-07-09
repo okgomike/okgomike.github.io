@@ -2,7 +2,8 @@
 sku: CT-034
 title: CT-034 Locking Plier Vise-Grip & Aviation Tin Snips Set | Factory Wholesale Supplier
 meta_description: CT-034 locking plier and tin snips set. Drop-forged steel for metalworking/HVAC. OEM/ODM, 50pcs MOQ, ISO9001. Wholesale for industrial tool distributors.
-category_1: Construction Tools
+categories:
+- construction-tools
 category_2: Cutting & Clamping Tools
 main_keyword: locking plier set
 long_tail_keywords: wholesale locking plier vise grip set OEM, aviation tin snips bulk supplier, drop forged locking plier importer, HVAC duct cutting tool factory direct, CT-034-locking-plier
