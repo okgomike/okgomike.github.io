@@ -2,7 +2,8 @@
 sku: CT-037
 title: CT-037 Pneumatic Coil Nail Gun Framing Nailer | Factory Wholesale Supplier
 meta_description: CT-037 pneumatic coil nail gun. High-pressure framing nailer for construction. OEM, 50pcs MOQ, CE. Wholesale pneumatic tool importer & contractor.
-category_1: Construction Tools
+categories:
+- construction-tools
 category_2: Pneumatic Tools
 main_keyword: pneumatic coil nail gun
 long_tail_keywords: wholesale pneumatic nail gun OEM, framing nailer bulk supplier, air powered nail gun importer, construction pneumatic tool factory direct, CT-037-nail-gun
