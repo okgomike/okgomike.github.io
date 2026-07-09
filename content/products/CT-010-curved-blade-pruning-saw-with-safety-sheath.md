@@ -24,9 +24,15 @@ customization: OEM/ODM accepted; custom sheath color
 mixed_order: Mixed container orders accepted
 specifications: 'Blade Material: SK5 High Carbon Steel | Blade Type: Curved with 3-Sided Ground Teeth | Teeth Per Inch: 7 TPI | Cutting Capacity: Up to 150mm Diameter | Blade Length: 180mm / 210mm / 240mm
   | Handle Material: PP Plastic with Non-slip Texture | Sheath Material: Durable PP Plastic | Overall Weight: 180g - 260g | Packing: Blister Card + Carton'
-faq: 'Q: What type of teeth does the saw have? A: 3-sided ground teeth at 7 TPI for fast aggressive cutting. | Q: Is the sheath included? A: Yes; every saw comes with a durable PP plastic safety sheath.
-  | Q: Can this saw cut wet wood? A: Yes; SK5 steel resists corrosion and cuts effectively in wet or dry conditions. | Q: What is the blade replacement policy? A: Replacement blades are available for orders
-  over 3,000 pcs.'
+faq:
+  - question: "What type of teeth does the saw have?"
+    answer: "3‑sided ground teeth at 7 TPI for fast aggressive cutting."
+  - question: "Is the sheath included?"
+    answer: "Yes; every saw comes with a durable PP plastic safety sheath."
+  - question: "Can this saw cut wet wood?"
+    answer: "Yes; SK5 steel resists corrosion and cuts effectively in wet or dry conditions."
+  - question: "What is the blade replacement policy?"
+    answer: "Replacement blades are available for orders over 3,000 pcs."
 draft: false
 date: '2026-07-02T09:00:00+08:00'
 ---
