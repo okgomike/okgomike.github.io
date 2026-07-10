@@ -2,48 +2,18 @@
 {{ $filterCat := .Params.category_filter | default "" }}
 {{ $filterSub := .Params.subcategory_filter | default "" }}
 
-{{ $products := slice }}
-{{ range .Site.RegularPages }}
-  {{ $catMatch := false }}
-  {{ $subMatch := false }}
-  
-  {{ if not $filterCat }}
-    {{ $catMatch = true }}
-  {{ else }}
-    {{ range .Params.categories }}
-      {{ $catSlug := . | lower | replace " & " "-" | replace " " "-" }}
-      {{ if eq $catSlug $filterCat }}
-        {{ $catMatch = true }}
-      {{ end }}
-    {{ end }}
-    {{ if .Params.category }}
-      {{ $catSlug := .Params.category | lower | replace " & " "-" | replace " " "-" }}
-      {{ if eq $catSlug $filterCat }}
-        {{ $catMatch = true }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-  
-  {{ if not $filterSub }}
-    {{ $subMatch = true }}
-  {{ else }}
-    {{ if .Params.category_2 }}
-      {{ if eq .Params.category_2 $filterSub }}
-        {{ $subMatch = true }}
-      {{ end }}
-    {{ end }}
-    {{ range .Params.categories }}
-      {{ $subSlug := . | lower | replace " & " "-" | replace " " "-" }}
-      {{ if eq $subSlug $filterSub }}
-        {{ $subMatch = true }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-  
-  {{ if and $catMatch $subMatch }}
-    {{ $products = $products | append . }}
-  {{ end }}
+{{ $products := .Site.RegularPages }}
+{{ if $filterCat }}
+  {{ $products = where $products ".Params.categories" "intersect" (slice $filterCat) }}
 {{ end }}
+{{ if $filterSub }}
+  {{ $cat2Products := where $products ".Params.category_2" $filterSub }}
+  {{ $catArrayProducts := where $products ".Params.categories" "intersect" (slice $filterSub) }}
+  {{ $products = $cat2Products | union $catArrayProducts }}
+{{ end }}
+
+
+
 
 
 <section class="page-header">
