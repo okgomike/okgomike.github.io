@@ -4,6 +4,7 @@ title: AT-010 Hex Key Allen Wrench Set
 slug: at-010-hex-key-allen-wrench-set
 categories:
 - automotive-repair-tools
+- screwdrivers-pliers
 summary: Chrome vanadium steel hex key Allen wrench set in metric sizes with ball ends and folding organizers for automotive and machinery repair.
 moq: 1000 sets
 price_range: $0.30 - $2.00 / set

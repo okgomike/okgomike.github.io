@@ -4,6 +4,7 @@ title: CT-014 Nylon Abrasive Flap Wheel & Brush Set
 slug: ct-014-nylon-abrasive-flap-wheel-brush-set
 categories:
 - construction-tools
+- welding-tools
 tags:
 - nylon abrasive
 - flap wheel

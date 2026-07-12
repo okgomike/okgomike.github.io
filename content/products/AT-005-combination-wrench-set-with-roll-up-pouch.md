@@ -4,6 +4,7 @@ title: AT-005 Combination Wrench Set with Roll-up Pouch
 slug: at-005-combination-wrench-set-with-roll-up-pouch
 categories:
 - automotive-repair-tools
+- socket-wrench-sets
 summary: Chrome vanadium steel combination wrenches with open end and box end in metric sizes with red canvas roll-up pouch for automotive and mechanical repair.
 moq: 500 sets
 price_range: $15.00 - $45.00 / set

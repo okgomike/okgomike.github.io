@@ -5,7 +5,8 @@ sku: "LR-013"
 meta_description: "Wholesale metal pulley hanging roller bearing wheel set for sliding doors windows and industrial tracks. Zinc plated and brass plated options. Yiwu hardware supplier."
 Price_range: "$0.80 - $8.00 / pc"
 categories:
-  - lifting-rigging-equipment
+- lifting-rigging-equipment
+- chain-hoists
 main_keyword: "metal pulley hanging roller"
 long_tail_keywords: "wholesale metal pulley wheel set, hanging roller bearing bulk, sliding door metal pulley supplier, window track roller manufacturer, industrial pulley wheel Yiwu, metal hanging wheel wholesale"
 date: "2026-07-07T12:00:00+08:00"

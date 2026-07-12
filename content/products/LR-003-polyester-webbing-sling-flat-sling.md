@@ -4,6 +4,7 @@ title: LR-003 Polyester Webbing Sling Flat Sling
 slug: lr-003-polyester-webbing-sling-flat-sling
 categories:
 - lifting-rigging-equipment
+- wire-rope-slings
 tags:
 - webbing sling
 - flat sling

@@ -4,7 +4,8 @@ title: CT-035 12-Inch Professional Hacksaw Frame with Blades | Factory Wholesale
 meta_description: CT-035 12" professional hacksaw frame. Adjustable tension for metal/plastic cutting. OEM/ODM, 50pcs MOQ, ISO9001. Wholesale for cutting tool distributors.
 categories:
 - construction-tools
-category_2: Cutting & Clamping Tools
+- cutting-tools
+category_2: cutting-tools
 main_keyword: professional hacksaw
 long_tail_keywords: wholesale 12 inch hacksaw frame OEM, professional hacksaw with blade bulk supplier, metal cutting hacksaw importer, adjustable tension hacksaw factory direct, CT-035-hacksaw
 material: Aluminum Alloy Die-Cast Frame; Chrome Vanadium Steel Blade (HRC 62-65); Rubber Overmold Handle

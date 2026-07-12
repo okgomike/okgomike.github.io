@@ -11,7 +11,7 @@ description: This 5-piece angled sash paint brush set is specially designed for 
 image: https://img.toolsd.com/file/1782911017301_701-3.jpg
 categories:
 - renovation-decoration-tools
-- paint-tools
+- paint-rollers-brushes
 tags:
 - angled-brush
 - sash-brush

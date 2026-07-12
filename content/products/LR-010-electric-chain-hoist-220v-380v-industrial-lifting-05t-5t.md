@@ -5,8 +5,9 @@ sku: "LR-010"
 meta_description: "Wholesale electric chain hoist industrial lifting equipment 0.5T to 5T capacity. 220V and 380V options with CE certification. Heavy duty lifting solution from Yiwu China."
 Price_Range: "$85.00 - $450.00 / pc"
 
-categories: 
+categories:
 - lifting-rigging-equipment
+- chain-hoists
 tags: ["electric hoist", "chain hoist", "electric chain hoist", "industrial hoist", "lifting hoist", "crane hoist", "heavy duty hoist", "220V hoist", "380V hoist"]
 usecases: ["construction lifting", "warehouse logistics", "manufacturing assembly", "shipping ports", "mining operations", "building maintenance", "steel fabrication", "automotive workshops"]
 description: "Heavy duty electric chain hoist designed for industrial lifting applications from 0.5 ton to 5 ton capacity. Available in 220V single-phase and 380V three-phase configurations with powder-coated steel housing in blue yellow or orange. Features forged alloy steel hooks with safety latches grade 80 load chain and IP54 rated motor enclosure. Includes pendant control switch with emergency stop. CE certified for safety compliance. Ideal for construction sites warehouses manufacturing facilities shipping ports and general industrial lifting operations requiring reliable and efficient vertical material handling."

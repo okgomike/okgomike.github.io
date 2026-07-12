@@ -11,7 +11,7 @@ description: This 12-piece synthetic filament paint brush set is designed for wa
 image: https://img.toolsd.com/file/1782911017301_701-3.jpg
 categories:
 - renovation-decoration-tools
-- paint-tools
+- paint-rollers-brushes
 tags:
 - synthetic-brush
 - nylon-brush

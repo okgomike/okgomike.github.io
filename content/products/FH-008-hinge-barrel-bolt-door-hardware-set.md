@@ -3,7 +3,8 @@ sku: FH-008
 title: FH-008 Hinge Barrel Bolt & Door Hardware Set
 slug: fh-008-hinge-barrel-bolt-door-hardware-set
 categories:
-  - fasteners-and-hardware
+- locks-door-hardware
+- hinges-accessories
 summary: Premium door hinges, tower bolts, barrel bolts and door hardware accessories in steel, brass and stainless steel for residential, commercial and industrial door installations.
 moq: 500 sets
 price_range: $0.30 - $3.00 / set

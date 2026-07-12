@@ -1,8 +1,11 @@
 ---
 sku: FH-023
+categories:
+- fasteners-hardware
+- bolts-nuts
 title: "FH-023 Hex Bolt Nut Washer Self-Tapping Screw Assortment Kit"
 meta_description: "FH-023 Grade 4.8/8.8 carbon steel hex bolt & self-tapping screw assortment kit, M3-M12 multi-size hardware organizer box, 500pcs MOQ, ISO9001 construction fastener wholesale supplier."
-category_1: fasteners-and-hardware
+category_1: fasteners-hardware
 category_2: bolts-nuts
 main_keyword: hex bolt self-tapping screw assortment kit
 long_tail_keywords: "wholesale hex bolt assortment kit OEM, M3-M12 hex bolt nut washer bulk supplier, Grade 4.8/8.8 carbon steel machine bolt importer, multi-size self tapping screw organizer box factory direct Yiwu, black oxide hex bolt custom surface finish, mixed fastener set MOQ 500, DIN standard construction fastener carton packaging, DIY hardware screw kit sample available"

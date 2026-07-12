@@ -4,6 +4,7 @@ title: LD-007 Copper Padlock & Key Set
 slug: ld-007-copper-padlock-key-set
 categories:
 - locks-door-hardware
+- padlocks
 tags:
 - copper padlock
 - antique lock

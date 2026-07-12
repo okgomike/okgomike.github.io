@@ -5,7 +5,8 @@ sku: "FH-029"
 meta_description: "Wholesale nylon cable tie zip tie assortment in multiple colors and sizes. Self-locking nylon ties for wire management and bundling. Yiwu supplier."
 Price_range: "$0.005 - $0.15 / pc"
 categories:
-  - fasteners-hardware
+- fasteners-hardware
+- chain-wire-rope
 main_keyword: "nylon cable tie zip tie"
 long_tail_keywords: "wholesale cable tie assortment, nylon zip tie bulk, colored cable tie supplier, self locking cable tie manufacturer, wire management tie Yiwu, plastic zip tie wholesale China"
 date: "2026-07-07T00:00:00+08:00"

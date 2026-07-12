@@ -4,6 +4,7 @@ title: CT-022 Tin Snips Aviation Snips & Metal Shears Set
 slug: ct-022-tin-snips-aviation-snips-metal-shears-set
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - tin snips
 - aviation snips

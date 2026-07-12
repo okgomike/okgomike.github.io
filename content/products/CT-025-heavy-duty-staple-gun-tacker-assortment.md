@@ -4,6 +4,7 @@ title: CT-025 Heavy-Duty Staple Gun & Tacker Assortment
 slug: ct-025-heavy-duty-staple-gun-tacker-assortment
 categories:
 - construction-tools
+- hammers-mallets
 tags:
 - staple gun
 - tacker

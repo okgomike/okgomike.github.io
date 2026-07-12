@@ -5,7 +5,8 @@ sku: "FH-026"
 meta_description: "Wholesale stainless steel hose clamp assortment worm drive type in multiple sizes. American German and British style hose clamps for plumbing automotive and industrial. Yiwu supplier."
 Price_range: "$0.05 - $2.50 / pc"
 categories:
-  - fasteners-hardware
+- fasteners-hardware
+- bolts-nuts
 main_keyword: "stainless steel hose clamp"
 long_tail_keywords: "wholesale hose clamp assortment, worm drive hose clamp bulk, stainless steel pipe clamp supplier, American type hose clamp manufacturer, German hose clamp Yiwu, plumbing clamp wholesale China"
 date: "2026-07-07T00:00:00+08:00"

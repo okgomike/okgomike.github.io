@@ -4,6 +4,7 @@ title: AT-009 Spark Plug Socket Wrench Set
 slug: at-009-spark-plug-socket-wrench-set
 categories:
 - automotive-repair-tools
+- socket-wrench-sets
 summary: Chrome vanadium steel spark plug socket wrench set with 16mm and 21mm sockets, extension bars and T-handle for automotive engine maintenance.
 moq: 500 sets
 price_range: $1.50 - $6.00 / set

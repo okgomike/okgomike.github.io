@@ -5,7 +5,8 @@ sku: "LD-036"
 meta_description: "Wholesale door bolt slide bolt and tower bolt assortment in blister card packaging. Steel and brass finishes for door and gate security. Yiwu supplier."
 Price_range: "$0.60 - $5.50 / set"
 categories:
-  - locks-door-hardware
+- locks-door-hardware
+- door-locks
 main_keyword: "door bolt slide bolt"
 long_tail_keywords: "wholesale door bolt blister, slide bolt bulk, tower bolt assortment supplier, brass door bolt manufacturer, steel gate bolt Yiwu, door latch bolt wholesale China"
 date: "2026-07-07T00:00:00+08:00"

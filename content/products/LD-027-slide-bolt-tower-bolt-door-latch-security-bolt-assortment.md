@@ -1,9 +1,12 @@
 ---
 sku: LD-027
+categories:
+- locks-door-hardware
+- door-locks
 title: "LD-027 Slide Bolt Tower Bolt Door Latch Security Bolt Assortment"
 meta_description: "LD-027 zinc alloy/stainless steel slide tower bolt, 3-8 inch door & gate security latch, 300pcs MOQ, ISO9001, wholesale door hardware supplier."
-category_1: locks-and-door-hardware
-category_2: door-bolts-and-latches
+category_1: locks-door-hardware
+category_2: door-locks
 main_keyword: slide bolt tower bolt set
 long_tail_keywords: "wholesale slide bolt OEM, 3/4/5/6/8 inch tower bolt bulk supplier, security door latch bolt importer, zinc alloy slide bolt factory direct Yiwu, black powder coated gate bolt, chrome plated cabinet latch, spring loaded auto slide bolt custom, household door hardware set with strike plate, mixed size door bolt MOQ 300, door lock bolt sample available"
 material: Die-Cast Zinc Alloy / Stainless Steel / Wrought Iron; Multi Electroplated & Powder Coat Finishes

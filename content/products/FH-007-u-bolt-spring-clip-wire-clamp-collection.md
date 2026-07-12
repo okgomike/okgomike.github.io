@@ -3,7 +3,8 @@ sku: FH-007
 title: FH-007 U-Bolt Spring Clip & Wire Clamp Collection
 slug: fh-007-u-bolt-spring-clip-wire-clamp-collection
 categories:
-- fasteners-and-hardware
+- fasteners-hardware
+- bolts-nuts
 summary: Carbon steel and stainless steel U-bolts spring clips wire clamps and cable clamps for securing pipes cables and hoses in automotive marine and industrial applications.
 moq: 1000 pcs
 price_range: $0.05 - $0.80 / pc

@@ -1,10 +1,12 @@
 ---
 sku: LD-010
+categories:
+- locks-door-hardware
+- door-handles-knobs
 title: LD-010 Stainless Steel Over-The-Door Hook Hanger | Factory Wholesale Supplier
 meta_description: LD-010 stainless steel over-the-door hook hanger. Tool-free installation for bedroom/bathroom. OEM branding, 50pcs MOQ, ISO9001. Ideal for wholesalers and home goods importers.
-category_1:
-- locks-door-hardware
-category_2: Over-Door Hooks & Hangers
+category_1: locks-door-hardware
+category_2: door-handles-knobs
 main_keyword: over the door hook
 long_tail_keywords: wholesale over door hook hanger bulk, stainless steel door hook supplier OEM, bedroom bathroom door hanger importer, tool free coat hook factory direct, LD-010-door-hook
 material: Stainless Steel 304 / 201 / Carbon Steel with Chrome Plating

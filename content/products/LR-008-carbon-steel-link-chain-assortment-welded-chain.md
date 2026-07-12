@@ -5,8 +5,9 @@ sku: "LR-008"
 meta_description: "Wholesale carbon steel welded link chain assortment in multiple gauges and finishes. Zinc plated galvanized and black oxide options from 2mm to 8mm. Low MOQ chain supplier from Yiwu China."
 Price_Range: "$0.50 - $8.00 / meter"
 
-categories: 
+categories:
 - lifting-rigging-equipment
+- chain-slings
 tags: ["welded chain", "link chain", "carbon steel chain", "galvanized chain", "zinc plated chain", "black chain", "heavy duty chain", "industrial chain"]
 usecases: ["construction lifting", "fencing", "security barriers", "marine rigging", "agriculture", "decorative hanging", "gate hardware", "signage display"]
 description: "Professional carbon steel welded link chain assortment manufactured from high quality carbon steel with multiple surface finish options. Available in 2mm 3mm 4mm 5mm 6mm and 8mm link diameters in spooled or pre-cut lengths. Zinc plated galvanized and black oxide finishes provide corrosion resistance for indoor and outdoor applications. Each chain is weld-linked for maximum strength and durability meeting industrial lifting fencing and general hardware requirements. Ideal for construction fencing security barriers marine rigging agricultural equipment and decorative hanging applications."

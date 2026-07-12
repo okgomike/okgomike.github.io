@@ -1,9 +1,12 @@
 ---
 sku: FH-024
+categories:
+- fasteners-hardware
+- bolts-nuts
 title: "FH-024 Expansion Anchor Bolt U-Bolt Hook Bolt Mix"
 meta_description: "FH-024 Q235/45# steel expansion anchor & U/J/L hook bolt mix, M6-M16 concrete pipe clamp fastener, 500pcs MOQ, CE & ISO9001 wholesale construction hardware supplier."
-category_1: fasteners-and-hardware
-category_2: anchors-wall-plugs
+category_1: fasteners-hardware
+category_2: bolts-nuts
 main_keyword: expansion anchor u-bolt hook bolt assortment
 long_tail_keywords: "wholesale mixed expansion anchor bolt OEM, construction U/J/L hook bolt bulk supplier, Q235 & 45# steel concrete anchor importer, hot dip galvanized pipe clamp bolt factory direct Yiwu, DIN529 DIN3570 structural foundation anchor, mixed type masonry fixing bolt MOQ 500, outdoor coastal anti-rust anchor bolt, heavy machinery anchoring fastener sample available"
 material: Q235 Ordinary Carbon Steel / High-Strength 45# Steel; Zinc White / Yellow Zinc / Hot Dip Galvanized Anti-Corrosion Finish

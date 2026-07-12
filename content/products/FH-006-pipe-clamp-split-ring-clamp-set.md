@@ -3,7 +3,8 @@ sku: FH-006
 title: FH-006 Pipe Clamp & Split Ring Clamp Set
 slug: fh-006-pipe-clamp-split-ring-clamp-set
 categories:
-- fasteners-and-hardware
+- fasteners-hardware
+- bolts-nuts
 summary: Heavy-duty pipe clamps split ring clamps and conduit supports with rubber lining for securing pipes tubes and cables to walls ceilings and structural frames.
 moq: 1000 pcs
 price_range: $0.10 - $1.50 / pc

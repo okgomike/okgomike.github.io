@@ -5,7 +5,8 @@ slug: cordless-electric-screwdriver-set-rechargeable
 meta_description: "Wholesale cordless electric screwdriver set rechargeable with lithium battery. Professional and household screw driving kit. Yiwu supplier."
 Price_range: "$8.00 - $35.00 / set"
 categories:
-  - construction-tools
+- construction-tools
+- power-drills
 main_keyword: "cordless electric screwdriver set"
 long_tail_keywords: "wholesale electric screwdriver set, cordless screwdriver bulk, rechargeable screwdriver supplier, lithium screwdriver kit manufacturer, power screwdriver set Yiwu, household screwdriver wholesale China"
 date: "2026-07-07T00:00:00+08:00"

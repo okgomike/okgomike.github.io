@@ -5,7 +5,8 @@ sku: "LR-018"
 meta_description: "Wholesale D-ring delta triangle ring welded assortment for rigging pet and cargo applications. Carbon steel galvanized in multiple sizes. Yiwu supplier."
 Price_range: "$0.10 - $3.50 / pc"
 categories:
-  - lifting-rigging-equipment
+- lifting-rigging-equipment
+- shackles
 main_keyword: "D-ring delta triangle ring"
 long_tail_keywords: "wholesale D-ring assortment, delta ring bulk, triangle ring supplier, welded D-ring manufacturer, galvanized delta ring Yiwu, cargo tie-down ring wholesale China"
 date: "2026-07-07T00:00:00+08:00"

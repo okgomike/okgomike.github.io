@@ -5,7 +5,8 @@ sku: "LR-015"
 meta_description: "Wholesale carbon steel forged lifting eye nut DIN 582 standard in M6 to M48 sizes. Galvanized and yellow zinc finishes for rigging and lifting. Yiwu supplier."
 Price_range: "$0.15 - $12.00 / pc"
 categories:
-  - lifting-rigging-equipment
+- lifting-rigging-equipment
+- lifting-hooks
 main_keyword: "forged lifting eye nut"
 long_tail_keywords: "wholesale DIN 582 eye nut, forged lifting eye nut bulk, galvanized eye nut supplier, carbon steel lifting nut manufacturer, M6 M8 M10 M12 M16 M20 eye nut Yiwu, rigging eye nut wholesale China"
 date: "2026-07-07T00:00:00+08:00"

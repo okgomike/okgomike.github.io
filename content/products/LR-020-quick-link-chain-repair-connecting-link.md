@@ -5,7 +5,8 @@ sku: "LR-020"
 meta_description: "Wholesale quick link chain repair connecting link assortment in multiple sizes. Carbon steel zinc plated for chain repair and rigging. Yiwu supplier."
 Price_range: "$0.05 - $2.00 / pc"
 categories:
-  - lifting-rigging-equipment
+- lifting-rigging-equipment
+- shackles
 main_keyword: "quick link chain repair"
 long_tail_keywords: "wholesale quick link assortment, chain repair link bulk, connecting link supplier, screw pin quick link manufacturer, zinc plated quick link Yiwu, chain connector link wholesale China"
 date: "2026-07-07T00:00:00+08:00"

@@ -1,10 +1,13 @@
 ---
 sku: LD-024
+categories:
+- locks-door-hardware
+- bike-locks
 title: "LD-024 Combination Cable Lock Password Bike Lock | Factory Wholesale Supplier"
 meta_description: "LD-024 combination cable lock. 4-digit password bike lock keyless. OEM, 1000pcs MOQ, CE. Wholesale combination lock importer & distributor."
 url_slug: ld-024-combination-cable-lock-password-bike-lock
-category_1: Locks & Door Hardware
-category_2: Bicycle & Motorcycle Locks
+category_1: locks-door-hardware
+category_2: bike-locks
 main_keyword: combination cable lock
 long_tail_keywords: "wholesale combination bike lock OEM, 4 digit password lock bulk supplier, keyless bicycle lock importer, resettable combination lock factory direct, LD-024-combo-lock"
 material: "Braided Steel Wire Core with PVC Coating; Zinc Alloy Lock Head with ABS Plastic Cover; Resettable 4-Digit Combination Mechanism"

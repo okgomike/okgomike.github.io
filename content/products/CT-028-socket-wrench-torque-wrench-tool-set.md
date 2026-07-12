@@ -3,7 +3,8 @@ sku: CT-028
 title: CT-028 Socket Wrench & Torque Wrench Tool Set
 slug: ct-028-socket-wrench-torque-wrench-tool-set
 categories:
-- construction-tools
+- automotive-repair-tools
+- socket-wrench-sets
 tags:
 - socket wrench
 - torque wrench

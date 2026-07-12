@@ -4,6 +4,7 @@ title: CT-018 Tungsten Carbide Rotary Burr & Mounted Point Set
 slug: ct-018-tungsten-carbide-rotary-burr-mounted-point-set
 categories:
 - construction-tools
+- welding-tools
 tags:
 - rotary burr
 - tungsten carbide

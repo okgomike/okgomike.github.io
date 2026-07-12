@@ -4,6 +4,7 @@ title: CT-021 Locking Pliers & Adjustable Clamp Set
 slug: ct-021-locking-pliers-adjustable-clamp-set
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - locking pliers
 - clamp

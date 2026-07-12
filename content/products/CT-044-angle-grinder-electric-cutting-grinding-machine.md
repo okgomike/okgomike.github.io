@@ -5,7 +5,8 @@ slug: angle-grinder-electric-cutting-grinding-machine
 meta_description: "Wholesale angle grinder electric cutting and grinding machine. 100mm 115mm and 125mm disc sizes for metal and stone. Yiwu supplier."
 Price_range: "$12.00 - $45.00 / pc"
 categories:
-  - construction-tools
+- construction-tools
+- welding-tools
 main_keyword: "angle grinder electric cutting"
 long_tail_keywords: "wholesale angle grinder, electric grinder bulk, cutting machine supplier, grinding machine manufacturer, 100mm 115mm 125mm angle grinder Yiwu, metal grinder wholesale China"
 date: "2026-07-07T00:00:00+08:00"

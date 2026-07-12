@@ -4,6 +4,7 @@ title: CT-011 Carbon Steel Garden Spade with D-Grip Handle
 slug: ct-011-carbon-steel-garden-spade-with-d-grip-handle
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - garden spade
 - shovel

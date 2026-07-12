@@ -1,10 +1,13 @@
 ---
 sku: LD-025
+categories:
+- locks-door-hardware
+- padlocks
 title: "LD-025 Hardened Steel Security Chain Padlock Set | Factory Wholesale Supplier"
 meta_description: "LD-025 hardened steel security chain with padlock. Heavy-duty for motorcycle/bike. OEM, 500pcs MOQ, CE. Wholesale security chain importer & distributor."
 url_slug: ld-025-hardened-steel-security-chain-padlock-set
-category_1: Locks & Door Hardware
-category_2: Bicycle & Motorcycle Locks
+category_1: locks-door-hardware
+category_2: padlocks
 main_keyword: security chain padlock
 long_tail_keywords: "wholesale hardened steel chain padlock OEM, security chain set bulk supplier, motorcycle anti theft chain importer, heavy duty chain lock factory direct, LD-025-security-chain"
 material: "Hardened Alloy Steel Chain 10mm-14mm HRC 50-58; Brass Body Padlock with Hardened Steel Shackle; Nickel Plated / Chrome Plated Finish"

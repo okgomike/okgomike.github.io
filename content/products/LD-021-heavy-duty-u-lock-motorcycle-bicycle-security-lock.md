@@ -1,10 +1,13 @@
 ---
 sku: LD-021
+categories:
+- locks-door-hardware
+- bike-locks
 title: "LD-021 Heavy Duty U-Lock Motorcycle Bicycle Security Lock | Factory Wholesale Supplier"
 meta_description: "LD-021 heavy duty U-lock for motorcycle and bicycle. Hardened steel shackle anti-theft. OEM, 500pcs MOQ, CE. Wholesale bike lock importer & distributor."
 url_slug: ld-021-heavy-duty-u-lock-motorcycle-bicycle-security-lock
-category_1: Locks & Door Hardware
-category_2: Bicycle & Motorcycle Locks
+category_1: locks-door-hardware
+category_2: bike-locks
 main_keyword: heavy duty U lock
 long_tail_keywords: "wholesale U lock motorcycle OEM, hardened steel bike lock bulk supplier, anti theft bicycle U lock importer, heavy duty security lock factory direct, LD-021-U-lock"
 material: "Hardened Steel 45# Shackle HRC 55-62; Zinc Alloy Lock Body; Brass Cylinder with Anti-Drill Pins"

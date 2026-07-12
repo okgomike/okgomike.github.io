@@ -1,9 +1,12 @@
 ---
 sku: FH-021
+categories:
+- fasteners-hardware
+- anchors
 title: "FH-021 Chemical Anchor Bolt Expansion Bolt Bulk Construction Fastener Mix"
 meta_description: "FH-021 heavy-duty chemical anchor bolt, 5.8/8.8 grade carbon steel structural concrete anchor, M8-M20, 1000pcs MOQ, CE & ISO9001 construction fastener wholesale."
-category_1: fasteners-and-hardware
-category_2: Anchors & Wall Plugs
+category_1: fasteners-hardware
+category_2: anchors
 main_keyword: chemical anchor bolt set
 long_tail_keywords: "wholesale chemical anchor bolt OEM, heavy construction expansion bolt bulk supplier, carbon steel anchor stud 5.8 8.8 grade importer, structural concrete chemical anchor factory direct Yiwu, hot dip galvanized chemical anchor bolt, bridge construction fixing bolt, custom grade/size anchor stud, building fastener bulk carton packaging, structural anchor sample available"
 material: Grade 5.8 / Grade 8.8 Carbon Steel Stud; Matching Chemical Resin Capsule; Hex Nut & Flat Washer

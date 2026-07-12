@@ -11,7 +11,7 @@ description: This 6-piece 9-inch microfiber paint roller cover set delivers prof
 image: https://img.toolsd.com/file/1782911019672_701-4.jpg
 categories:
 - renovation-decoration-tools
-- paint-tools
+- paint-rollers-brushes
 tags:
 - paint-roller
 - microfiber-roller

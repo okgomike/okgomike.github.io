@@ -4,6 +4,7 @@ title: CT-009 Heavy-Duty Bypass Lopper with Fiberglass Handles
 slug: ct-009-heavy-duty-bypass-lopper-with-fiberglass-handles
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - lopper
 - pruning

@@ -1,9 +1,12 @@
 ---
 sku: FH-013
+categories:
+- fasteners-hardware
+- chain-wire-rope
 title: FH-013 Self-Adhesive Cable Clip Wire Fastener Assortment | Factory Wholesale Supplier
 meta_description: FH-013 self-adhesive cable clip and wire fastener. 100pcs packaging for cable management. OEM, 1000pcs MOQ, RoHS. Wholesale cable clip importer & electric supplier.
-category_1: Fasteners & Hardware
-category_2: Cable Management & Clips
+category_1: fasteners-hardware
+category_2: chain-wire-rope
 main_keyword: self adhesive cable clip
 long_tail_keywords: wholesale self adhesive cable clip OEM, plastic cable clip wire fastener bulk supplier, 100pcs cable management clip importer, nail mount cable clip factory direct, FH-013-cable-clip
 material: PE Plastic Clip Body + Steel Nail / PP Plastic with 3M Foam Tape; Nail Type and Self-Adhesive Type Available

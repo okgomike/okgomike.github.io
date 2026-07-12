@@ -4,6 +4,7 @@ title: LR-002 Cargo Lashing Strap with S-Hook & J-Hook
 slug: lr-002-cargo-lashing-strap-with-s-hook-j-hook
 categories:
 - lifting-rigging-equipment
+- ratchet-straps
 tags:
 - cargo lashing
 - ratchet strap

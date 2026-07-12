@@ -1,9 +1,12 @@
 ---
 sku: FH-011
+categories:
+- fasteners-hardware
+- anchors
 title: FH-011 Expansion Sleeve Anchor Bolt with Eye Hook Ring | Factory Wholesale Supplier
 meta_description: FH-011 zinc-plated expansion sleeve anchor bolt. Eye hook/ring for concrete/masonry. OEM, 500pcs MOQ, ISO9001. Wholesale anchor bolt importer & contractor.
-category_1: Fasteners & Hardware
-category_2: Anchors & Concrete Fasteners
+category_1: fasteners-hardware
+category_2: anchors
 main_keyword: expansion sleeve anchor
 long_tail_keywords: wholesale expansion sleeve anchor OEM, zinc plated eye bolt anchor bulk supplier, concrete masonry anchor bolt importer, sleeve anchor with hook ring factory direct, FH-011-anchor
 material: Carbon Steel Q235 + Zinc Plating (30-50 microns); Eye Hook / Ring / Hex Nut / Flat Head Options

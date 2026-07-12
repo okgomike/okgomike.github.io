@@ -1,9 +1,12 @@
 ---
 sku: FH-018
+categories:
+- fasteners-hardware
+- screws
 title: FH-018 Galvanized Common Nails & Roofing Nails Assortment | Factory Wholesale Supplier
 meta_description: FH-018 galvanized common and roofing nails. Bulk for construction/framing. OEM, 5000pcs MOQ, ISO9001. Wholesale nail importer & building supplier.
-category_1: Fasteners & Hardware
-category_2: Nails & Pins
+category_1: fasteners-hardware
+category_2: screws
 main_keyword: galvanized common nails
 long_tail_keywords: wholesale galvanized common nail OEM, roofing nail bulk supplier, construction framing nail importer, bulk box nail factory direct, FH-018-common-nail
 material: Carbon Steel Q235 / Q195; Hot-Dip Galvanized 40-60g/m2 / Electro-Galvanized 8-12g/m2

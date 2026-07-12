@@ -3,7 +3,8 @@ sku: FH-009
 title: FH-009 Metal Bracket Corner Brace & Connector Assortment
 slug: fh-009-metal-bracket-corner-brace-connector-assortment
 categories:
-- fasteners-and-hardware
+- fasteners-hardware
+- bolts-nuts
 summary: Galvanized and stainless steel corner braces L-brackets shelf brackets and structural connectors for furniture shelving framing and construction projects.
 moq: 1000 pcs
 price_range: $0.05 - $1.20 / pc

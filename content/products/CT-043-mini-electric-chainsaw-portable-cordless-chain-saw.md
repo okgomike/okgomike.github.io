@@ -5,7 +5,8 @@ slug: mini-electric-chainsaw-portable-cordless-chain-saw
 meta_description: "Wholesale mini electric chainsaw portable cordless chain saw with lithium battery. For pruning cutting and DIY woodwork. Yiwu supplier."
 Price_range: "$18.00 - $55.00 / pc"
 categories:
-  - construction-tools
+- construction-tools
+- cutting-tools
 main_keyword: "mini electric chainsaw portable"
 long_tail_keywords: "wholesale mini chainsaw, portable electric chain saw bulk, cordless pruning saw supplier, lithium battery chainsaw manufacturer, small chain saw Yiwu, garden chainsaw wholesale China"
 date: "2026-07-07T00:00:00+08:00"

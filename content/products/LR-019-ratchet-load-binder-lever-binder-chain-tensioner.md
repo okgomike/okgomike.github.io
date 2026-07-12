@@ -5,7 +5,8 @@ sku: "LR-019"
 meta_description: "Wholesale ratchet load binder and lever binder for chain tensioner cargo securement. Forged steel Grade 70 compatible. Yiwu supplier."
 Price_range: "$8.00 - $45.00 / pc"
 categories:
-  - lifting-rigging-equipment
+- lifting-rigging-equipment
+- ratchet-straps
 main_keyword: "ratchet load binder"
 long_tail_keywords: "wholesale ratchet load binder, lever binder bulk, chain tensioner supplier, cargo binder manufacturer, Grade 70 chain binder Yiwu, truck load binder wholesale China"
 date: "2026-07-07T00:00:00+08:00"

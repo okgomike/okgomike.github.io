@@ -5,7 +5,8 @@ sku: "LD-037"
 meta_description: "Wholesale door handle and pull handle assortment in blister card packaging. Steel stainless steel and aluminum finishes for residential and commercial doors. Yiwu supplier."
 Price_range: "$0.80 - $8.00 / pc"
 categories:
-  - locks-door-hardware
+- locks-door-hardware
+- door-handles-knobs
 main_keyword: "door handle pull handle"
 long_tail_keywords: "wholesale door handle blister, pull handle bulk, cabinet handle assortment supplier, stainless steel door handle manufacturer, aluminum pull handle Yiwu, furniture handle wholesale China"
 date: "2026-07-07T00:00:00+08:00"

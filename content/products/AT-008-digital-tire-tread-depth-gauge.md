@@ -4,6 +4,7 @@ title: AT-008 Digital Tire Tread Depth Gauge
 slug: at-008-digital-tire-tread-depth-gauge
 categories:
 - automotive-repair-tools
+- diagnostic-tools
 summary: LCD digital tire tread depth gauge with metric and inch display for automotive safety inspection and tire maintenance.
 moq: 500 pcs
 price_range: $1.50 - $5.00 / pc

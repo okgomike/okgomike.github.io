@@ -4,6 +4,7 @@ title: CT-029 Diamond Hole Saw Core Drill Bit Set
 slug: ct-029-diamond-hole-saw-core-drill-bit-set
 categories:
 - construction-tools
+- power-drills
 tags:
 - hole saw
 - diamond drill

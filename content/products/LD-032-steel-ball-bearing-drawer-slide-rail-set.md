@@ -5,7 +5,8 @@ sku: "LD-032"
 meta_description: "Wholesale steel ball bearing drawer slide rail set in multiple lengths. Full extension soft close and standard options for cabinet furniture. Yiwu hardware supplier."
 Price_range: "$0.80 - $6.50 / pair"
 categories:
-  - locks-door-hardware
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "steel ball bearing drawer slide"
 long_tail_keywords: "wholesale drawer slide rail set, ball bearing drawer slide bulk, full extension drawer slide supplier, soft close drawer slide manufacturer, cabinet drawer runner Yiwu, furniture hardware slide wholesale"
 date: "2026-07-07T12:00:00+08:00"

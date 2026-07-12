@@ -1,10 +1,12 @@
 ---
 sku: LD-009
+categories:
+- locks-door-hardware
+- door-handles-knobs
 title: LD-009 Zinc Alloy Wall-Mounted Multi-Hook Coat Rack | Factory Wholesale Supplier
 meta_description: LD-009 zinc alloy wall-mounted coat rack. Heavy-duty multi-hook design for hotel/home. OEM/ODM, 50pcs MOQ, CE certified. Wholesale for importers & contractors.
-category_1:
-- locks-door-hardware
-category_2: Wall Hooks & Coat Racks
+category_1: locks-door-hardware
+category_2: door-handles-knobs
 main_keyword: wall mounted coat rack
 long_tail_keywords: wholesale wall hook rack factory OEM, zinc alloy coat rack bulk supplier, hotel bathroom hook hanger importer, decorative wall mounted hook rack CE, LD-009-wall-hook
 material: Zinc Alloy ZDC-3 / Stainless Steel 201 Base Plate

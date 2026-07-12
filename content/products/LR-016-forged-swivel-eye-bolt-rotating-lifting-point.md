@@ -5,7 +5,8 @@ sku: "LR-016"
 meta_description: "Wholesale forged swivel eye bolt rotating lifting point in M8 to M36 sizes. Carbon steel with galvanized finish for rigging. Yiwu supplier."
 Price_range: "$0.50 - $25.00 / pc"
 categories:
-  - lifting-rigging-equipment
+- lifting-rigging-equipment
+- lifting-hooks
 main_keyword: "forged swivel eye bolt"
 long_tail_keywords: "wholesale swivel eye bolt, rotating lifting point bulk, forged eye bolt supplier, galvanized swivel bolt manufacturer, M8 M10 M12 M16 M20 swivel eye bolt Yiwu, rigging swivel bolt wholesale China"
 date: "2026-07-07T00:00:00+08:00"

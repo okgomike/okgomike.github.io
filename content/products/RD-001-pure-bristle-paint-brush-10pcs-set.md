@@ -11,7 +11,7 @@ description: This 10-piece pure bristle paint brush set includes the most common
 image: https://img.toolsd.com/file/1782911017301_701-3.jpg
 categories:
 - renovation-decoration-tools
-- paint-tools
+- paint-rollers-brushes
 tags:
 - paint-brush
 - hog-bristle

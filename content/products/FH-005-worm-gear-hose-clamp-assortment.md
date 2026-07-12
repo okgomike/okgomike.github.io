@@ -3,7 +3,8 @@ sku: FH-005
 title: FH-005 Worm Gear Hose Clamp Assortment
 slug: fh-005-worm-gear-hose-clamp-assortment
 categories:
-- fasteners-and-hardware
+- fasteners-hardware
+- bolts-nuts
 summary: Stainless steel and zinc-plated carbon steel worm gear hose clamps in multiple sizes for securing hoses pipes and tubes in automotive plumbing and industrial applications.
 moq: 2000 pcs
 price_range: $0.03 - $0.35 / pc

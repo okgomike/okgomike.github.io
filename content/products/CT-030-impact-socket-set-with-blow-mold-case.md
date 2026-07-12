@@ -3,7 +3,8 @@ sku: CT-030
 title: CT-030 Impact Socket Set with Blow Mold Case
 slug: ct-030-impact-socket-set-with-blow-mold-case
 categories:
-- construction-tools
+- automotive-repair-tools
+- socket-wrench-sets
 tags:
 - impact socket
 - deep socket

@@ -5,8 +5,8 @@ slug: sliding-door-roller-track-hardware
 meta_description: "LD-044 sliding door roller track hardware wholesale. Complete sliding door systems with rollers and tracks for wardrobe, closet, barn, and cabinet doors. Factory direct pricing."
 Price_range: "$2.00 - $15.00 / set"
 categories:
-  - locks-door-hardware
-  - hinges-accessories
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "sliding door roller track hardware"
 long_tail_keywords: "wholesale sliding door hardware, door roller track set supplier, barn door hardware kit manufacturer, closet door roller system bulk, wardrobe sliding track factory"
 date: "2026-07-12T00:00:00+08:00"

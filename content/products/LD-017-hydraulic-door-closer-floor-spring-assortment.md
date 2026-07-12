@@ -1,10 +1,12 @@
 ---
 sku: LD-017
+categories:
+- locks-door-hardware
+- hinges-accessories
 title: LD-017 Hydraulic Door Closer & Floor Spring Assortment | Factory Wholesale Supplier
 meta_description: LD-017 hydraulic door closer and floor spring. Automatic door control for commercial/residential. OEM, 100pcs MOQ, CE. Wholesale door control hardware importer.
-category_1:
-- locks-door-hardware
-category_2: Door Control Hardware
+category_1: locks-door-hardware
+category_2: hinges-accessories
 main_keyword: hydraulic door closer
 long_tail_keywords: wholesale hydraulic door closer OEM, floor spring door closer bulk supplier, automatic door control importer, commercial door closer factory direct, LD-017-door-closer
 material: 'Die-Cast Aluminum Body + Steel Rack & Pinion + Hydraulic Oil; Floor Spring: Cast Iron Body + Steel Cam'

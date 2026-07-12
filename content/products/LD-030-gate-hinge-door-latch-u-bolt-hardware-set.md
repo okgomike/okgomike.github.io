@@ -1,9 +1,12 @@
 ---
 sku: LD-030
+categories:
+- locks-door-hardware
+- hinges-accessories
 title: "LD-030 Gate Hinge Door Latch U-Bolt Hardware Set"
 meta_description: "LD-030 outdoor barn gate hardware kit, steel/cast iron/stainless strap hinge + slide latch + U-bolt, 200sets MOQ, ISO9001 wholesale farm gate fitting supplier."
-category_1: locks-and-door-hardware
-category_2: door-hinges
+category_1: locks-door-hardware
+category_2: hinges-accessories
 main_keyword: gate hinge latch u-bolt hardware set
 long_tail_keywords: "wholesale gate hinge hardware OEM, 3/4/5/6/8 inch barn door strap hinge bulk supplier, outdoor garden gate latch u-bolt kit importer, heavy duty cast iron farm gate hinge factory direct Yiwu, black powder coated decorative gate fitting, hot dip galvanized anti-rust gate hardware, custom hole pattern hinge OEM, mixed size gate hardware set MOQ 200, shed door installation hardware sample available"
 material: Cold Rolled Steel / Cast Iron / Stainless Steel; Multi Powder Coated & Electroplated Anti-Corrosion Finishes

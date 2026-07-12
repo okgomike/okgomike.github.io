@@ -5,7 +5,8 @@ slug: hss-drill-bit-set-masonry-wood-metal
 meta_description: "Wholesale HSS drill bit set for masonry wood and metal. Titanium coated and black oxide finishes in organized cases. Yiwu supplier."
 Price_range: "$2.50 - $18.00 / set"
 categories:
-  - construction-tools
+- construction-tools
+- power-drills
 main_keyword: "hss drill bit set masonry"
 long_tail_keywords: "wholesale drill bit set, hss drill bits bulk, masonry drill bit supplier, wood drill bit manufacturer, metal drill bit set Yiwu, titanium coated drill bits wholesale China"
 date: "2026-07-07T00:00:00+08:00"

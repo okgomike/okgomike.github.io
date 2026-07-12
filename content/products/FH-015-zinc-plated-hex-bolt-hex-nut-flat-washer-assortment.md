@@ -1,9 +1,12 @@
 ---
 sku: FH-015
+categories:
+- fasteners-hardware
+- bolts-nuts
 title: FH-015 Zinc-Plated Hex Bolt Hex Nut Flat Washer Assortment | Factory Wholesale Supplier
 meta_description: FH-015 zinc-plated hex bolt nut washer assortment. Metric M3-M12 grade 8.8. OEM, 1000pcs MOQ, ISO9001. Wholesale fastener importer & hardware distributor.
-category_1: Fasteners & Hardware
-category_2: Bolts Nuts & Washers
+category_1: fasteners-hardware
+category_2: bolts-nuts
 main_keyword: zinc plated hex bolt
 long_tail_keywords: wholesale zinc plated hex bolt nut set OEM, grade 8.8 bolt assortment bulk supplier, metric bolt nut washer importer, construction fastener hardware factory direct, FH-015-bolt-set
 material: Carbon Steel Q235 / 45# Steel Grade 8.8 / 304 Stainless Steel; Zinc Plating 8-12 microns

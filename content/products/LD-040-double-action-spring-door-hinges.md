@@ -5,8 +5,8 @@ slug: double-action-spring-door-hinges
 meta_description: "LD-040 double action spring door hinges wholesale. Self-closing spring hinges for saloon doors, cafe doors, and restaurant doors. Factory direct with bulk pricing."
 Price_range: "$1.20 - $5.00 / pair"
 categories:
-  - locks-door-hardware
-  - hinges-accessories
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "double action spring door hinges"
 long_tail_keywords: "wholesale spring hinges, double action hinge supplier, self closing door hinges manufacturer, saloon door hinges bulk, cafe door spring hinges"
 date: "2026-07-12T00:00:00+08:00"

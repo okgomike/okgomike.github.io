@@ -4,6 +4,7 @@ title: AT-007 Precision Screwdriver Bit Set
 slug: at-007-precision-screwdriver-bit-set
 categories:
 - automotive-repair-tools
+- screwdrivers-pliers
 summary: Multi-piece precision screwdriver bit sets with chrome vanadium steel bits and ergonomic handles for electronics, automotive interior and household repairs.
 moq: 1000 sets
 price_range: $0.50 - $3.00 / set

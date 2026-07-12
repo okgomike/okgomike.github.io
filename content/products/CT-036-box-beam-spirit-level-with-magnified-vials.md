@@ -4,7 +4,8 @@ title: CT-036 Box-Beam Spirit Level with Magnified Vials | Factory Wholesale Sup
 meta_description: CT-036 box-beam spirit level. Shock-absorbing aluminum for construction/layout. OEM/ODM, 50pcs MOQ, ISO9001. Wholesale for surveying and building tool distributors.
 categories:
 - construction-tools
-category_2: Measurement & Layout Tools
+- measuring-tools
+category_2: measuring-tools
 main_keyword: box beam spirit level
 long_tail_keywords: wholesale box beam spirit level OEM, aluminum spirit level bulk supplier, magnified vial level importer, construction measurement tool factory direct, CT-036-level
 material: 6061-T6 Aluminum Alloy Box-Beam Frame; Acrylic Block Vials with Magnifying Lens; TPR End Caps

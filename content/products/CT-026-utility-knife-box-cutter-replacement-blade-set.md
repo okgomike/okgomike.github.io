@@ -4,6 +4,7 @@ title: CT-026 Utility Knife Box Cutter & Replacement Blade Set
 slug: ct-026-utility-knife-box-cutter-replacement-blade-set
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - utility knife
 - box cutter

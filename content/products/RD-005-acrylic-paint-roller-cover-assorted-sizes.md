@@ -11,7 +11,7 @@ description: 'This assorted acrylic paint roller cover set includes three popula
 image: https://img.toolsd.com/file/1782911019672_701-4.jpg
 categories:
 - renovation-decoration-tools
-- paint-tools
+- paint-rollers-brushes
 tags:
 - paint-roller-cover
 - acrylic-roller

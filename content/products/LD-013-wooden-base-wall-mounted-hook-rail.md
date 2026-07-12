@@ -1,10 +1,12 @@
 ---
 sku: LD-013
+categories:
+- locks-door-hardware
+- door-handles-knobs
 title: LD-013 Wooden Base Wall-Mounted Hook Rail | Factory Wholesale Supplier
 meta_description: LD-013 wooden base wall-mounted hook rail. Natural wood + metal hooks for rustic/modern interiors. OEM/ODM, 50pcs MOQ, FSC wood available. Wholesale for home decor importers.
-category_1:
-- locks-door-hardware
-category_2: Decorative Wall Hooks & Hardware
+category_1: locks-door-hardware
+category_2: door-handles-knobs
 main_keyword: wooden coat hook rack
 long_tail_keywords: wholesale wooden wall hook rail OEM, natural wood coat rack bulk supplier, scandinavian wall hook importer, rustic entryway hook rail factory direct, LD-013-wooden-rack
 material: Solid Paulownia Wood / Bamboo / Oak + Zinc Alloy Hooks / Stainless Steel Hooks

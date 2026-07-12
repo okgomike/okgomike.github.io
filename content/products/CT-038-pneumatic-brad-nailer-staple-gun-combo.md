@@ -4,7 +4,8 @@ title: CT-038 Pneumatic Brad Nailer & Staple Gun Combo | Factory Wholesale Suppl
 meta_description: CT-038 pneumatic brad nailer and staple gun combo. 2-in-1 upholstery/finishing tool. OEM, 50pcs MOQ, CE. Wholesale pneumatic tool distributor.
 categories:
 - construction-tools
-category_2: Pneumatic Tools
+- concrete-tools
+category_2: concrete-tools
 main_keyword: pneumatic brad nailer
 long_tail_keywords: wholesale pneumatic brad nailer OEM, staple gun combo bulk supplier, air powered finishing nailer importer, upholstery pneumatic tool factory direct, CT-038-nailer
 material: Magnesium Alloy Body + Hardened Steel Driver + Anodized Aluminum Magazine; Quick-Release Nose

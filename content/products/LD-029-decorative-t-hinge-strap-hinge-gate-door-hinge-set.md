@@ -1,9 +1,12 @@
 ---
 sku: LD-029
+categories:
+- locks-door-hardware
+- hinges-accessories
 title: "LD-029 Decorative T-Hinge Strap Hinge Gate Door Hinge Set"
 meta_description: "LD-029 heavy decorative T strap hinge, steel/cast iron/stainless barn gate hinge 4-12 inch, 200pcs MOQ, ISO9001 wholesale door hardware supplier."
-category_1: locks-and-door-hardware
-category_2: door-hinges
+category_1: locks-door-hardware
+category_2: hinges-accessories
 main_keyword: decorative T hinge strap hinge set
 long_tail_keywords: "wholesale decorative T hinge OEM, 4/6/8/10/12 inch strap hinge bulk supplier, heavy duty barn gate T hinge importer, cast iron ornamental strap hinge factory direct Yiwu, black powder coated farm door hinge, antique bronze rustic cabinet hinge, removable pin T hinge custom hole pattern, mixed size gate hinge set MOQ 200, furniture decorative hinge sample available"
 material: Cold Rolled Steel / Cast Iron / Stainless Steel; Multi Powder Coated & Electroplated Decorative Finishes

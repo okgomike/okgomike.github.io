@@ -4,6 +4,7 @@ title: CT-027 Glass Cutter Tile Cutter & Folding Knife Set
 slug: ct-027-glass-cutter-tile-cutter-folding-knife-set
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - glass cutter
 - tile cutter

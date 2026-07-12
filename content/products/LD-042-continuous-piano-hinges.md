@@ -5,8 +5,8 @@ slug: continuous-piano-hinges
 meta_description: "LD-042 continuous piano hinges wholesale supplier. Full-length stainless steel and brass piano hinges for toolbox lids, shed doors, and folding tables. Factory direct bulk pricing."
 Price_range: "$1.50 - $12.00 / pc"
 categories:
-  - locks-door-hardware
-  - hinges-accessories
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "continuous piano hinges"
 long_tail_keywords: "wholesale piano hinges, continuous hinge supplier, full length piano hinge manufacturer, stainless steel piano hinge bulk, heavy duty continuous hinge"
 date: "2026-07-12T00:00:00+08:00"

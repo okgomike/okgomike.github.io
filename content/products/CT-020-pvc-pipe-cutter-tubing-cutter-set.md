@@ -4,6 +4,7 @@ title: CT-020 PVC Pipe Cutter & Tubing Cutter Set
 slug: ct-020-pvc-pipe-cutter-tubing-cutter-set
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - pipe cutter
 - pvc cutter

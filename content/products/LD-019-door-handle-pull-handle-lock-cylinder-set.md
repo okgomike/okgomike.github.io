@@ -1,9 +1,12 @@
 ---
 sku: LD-019
+categories:
+- locks-door-hardware
+- door-handles-knobs
 title: LD-019 Door Handle Pull Handle & Lock Cylinder Set | Factory Wholesale Supplier
 meta_description: LD-019 door handle pull handle with lock cylinder. Entry door lever/knob set. OEM, 500pcs MOQ, CE. Wholesale door handle importer & locksmith.
-category_1: Locks & Door Hardware
-category_2: Door Handles & Locks
+category_1: locks-door-hardware
+category_2: door-handles-knobs
 main_keyword: door handle set
 long_tail_keywords: wholesale door handle lock set OEM, entry door lever knob bulk supplier, mortise lock cylinder importer, stainless steel door handle factory direct, LD-019-handle
 material: 'Stainless Steel 304 / 201 / Zinc Alloy with Electroplating; Lock Cylinder: Brass / Zinc Alloy with Nickel Plating'

@@ -4,6 +4,7 @@ title: CT-010 Curved Blade Pruning Saw with Safety Sheath
 slug: ct-010-curved-blade-pruning-saw-with-safety-sheath
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - pruning saw
 - garden saw

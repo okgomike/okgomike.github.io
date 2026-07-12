@@ -1,9 +1,12 @@
 ---
 sku: FH-012
+categories:
+- fasteners-hardware
+- anchors
 title: FH-012 Nylon Plastic Wall Plug Rawl Anchor Assortment | Factory Wholesale Supplier
 meta_description: FH-012 nylon plastic wall plug anchor assortment. Multi-size for drywall/concrete. OEM, 1000pcs MOQ, CE. Wholesale wall anchor importer & hardware distributor.
-category_1: Fasteners & Hardware
-category_2: Anchors & Concrete Fasteners
+category_1: fasteners-hardware
+category_2: anchors
 main_keyword: nylon wall plug
 long_tail_keywords: wholesale nylon wall plug anchor OEM, plastic rawl plug bulk supplier, multi size wall anchor assortment importer, drywall concrete plug factory direct, FH-012-wall-plug
 material: Nylon 6/6 (PA66) / Polyethylene (PE); Anti-rotation ribbed exterior design

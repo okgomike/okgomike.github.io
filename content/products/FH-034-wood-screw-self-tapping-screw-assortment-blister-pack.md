@@ -5,7 +5,8 @@ sku: "FH-034"
 meta_description: "Wholesale wood screw and self-tapping screw assortment in blister card packaging. Carbon steel zinc plated and black phosphate for wood and drywall. Yiwu supplier."
 Price_range: "$0.40 - $4.00 / set"
 categories:
-  - fasteners-hardware
+- fasteners-hardware
+- screws
 main_keyword: "wood screw self tapping screw"
 long_tail_keywords: "wholesale wood screw set blister, self tapping screw bulk, drywall screw assortment supplier, black phosphate screw manufacturer, zinc plated wood screw Yiwu, construction screw wholesale China"
 date: "2026-07-07T00:00:00+08:00"

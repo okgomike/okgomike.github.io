@@ -1,9 +1,12 @@
 ---
 sku: LD-028
+categories:
+- locks-door-hardware
+- door-locks
 title: "LD-028 Self-Locking Hasp Lock Latch Padlock Hasp Assortment"
 meta_description: "LD-028 spring self-locking padlock hasp set, steel/stainless steel/zinc alloy cabinet & gate security latch, 300pcs MOQ, ISO9001 wholesale door hardware supplier."
-category_1: locks-and-door-hardware
-category_2: hasps-and-latches
+category_1: locks-door-hardware
+category_2: door-locks
 main_keyword: self-locking hasp lock set
 long_tail_keywords: "wholesale self-locking hasp lock OEM, 2.5/3/4/4.5 inch padlock hasp bulk supplier, cabinet drawer security hasp with staple importer, cold rolled steel spring hasp factory direct Yiwu, anti-rust stainless steel storage box latch, custom powder coat color hasp lock, toolbox security hasp mixed sizes, door hardware hasp latch sample available"
 material: Cold Rolled Steel / Stainless Steel / Die-Cast Zinc Alloy; Multi Electroplated & Powder Coat Finishes

@@ -4,6 +4,7 @@ title: CT-012 Professional Wavy Blade Hedge Shears with Aluminum Handles
 slug: ct-012-professional-wavy-blade-hedge-shears-with-aluminum-handles
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - hedge shears
 - wavy blade

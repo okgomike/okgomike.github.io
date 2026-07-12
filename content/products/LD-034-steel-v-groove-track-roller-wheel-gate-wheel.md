@@ -5,7 +5,8 @@ sku: "LD-034"
 meta_description: "Wholesale steel V-groove track roller wheel for sliding gates doors and industrial tracks. Zinc plated and nylon coated options. Yiwu hardware supplier."
 Price_range: "$1.50 - $12.00 / pc"
 categories:
-  - locks-door-hardware
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "steel V groove track roller"
 long_tail_keywords: "wholesale V groove roller wheel, steel gate track roller bulk, sliding door V wheel supplier, industrial track roller manufacturer, V slot caster wheel Yiwu, gate hardware roller wholesale"
 date: "2026-07-07T12:00:00+08:00"

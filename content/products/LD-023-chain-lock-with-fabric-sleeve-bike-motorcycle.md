@@ -1,10 +1,13 @@
 ---
 sku: LD-023
+categories:
+- locks-door-hardware
+- bike-locks
 title: "LD-023 Chain Lock with Fabric Sleeve Bike Motorcycle | Factory Wholesale Supplier"
 meta_description: "LD-023 chain lock with fabric sleeve. Hardened chain for bicycle/motorcycle security. OEM, 500pcs MOQ, CE. Wholesale chain lock importer & distributor."
 url_slug: ld-023-chain-lock-with-fabric-sleeve-bike-motorcycle
-category_1: Locks & Door Hardware
-category_2: Bicycle & Motorcycle Locks
+category_1: locks-door-hardware
+category_2: bike-locks
 main_keyword: chain lock fabric sleeve
 long_tail_keywords: "wholesale chain lock fabric sleeve OEM, hardened chain bike lock bulk supplier, motorcycle chain lock importer, anti theft chain padlock factory direct, LD-023-chain-lock"
 material: "Hardened Alloy Steel Chain Links HRC 50-58; Nylon/Polyester Fabric Sleeve with Stitching; Zinc Alloy Padlock / Brass Padlock"

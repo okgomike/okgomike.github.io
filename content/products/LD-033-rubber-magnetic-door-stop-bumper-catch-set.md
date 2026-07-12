@@ -5,7 +5,8 @@ sku: "LD-033"
 meta_description: "Wholesale rubber magnetic door stop bumper and catch set for residential and commercial doors. Wall mount and floor mount options. Yiwu hardware supplier."
 Price_range: "$0.30 - $2.80 / pc"
 categories:
-  - locks-door-hardware
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "rubber magnetic door stop"
 long_tail_keywords: "wholesale door stop bumper set, magnetic door catch bulk, rubber door stopper supplier, wall mount door stop manufacturer, floor mount door bumper Yiwu, door holder hardware wholesale"
 date: "2026-07-07T12:00:00+08:00"

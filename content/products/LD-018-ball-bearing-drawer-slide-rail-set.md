@@ -1,10 +1,12 @@
 ---
 sku: LD-018
+categories:
+- locks-door-hardware
+- hinges-accessories
 title: LD-018 Ball Bearing Drawer Slide Rail Set | Factory Wholesale Supplier
 meta_description: LD-018 ball bearing drawer slide rail. Full extension for cabinet/furniture. OEM, 500pcs MOQ, CE. Wholesale slide rail importer & furniture manufacturer.
-category_1: 
-- locks-door-hardware
-category_2: Cabinet Hardware
+category_1: locks-door-hardware
+category_2: hinges-accessories
 main_keyword: drawer slide rail
 long_tail_keywords: wholesale ball bearing drawer slide OEM, full extension slide rail bulk supplier, cabinet furniture slide importer, telescopic drawer runner factory direct, LD-018-slide
 material: 'Cold-Rolled Steel Q195 with Zinc Plating / 201 Stainless Steel; Ball Bearings: Carbon Steel Chrome Plated'

@@ -5,7 +5,8 @@ slug: cordless-drill-driver-impact-wrench-combo-kit
 meta_description: "Wholesale cordless drill driver and impact wrench combo kit with lithium battery. Professional power tool set for construction and DIY. Yiwu supplier."
 Price_range: "$25.00 - $85.00 / set"
 categories:
-  - construction-tools
+- construction-tools
+- power-drills
 main_keyword: "cordless drill driver impact wrench"
 long_tail_keywords: "wholesale cordless drill set, impact driver combo kit bulk, lithium battery power tool supplier, electric drill manufacturer Yiwu, professional drill set wholesale China, cordless impact wrench kit"
 date: "2026-07-07T00:00:00+08:00"

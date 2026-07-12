@@ -3,8 +3,9 @@ sku: CT-032
 title: CT-032 S2 Steel Ball-End Hex Key Allen Wrench Set | Factory Wholesale Supplier
 meta_description: CT-032 S2 steel ball-end hex key set. Precision metric sizes for machinery assembly. OEM/ODM, 50pcs MOQ, ISO9001. Wholesale for tool distributors worldwide.
 categories:
-- construction-tools
-category_2: Hand Tools
+- automotive-repair-tools
+- screwdrivers-pliers
+category_2: screwdrivers-pliers
 main_keyword: S2 hex key set
 long_tail_keywords: wholesale S2 steel ball end hex key OEM, precision Allen wrench set bulk supplier, metric hex key set importer, machinery assembly tool factory direct, CT-032-hex-key
 material: S2 Alloy Steel (HRC 58-62) / Chrome Vanadium Steel CR-V Option

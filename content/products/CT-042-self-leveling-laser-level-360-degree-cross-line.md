@@ -5,7 +5,8 @@ slug: self-leveling-laser-level-360-degree-cross-line
 meta_description: "Wholesale self-leveling laser level with 360 degree cross line projection. Green and red beam options for construction alignment. Yiwu supplier."
 Price_range: "$15.00 - $65.00 / pc"
 categories:
-  - construction-tools
+- construction-tools
+- measuring-tools
 main_keyword: "self leveling laser level 360"
 long_tail_keywords: "wholesale laser level 360, self leveling laser bulk, cross line laser supplier, green beam laser level manufacturer, construction laser level Yiwu, rotary laser level wholesale China"
 date: "2026-07-07T00:00:00+08:00"

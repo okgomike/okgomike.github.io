@@ -5,7 +5,8 @@ sku: "FH-032"
 meta_description: "Wholesale plastic wall plug expansion bolt assortment in blister card packaging. Multiple sizes with matching screws for concrete and drywall. Yiwu supplier."
 Price_range: "$0.30 - $3.50 / set"
 categories:
-  - fasteners-hardware
+- fasteners-hardware
+- anchors
 main_keyword: "plastic wall plug expansion bolt"
 long_tail_keywords: "wholesale wall plug blister pack, expansion bolt set bulk, plastic anchor bolt supplier, concrete plug screw set manufacturer, drywall anchor blister Yiwu, wall fixing kit wholesale China"
 date: "2026-07-07T00:00:00+08:00"

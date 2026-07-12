@@ -1,10 +1,13 @@
 ---
 sku: LD-022
+categories:
+- locks-door-hardware
+- bike-locks
 title: "LD-022 Flexible Steel Cable Lock Snake Bike Lock | Factory Wholesale Supplier"
 meta_description: "LD-022 flexible steel cable lock. Braided wire snake lock for bicycle/motorcycle. OEM, 1000pcs MOQ, CE. Wholesale cable lock importer & distributor."
 url_slug: ld-022-flexible-steel-cable-lock-snake-bike-lock
-category_1: Locks & Door Hardware
-category_2: Bicycle & Motorcycle Locks
+category_1: locks-door-hardware
+category_2: bike-locks
 main_keyword: flexible cable lock
 long_tail_keywords: "wholesale steel cable lock OEM, snake bike lock bulk supplier, braided wire bicycle lock importer, flexible security cable factory direct, LD-022-cable-lock"
 material: "Braided Steel Wire 70# with Clear PVC Coating / Braided Steel with Color Vinyl Coating; Zinc Alloy Lock Head with Brass Cylinder"

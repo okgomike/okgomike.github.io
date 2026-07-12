@@ -4,6 +4,7 @@ title: CT-013 Aluminum Oxide Flap Disc Assortment
 slug: ct-013-aluminum-oxide-flap-disc-assortment
 categories:
 - construction-tools
+- welding-tools
 tags:
 - flap disc
 - grinding disc

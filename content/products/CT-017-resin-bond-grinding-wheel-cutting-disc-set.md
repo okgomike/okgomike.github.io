@@ -4,6 +4,7 @@ title: CT-017 Resin Bond Grinding Wheel & Cutting Disc Set
 slug: ct-017-resin-bond-grinding-wheel-cutting-disc-set
 categories:
 - construction-tools
+- welding-tools
 tags:
 - grinding wheel
 - cutting disc

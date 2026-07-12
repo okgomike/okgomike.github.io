@@ -5,7 +5,8 @@ sku: "FH-031"
 meta_description: "Wholesale quick release hose clamp with handle assortment for easy tool free installation. Spring loaded and wing screw types for plumbing and automotive. Yiwu supplier."
 Price_range: "$0.10 - $3.00 / pc"
 categories:
-  - fasteners-hardware
+- fasteners-hardware
+- bolts-nuts
 main_keyword: "quick release hose clamp"
 long_tail_keywords: "wholesale quick release clamp, spring hose clamp bulk, wing screw clamp supplier, tool free hose clamp manufacturer, handle clamp Yiwu, automotive hose clamp wholesale China"
 date: "2026-07-07T00:00:00+08:00"

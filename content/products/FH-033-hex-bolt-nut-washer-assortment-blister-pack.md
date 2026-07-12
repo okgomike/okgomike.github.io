@@ -5,7 +5,8 @@ sku: "FH-033"
 meta_description: "Wholesale hex bolt nut washer assortment in blister card packaging. Carbon steel zinc plated in multiple sizes for general construction. Yiwu supplier."
 Price_range: "$0.50 - $4.50 / set"
 categories:
-  - fasteners-hardware
+- fasteners-hardware
+- bolts-nuts
 main_keyword: "hex bolt nut washer"
 long_tail_keywords: "wholesale hex bolt set blister, bolt nut washer bulk, hex head bolt assortment supplier, machine bolt nut manufacturer, zinc plated bolt set Yiwu, construction bolt wholesale China"
 date: "2026-07-07T00:00:00+08:00"

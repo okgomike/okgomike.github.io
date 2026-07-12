@@ -5,7 +5,9 @@ sku: "LD-031"
 meta_description: "Wholesale heavy duty snap hook carabiner clip and spring link hardware set. Steel and stainless steel options for rigging lifting and general hardware. Yiwu supplier."
 Price Range: "$0.15 - $3.50 / pc"
 
-categories: ["chains-ropes"]
+categories:
+- locks-door-hardware
+- hinges-accessories
 tags: ["snap hook", "carabiner", "spring link", "quick link", "chain connector", "trigger snap", "swivel snap", "rigging hook", "bolt snap", "panic snap"]
 usecases: ["chain connection", "rigging hardware", "pet leash hardware", "bag straps", "key chains", "lifting slings", "tent hardware", "marine hardware"]
 description: "Heavy duty snap hook carabiner clip and spring link assortment manufactured from carbon steel and stainless steel for versatile connection applications. Available in multiple sizes from 25mm to 100mm with working load limits from 50kg to 500kg. Features include spring-loaded gate mechanisms swivel rotation options and self-locking designs. Surface finishes include zinc plated black oxide nickel plated and plain stainless steel. Essential chain hardware for rigging pet leash manufacturing bag strap assembly lifting sling connection and general industrial hardware applications."

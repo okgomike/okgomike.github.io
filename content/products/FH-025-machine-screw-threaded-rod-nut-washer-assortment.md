@@ -1,8 +1,11 @@
 ---
 sku: FH-025
+categories:
+- fasteners-hardware
+- bolts-nuts
 title: "FH-025 Machine Screw Threaded Rod Nut Washer Assortment"
 meta_description: "FH-025 Grade4.8/8.8 carbon steel & 304 stainless machine screw + full threaded rod kit, M3-M12 hardware organizer box, 500pcs MOQ, ISO9001 machinery assembly fastener wholesale supplier."
-category_1: fasteners-and-hardware
+category_1: fasteners-hardware
 category_2: bolts-nuts
 main_keyword: machine screw threaded rod assortment kit
 long_tail_keywords: "wholesale machine screw OEM, M3-M12 threaded rod nut washer bulk supplier, 4.8/8.8 carbon steel set screw importer, 1m full thread rod factory direct Yiwu, anti-rust 304 stainless machine screw, custom cut threaded rod length, electrical construction fastener mixed sizes, plastic organizer box private label, machinery assembly fastener sample available"

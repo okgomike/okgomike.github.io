@@ -1,9 +1,12 @@
 ---
 sku: FH-019
+categories:
+- fasteners-hardware
+- anchors
 title: "FH-019 Expansion Bolt Wall Anchor Assortment with Nuts Washers"
 meta_description: "FH-019 carbon steel sleeve expansion bolt set. M6-M16 concrete/masonry anchor. OEM, 500pcs MOQ, ISO9001. Wholesale construction fastener distributor."
-category_1: fasteners-and-hardware
-category_2: Nails & Pins
+category_1: fasteners-hardware
+category_2: anchors
 main_keyword: expansion bolt set
 long_tail_keywords: "wholesale expansion bolt assortment OEM, heavy duty wall anchor bulk supplier, construction sleeve anchor set importer, masonry anchor bolt with nut washer, carbon steel expansion bolt M6 M8 M10 M12 M16, zinc plated concrete anchor wholesale, building fixing bolt factory direct Yiwu, OEM anchor bolt packaging, construction fastener supplier China, anchor bolt sample available"
 material: Carbon Steel Grade 4.8; Zinc Plated / Yellow Zinc / Color Zinc Finish

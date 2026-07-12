@@ -4,6 +4,7 @@ title: AT-006 T-Handle Sliding Socket Wrench Set
 slug: at-006-t-handle-sliding-socket-wrench-set
 categories:
 - automotive-repair-tools
+- socket-wrench-sets
 summary: Chrome vanadium steel T-handle sliding socket wrench with multiple drive sizes and socket attachments for automotive maintenance and repair.
 moq: 500 sets
 price_range: $2.00 - $8.00 / pc

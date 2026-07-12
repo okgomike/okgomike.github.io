@@ -5,7 +5,8 @@ sku: "LD-038"
 meta_description: "Wholesale door hinge and butt hinge assortment in blister card packaging. Steel brass and stainless steel for residential and commercial doors. Yiwu supplier."
 Price_range: "$0.50 - $6.00 / pc"
 categories:
-  - locks-door-hardware
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "door hinge butt hinge"
 long_tail_keywords: "wholesale door hinge blister, butt hinge bulk, cabinet hinge assortment supplier, brass hinge manufacturer, stainless steel door hinge Yiwu, furniture hinge wholesale China"
 date: "2026-07-07T00:00:00+08:00"

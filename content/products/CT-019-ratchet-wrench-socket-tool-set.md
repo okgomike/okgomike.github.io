@@ -3,7 +3,8 @@ sku: CT-019
 title: CT-019 Ratchet Wrench & Socket Tool Set
 slug: ct-019-ratchet-wrench-socket-tool-set
 categories:
-- construction-tools
+- automotive-repair-tools
+- socket-wrench-sets
 tags:
 - ratchet wrench
 - socket set

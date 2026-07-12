@@ -4,6 +4,7 @@ title: CT-023 Multi-Purpose Pliers Diagonal Pliers & Long Nose Pliers Set
 slug: ct-023-multi-purpose-pliers-diagonal-pliers-long-nose-pliers-set
 categories:
 - construction-tools
+- cutting-tools
 tags:
 - pliers
 - combination pliers

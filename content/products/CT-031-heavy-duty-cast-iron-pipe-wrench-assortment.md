@@ -4,7 +4,8 @@ title: CT-031 Heavy-Duty Cast Iron Pipe Wrench Assortment | Factory Wholesale Su
 meta_description: CT-031 heavy-duty cast iron pipe wrench. Adjustable jaw for plumbing HVAC. OEM/ODM, 50pcs MOQ, ISO9001. Wholesale for plumbing tool distributors.
 categories:
 - construction-tools
-category_2: Plumbing & Pipe Tools
+- hammers-mallets
+category_2: hammers-mallets
 main_keyword: heavy duty pipe wrench
 long_tail_keywords: wholesale cast iron pipe wrench OEM, adjustable pipe wrench bulk supplier, plumbing pipe wrench importer, HVAC wrench tool factory direct, CT-031-pipe-wrench
 material: Cast Iron Body + Drop-Forged Steel Jaws + TPR Soft Grip Handle

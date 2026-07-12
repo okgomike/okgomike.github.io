@@ -4,6 +4,7 @@ title: LR-004 Endless Round Sling
 slug: lr-004-endless-round-sling
 categories:
 - lifting-rigging-equipment
+- wire-rope-slings
 tags:
 - round sling
 - endless sling

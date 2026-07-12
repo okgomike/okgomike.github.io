@@ -1,10 +1,13 @@
 ---
 sku: LD-026
+categories:
+- locks-door-hardware
+- hinges-accessories
 title: "LD-026 Metal Chain Spring Hook Hardware Assortment | Factory Wholesale Supplier"
 meta_description: "LD-026 metal chain and spring hook hardware. Welded chain and snap hooks for lifting/securing. OEM, 1000pcs MOQ, ISO9001. Wholesale chain hardware importer & distributor."
 url_slug: ld-026-metal-chain-spring-hook-hardware-assortment
-category_1: Locks & Door Hardware
-category_2: Chain & Rigging Hardware
+category_1: locks-door-hardware
+category_2: hinges-accessories
 main_keyword: metal chain spring hook
 long_tail_keywords: "wholesale metal chain spring hook OEM, welded chain bulk supplier, snap hook chain importer, lifting securing chain factory direct, LD-026-chain-hook"
 material: "Carbon Steel Q235 / 45# Welded Chain; Zinc Alloy / Stainless Steel 304 Spring Hooks; Electro-Galvanized / Hot-Dip Galvanized / Brass Plated"

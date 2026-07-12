@@ -3,7 +3,8 @@ sku: FH-010
 title: FH-010 Rubber-Lined Cushion Clamp & Pipe Support Set
 slug: fh-010-rubber-lined-cushion-clamp-pipe-support-set
 categories:
-- fasteners-and-hardware
+- fasteners-hardware
+- bolts-nuts
 summary: Vibration-dampening rubber-lined cushion clamps and pipe supports with EPDM or NBR rubber inserts for securing pipes hoses and cables while absorbing shock and noise.
 moq: 1000 pcs
 price_range: $0.15 - $1.80 / pc

@@ -4,6 +4,7 @@ title: CT-024 Putty Knife Trowel Scraper & Masonry Tool Set
 slug: ct-024-putty-knife-trowel-scraper-masonry-tool-set
 categories:
 - construction-tools
+- concrete-tools
 tags:
 - putty knife
 - trowel

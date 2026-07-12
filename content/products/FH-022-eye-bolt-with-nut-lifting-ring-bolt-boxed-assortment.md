@@ -1,8 +1,11 @@
 ---
 sku: FH-022
+categories:
+- fasteners-hardware
+- bolts-nuts
 title: "FH-022 Eye Bolt with Nut Lifting Ring Bolt Boxed Assortment"
 meta_description: "FH-022 DIN580 lifting eye bolt set, Q235 carbon steel / 304 stainless steel rigging ring bolt M6-M16, 300pcs MOQ, CE & ISO9001 wholesale construction lifting hardware."
-category_1: fasteners-and-hardware
+category_1: fasteners-hardware
 category_2: bolts-nuts
 main_keyword: lifting eye bolt set
 long_tail_keywords: "wholesale eye bolt assortment OEM, DIN 580 lifting eye bolt bulk supplier, eye bolt with nut washer importer, carbon steel ring bolt M6 M8 M10 M12 M16, stainless steel 304 lifting eye bolt factory direct Yiwu, custom thread length rigging bolt, lifting hardware wholesale China, CE certified overhead hanging eye bolt, mixed size eye bolt set, OEM branded box packaging"

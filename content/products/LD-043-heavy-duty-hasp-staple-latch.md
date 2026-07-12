@@ -5,8 +5,8 @@ slug: heavy-duty-hasp-staple-latch
 meta_description: "LD-043 heavy duty hasp staple latch wholesale supplier. Carbon steel and stainless steel hasp locks for gates, sheds, truck bodies, and tool chests. Factory direct bulk pricing."
 Price_range: "$0.80 - $4.50 / pc"
 categories:
-  - locks-door-hardware
-  - door-locks
+- locks-door-hardware
+- door-locks
 main_keyword: "heavy duty hasp staple latch"
 long_tail_keywords: "wholesale hasp staple, heavy duty hasp lock supplier, gate hasp latch manufacturer, carbon steel hasp staple bulk, security hasp latch factory"
 date: "2026-07-12T00:00:00+08:00"

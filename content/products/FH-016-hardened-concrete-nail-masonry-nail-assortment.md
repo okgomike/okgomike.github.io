@@ -1,9 +1,12 @@
 ---
 sku: FH-016
+categories:
+- fasteners-hardware
+- screws
 title: FH-016 Hardened Concrete Nail Masonry Nail Assortment | Factory Wholesale Supplier
 meta_description: FH-016 hardened steel concrete masonry nail. High-carbon for concrete/brick. OEM, 5000pcs MOQ, ISO9001. Wholesale concrete nail importer & building supplier.
-category_1: Fasteners & Hardware
-category_2: Staples & Nails
+category_1: fasteners-hardware
+category_2: screws
 main_keyword: hardened concrete nail
 long_tail_keywords: wholesale hardened concrete nail OEM, masonry nail bulk supplier, high carbon steel concrete nail importer, building construction nail factory direct, FH-016-concrete-nail
 material: High-Carbon Steel 65Mn / 45# Hardened HRC 50-58; Zinc Plating or Copper Plating or Black Oxide; Concertina groove design

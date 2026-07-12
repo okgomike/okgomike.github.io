@@ -5,7 +5,8 @@ sku: "LD-035"
 meta_description: "Wholesale nylon coated guide roller bearing wheel for sliding doors windows and machinery. Yellow PU nylon with steel core. Yiwu hardware supplier."
 Price_range: "$0.60 - $5.50 / pc"
 categories:
-  - locks-door-hardware
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "nylon coated guide roller"
 long_tail_keywords: "wholesale nylon guide roller wheel, PU coated bearing roller bulk, sliding door nylon wheel supplier, machinery guide roller manufacturer, window roller wheel Yiwu, nylon pulley wheel wholesale"
 date: "2026-07-07T12:00:00+08:00"

@@ -5,7 +5,8 @@ sku: "LR-014"
 meta_description: "Wholesale industrial nylon PU caster wheel heavy duty for carts trolleys and machinery. Swivel and fixed plate mount options. Yiwu hardware supplier."
 Price_range: "$1.20 - $15.00 / pc"
 categories:
-  - lifting-rigging-equipment
+- lifting-rigging-equipment
+- chain-hoists
 main_keyword: "industrial nylon PU caster wheel"
 long_tail_keywords: "wholesale industrial caster wheel, nylon PU caster bulk, heavy duty trolley wheel supplier, swivel caster wheel manufacturer, plate mount caster Yiwu, machinery caster wheel wholesale"
 date: "2026-07-07T12:00:00+08:00"

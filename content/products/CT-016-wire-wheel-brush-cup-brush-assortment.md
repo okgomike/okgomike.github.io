@@ -4,6 +4,7 @@ title: CT-016 Wire Wheel Brush & Cup Brush Assortment
 slug: ct-016-wire-wheel-brush-cup-brush-assortment
 categories:
 - construction-tools
+- welding-tools
 tags:
 - wire brush
 - cup brush

@@ -1,9 +1,12 @@
 ---
 sku: LD-020
+categories:
+- locks-door-hardware
+- hinges-accessories
 title: LD-020 Window Stay Casement Window Hinge Hardware | Factory Wholesale Supplier
 meta_description: LD-020 window stay and casement window hinge. Friction stay for UPVC/aluminum windows. OEM, 500pcs MOQ, CE. Wholesale window hardware importer & fabricator.
-category_1: Locks & Door Hardware
-category_2: Window Hardware
+category_1: locks-door-hardware
+category_2: hinges-accessories
 main_keyword: window stay hinge
 long_tail_keywords: wholesale window stay hinge OEM, casement window friction stay bulk supplier, UPVC aluminum window hardware importer, window hinge hardware factory direct, LD-020-window-hinge
 material: Stainless Steel 304 / 201 / Galvanized Steel with Zinc Plating; Nylon Friction Washers

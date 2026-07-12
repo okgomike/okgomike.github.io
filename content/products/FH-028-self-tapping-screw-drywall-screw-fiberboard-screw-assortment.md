@@ -5,7 +5,8 @@ sku: "FH-028"
 meta_description: "Wholesale self-tapping screw drywall screw and fiberboard screw assortment in multiple sizes and finishes. Phillips cross recessed head for wood metal and drywall. Yiwu supplier."
 Price_range: "$0.02 - $0.50 / pc"
 categories:
-  - fasteners-hardware
+- fasteners-hardware
+- screws
 main_keyword: "self tapping screw drywall screw"
 long_tail_keywords: "wholesale self tapping screw assortment, drywall screw bulk, fiberboard screw supplier, wood screw manufacturer, cross recessed screw Yiwu, black phosphate screw wholesale China"
 date: "2026-07-07T00:00:00+08:00"

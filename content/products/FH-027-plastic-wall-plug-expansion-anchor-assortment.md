@@ -5,7 +5,8 @@ sku: "FH-027"
 meta_description: "Wholesale plastic wall plug expansion anchor assortment in multiple colors and sizes. Ribbed and universal type wall anchors for concrete brick and drywall. Yiwu supplier."
 Price_range: "$0.01 - $0.30 / pc"
 categories:
-  - fasteners-hardware
+- fasteners-hardware
+- anchors
 main_keyword: "plastic wall plug expansion anchor"
 long_tail_keywords: "wholesale wall plug assortment, plastic expansion anchor bulk, ribbed wall anchor supplier, concrete wall plug manufacturer, drywall anchor Yiwu, nylon wall plug wholesale China"
 date: "2026-07-07T00:00:00+08:00"

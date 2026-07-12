@@ -5,7 +5,8 @@ sku: "LR-017"
 meta_description: "Wholesale welded master link oblong link for chain sling assemblies. Carbon steel forged in multiple sizes. Yiwu supplier."
 Price_range: "$0.80 - $15.00 / pc"
 categories:
-  - lifting-rigging-equipment
+- lifting-rigging-equipment
+- shackles
 main_keyword: "welded master link oblong"
 long_tail_keywords: "wholesale master link oblong, welded chain link bulk, chain sling master link supplier, forged oblong link manufacturer, rigging master link Yiwu, lifting master link wholesale China"
 date: "2026-07-07T00:00:00+08:00"

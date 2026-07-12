@@ -5,7 +5,8 @@ sku: "FH-030"
 meta_description: "Wholesale cable clip wire clip and nail clip assortment in multiple sizes. Round and flat type cable clips for electrical wire management. Yiwu supplier."
 Price_range: "$0.01 - $0.20 / pc"
 categories:
-  - fasteners-hardware
+- fasteners-hardware
+- chain-wire-rope
 main_keyword: "cable clip wire clip"
 long_tail_keywords: "wholesale cable clip assortment, wire clip bulk, nail cable clip supplier, round cable clip manufacturer, plastic wire clip Yiwu, electrical cable clip wholesale China"
 date: "2026-07-07T00:00:00+08:00"

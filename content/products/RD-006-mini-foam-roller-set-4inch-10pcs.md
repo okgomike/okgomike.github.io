@@ -11,7 +11,7 @@ description: This 10-piece 4-inch mini foam roller set is perfect for small-scal
 image: https://img.toolsd.com/file/1782911019672_701-4.jpg
 categories:
 - renovation-decoration-tools
-- paint-tools
+- paint-rollers-brushes
 tags:
 - mini-roller
 - foam-roller

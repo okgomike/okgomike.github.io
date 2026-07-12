@@ -1,9 +1,12 @@
 ---
 sku: FH-017
+categories:
+- fasteners-hardware
+- screws
 title: FH-017 Coil Collated Construction Nails Screw Nails | Factory Wholesale Supplier
 meta_description: FH-017 coil collated construction nails. Screw shank for superior holding. OEM, 5000pcs MOQ, ISO9001. Wholesale collated nail importer & distributor.
-category_1: Fasteners & Hardware
-category_2: Collated Fasteners
+category_1: fasteners-hardware
+category_2: screws
 main_keyword: coil collated nails
 long_tail_keywords: wholesale coil collated nail OEM, screw shank nail bulk supplier, construction framing nail importer, pneumatic nail gun coil nail factory direct, FH-017-coil-nail
 material: High-Carbon Steel Q235 / 45#; Bright Finish / Hot-Dip Galvanized / Electro-Galvanized / Vinyl Coated

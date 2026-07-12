@@ -4,6 +4,7 @@ title: CT-015 Wool Felt & Sponge Polishing Pad Kit
 slug: ct-015-wool-felt-sponge-polishing-pad-kit
 categories:
 - construction-tools
+- welding-tools
 tags:
 - polishing pad
 - wool pad

@@ -1,9 +1,12 @@
 ---
 sku: FH-014
+categories:
+- fasteners-hardware
+- screws
 title: FH-014 Construction Staple U-Type Tacker Staple Assortment | Factory Wholesale Supplier
 meta_description: FH-014 U-type construction staple for staple guns. Multiple gauges for upholstery/roofing. OEM, 5000pcs MOQ, ISO9001. Wholesale staple importer & distributor.
-category_1: Fasteners & Hardware
-category_2: Staples & Nails
+category_1: fasteners-hardware
+category_2: screws
 main_keyword: construction staple
 long_tail_keywords: wholesale U type construction staple OEM, tacker staple bulk supplier, upholstery roofing staple importer, heavy duty staple gun staple factory direct, FH-014-staple
 material: Galvanized Steel Wire / Stainless Steel 304 Wire / Copper-Coated Wire

@@ -5,8 +5,8 @@ slug: soft-close-concealed-cabinet-hinges
 meta_description: "LD-041 soft close concealed cabinet hinges wholesale. Hydraulic damper hidden hinges for kitchen cabinets, wardrobes, and bathroom vanities. Bulk pricing available."
 Price_range: "$0.30 - $2.50 / pc"
 categories:
-  - locks-door-hardware
-  - hinges-accessories
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "soft close concealed cabinet hinges"
 long_tail_keywords: "wholesale cabinet hinges, concealed hinge supplier, soft close hydraulic hinge manufacturer, hidden cabinet hinge bulk, kitchen cabinet hinge factory"
 date: "2026-07-12T00:00:00+08:00"

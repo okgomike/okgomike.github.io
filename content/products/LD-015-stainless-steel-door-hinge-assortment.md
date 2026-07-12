@@ -1,10 +1,12 @@
 ---
 sku: LD-015
+categories:
+- locks-door-hardware
+- hinges-accessories
 title: LD-015 Stainless Steel Door Hinge Assortment | Factory Wholesale Supplier
 meta_description: LD-015 stainless steel door hinge assortment. Ball bearing butt hinge for residential/commercial doors. OEM, 500pcs MOQ, CE. Wholesale door hinge importer & contractor.
-category_1:
-- locks-door-hardware
-category_2: Door Hinges & Hardware
+category_1: locks-door-hardware
+category_2: hinges-accessories
 main_keyword: stainless steel door hinge
 long_tail_keywords: wholesale stainless steel door hinge OEM, ball bearing butt hinge bulk supplier, residential commercial door hinge importer, 304 stainless hinge factory direct, LD-015-hinge
 material: '304 Stainless Steel / 201 Stainless Steel / Iron with Nickel Plating; Ball Bearing: 2BB / 4BB'

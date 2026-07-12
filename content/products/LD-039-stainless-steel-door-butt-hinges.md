@@ -5,8 +5,8 @@ slug: stainless-steel-door-butt-hinges
 meta_description: "LD-039 stainless steel door butt hinges wholesale supplier. High-quality butt hinges for interior and exterior doors in multiple sizes and finishes. Factory direct pricing with bulk discounts."
 Price_range: "$0.50 - $3.00 / pair"
 categories:
-  - locks-door-hardware
-  - hinges-accessories
+- locks-door-hardware
+- hinges-accessories
 main_keyword: "stainless steel door butt hinges"
 long_tail_keywords: "wholesale door hinges bulk, stainless steel butt hinge supplier, door butt hinges manufacturer, heavy duty door hinges wholesale, interior door hinges supplier"
 date: "2026-07-12T00:00:00+08:00"
