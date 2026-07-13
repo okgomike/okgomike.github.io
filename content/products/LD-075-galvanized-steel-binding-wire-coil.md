@@ -16,8 +16,8 @@ long_tail_keywords:
   - "black annealed wire roll"
 date: "2026-07-13T00:00:00+08:00"
 draft: false
-image: "https://img.toolsd.com/file/1783937279332_713-3.jpg"
-gallery: ['https://img.toolsd.com/file/1783937279275_713-2.jpg']
+image: "https://img.toolsd.com/file/1783937279275_713-2.jpg"
+gallery: ['https://img.toolsd.com/file/1783937279332_713-3.jpg']
 image_alt: "Galvanized Steel Binding Wire Coil"
 tags:
   - binding wire
