@@ -47,7 +47,7 @@ customization_options: Case color and style / Tool assortment customization / Lo
 certifications: ISO 9001, DIN, ANSI, CE, GS
 net_weight: 3500
 description: Comprehensive all-in-one auto repair tool kit with sockets, wrenches, bits, pliers, and screwdrivers in a durable organized case for professional use.
-long_description: The LD-109 Comprehensive Auto Repair Tool Kit is the complete solution for professional automotive repair shops and serious DIY enthusiasts. This all-in-one kit includes everything needed for comprehensive vehicle service: socket sets with multiple drive sizes, combination wrenches, screwdriver sets with various tip styles, pliers, hex keys, and specialty bits. Housed in a large durable case with organized compartments, this kit eliminates the need for multiple separate tool purchases and keeps your workspace efficient.
+long_description: "The LD-109 Comprehensive Auto Repair Tool Kit is the complete solution for professional automotive repair shops and serious DIY enthusiasts. This all-in-one kit includes everything needed for comprehensive vehicle service: socket sets with multiple drive sizes, combination wrenches, screwdriver sets with various tip styles, pliers, hex keys, and specialty bits. Housed in a large durable case with organized compartments, this kit eliminates the need for multiple separate tool purchases and keeps your workspace efficient."
 core_features:
   - All-in-one comprehensive kit includes sockets, wrenches, bits, pliers, and screwdrivers
   - Premium Chrome Vanadium Steel and CR-MO construction for professional-grade durability
