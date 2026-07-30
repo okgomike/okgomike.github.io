@@ -43,7 +43,11 @@
         {{ if .Params.gallery }}
         <div class="product-gallery">
           {{ range .Params.gallery }}
-          <img src="{{ . | safeURL }}" alt="{{ $.Title }}" loading="lazy">
+            {{ if reflect.IsMap . }}
+            <img src="{{ .url | safeURL }}" alt="{{ $.Title }}" loading="lazy">
+            {{ else }}
+            <img src="{{ . | safeURL }}" alt="{{ $.Title }}" loading="lazy">
+            {{ end }}
           {{ end }}
         </div>
         {{ end }}
