@@ -13,7 +13,7 @@ date: "2026-07-30T00:00:00+08:00"
 draft: false
 image: "https://img.toolsd.com/file/1785382169401_730-4.jpg"
 gallery:
-  - url: "https://img.toolsd.com/file/1785382167095_730-3.jpg"
+  - "https://img.toolsd.com/file/1785382167095_730-3.jpg"
 image_alt: "LD-267 Brass Steel Heavy-Duty Gate Door Hinge Bearing Type"
 tags:
   - "gate hinge"
