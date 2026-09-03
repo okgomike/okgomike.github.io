@@ -317,3 +317,100 @@ a:hover { text-decoration: underline; }
 .feature-list { padding-left: 1.5rem; list-style: disc; }
 .feature-list li { padding: 6px 0; color: var(--ink); line-height: 1.6; font-size: 0.92rem; }
 .feature-list li::marker { color: var(--accent); }
+
+
+
+.category-browser {
+  background: var(--bg2);
+  padding: 28px 0 24px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.browser-title {
+  font-size: 1.2rem;
+  color: var(--ink);
+  margin-bottom: 16px;
+  font-weight: 700;
+}
+
+.browser-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.browser-label {
+  font-weight: 600;
+  color: var(--ink);
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+
+.browser-select {
+  padding: 9px 14px;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  background: #fff;
+  font-size: 0.95rem;
+  color: var(--ink);
+  min-width: 240px;
+  cursor: pointer;
+  outline: none;
+  font-family: inherit;
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%238b4513' stroke-width='2'%3e%3cpath d='M6 9l6 6 6-6'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 14px center;
+  padding-right: 36px;
+}
+
+.browser-select:focus {
+  border-color: var(--accent);
+}
+
+.category-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.category-chips .chip {
+  display: inline-block;
+  padding: 7px 16px;
+  border: 1.5px solid var(--accent);
+  border-radius: 999px;
+  color: var(--accent);
+  font-size: 0.88rem;
+  text-decoration: none;
+  transition: background-color 0.18s ease, color 0.18s ease;
+  background: transparent;
+  white-space: nowrap;
+}
+
+.category-chips .chip:hover {
+  background: var(--accent);
+  color: #fff;
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .browser-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+  .browser-label {
+    font-size: 0.9rem;
+  }
+  .browser-select {
+    width: 100%;
+    min-width: 0;
+  }
+  .category-chips .chip {
+    font-size: 0.82rem;
+    padding: 6px 12px;
+  }
+}
