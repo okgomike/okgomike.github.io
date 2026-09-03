@@ -33,9 +33,10 @@
       <select id="cat-select" class="browser-select" onchange="if(this.value) window.location.href=this.value;">
         <option value="">Select a category</option>
         {{ range $categories }}
+          {{ $parentSlug := .slug }}
           <option value="/categories/{{ .slug }}/" disabled>{{ .name }}</option>
           {{ range .children }}
-          <option value="/categories/{{ $.slug }}/{{ .slug }}/">&nbsp;&nbsp;{{ .name }}</option>
+          <option value="/categories/{{ $parentSlug }}/{{ .slug }}/">&nbsp;&nbsp;{{ .name }}</option>
           {{ end }}
         {{ end }}
       </select>
