@@ -1,0 +1,53 @@
+{{/*
+  Category Browser
+  ----------------
+  Renders a "Browse by Category" navigation block with:
+    - Section title
+    - A <select> dropdown containing all categories (with optgroups)
+    - A row of category chips linking to each subcategory
+
+  Usage:
+    {{ partial "category-browser.html" . }}
+
+  Source: .Site.Data.categories.categories
+  Expected shape (data/categories.yaml):
+    categories:
+      - name: "Fasteners & Hardware"
+        slug: "fasteners-hardware"
+        children:
+          - name: "Bolts & Nuts"
+            slug: "bolts-nuts"
+          - ...
+
+  Used on: /products/ list page only (layouts/_default/list.html)
+*/}}
+
+{{ $categories := .Site.Data.categories.categories }}
+
+<section class="category-browser">
+  <div class="container">
+    <h2 class="browser-title">Browse by Category</h2>
+
+    <div class="browser-row">
+      <label class="browser-label" for="cat-select">Browse by category</label>
+      <select id="cat-select" class="browser-select" onchange="if(this.value) window.location.href=this.value;">
+        <option value="">Select a category</option>
+        {{ range $categories }}
+          <option value="/categories/{{ .slug }}/" disabled>{{ .name }}</option>
+          {{ range .children }}
+          <option value="/categories/{{ $.slug }}/{{ .slug }}/">&nbsp;&nbsp;{{ .name }}</option>
+          {{ end }}
+        {{ end }}
+      </select>
+    </div>
+
+    <nav class="category-chips" aria-label="Browse categories">
+      {{ range $categories }}
+        {{ $parentSlug := .slug }}
+        {{ range .children }}
+        <a href="/categories/{{ $parentSlug }}/{{ .slug }}/" class="chip">{{ .name }}</a>
+        {{ end }}
+      {{ end }}
+    </nav>
+  </div>
+</section>
