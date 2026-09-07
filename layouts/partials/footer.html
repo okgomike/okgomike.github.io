@@ -9,6 +9,7 @@
         <p class="footer-desc">{{ $company.description }}</p>
         <div class="footer-contact">
           <p><strong>WhatsApp:</strong> <a href="{{ $company.contact.whatsapp_link }}" target="_blank" rel="noopener">{{ $company.contact.whatsapp }}</a></p>
+          <p><strong>WeChat:</strong> {{ $company.contact.wechat }}</p>
           <p><strong>Email:</strong> <a href="{{ $company.contact.email_link }}">{{ $company.contact.email }}</a></p>
           <p><strong>Phone:</strong> {{ $company.contact.phone_display }}</p>
           <p><strong>Address:</strong> {{ $company.contact.address }}</p>
