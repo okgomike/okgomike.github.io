@@ -1,9 +1,9 @@
 ---
 title: "About Us"
-description: "ToolsD is a Yiwu-based B2B wholesale showroom for hardware, tools, fasteners, lifting equipment and locks. Low MOQ, mixed orders, OEM and global shipping."
+description: "ToolsD (Yiwu Gongbei Trading Firm) is a Yiwu-based B2B wholesale showroom for hardware, tools, fasteners, lifting equipment and locks. Low MOQ, mixed orders, OEM and global shipping."
 ---
 
-# About ToolsD
+# About ToolsD- (Yiwu Gongbei Trading Firm)
 
 ## Who We Are
 
