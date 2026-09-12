@@ -46,10 +46,7 @@ columns:
         url: "/about/"
       - name: "Contact"
         url: "/contact/"
-      - name: "Privacy Policy"
-        url: "/privacy/"
-      - name: "Terms of Service"
-        url: "/terms/"
+   
 
 bottom:
   copyright: "© 2026 Yiwu Gongbei Trading Firm（ToolsD）. All rights reserved."
