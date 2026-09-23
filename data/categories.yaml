@@ -2,7 +2,7 @@ categories:
   - name: "Fasteners & Hardware"
     slug: "fasteners-hardware"
     description: "Bolts, nuts, screws, washers, rivets and hardware accessories."
-    image: "/images/cat-fasteners.jpg"
+    image: "https://img.toolsd.com/file/1788571300399_905-16.jpg"
     children:
       - name: "Bolts & Nuts"
         slug: "bolts-nuts"
@@ -20,7 +20,7 @@ categories:
   - name: "Lifting & Rigging Equipment"
     slug: "lifting-rigging-equipment"
     description: "Slings, hooks, shackles, chain hoists and lifting accessories."
-    image: "/images/cat-lifting.jpg"
+    image: "https://img.toolsd.com/file/1782974706796_702-18.jpg"
     children:
       - name: "Wire Rope Slings"
         slug: "wire-rope-slings"
@@ -38,7 +38,7 @@ categories:
   - name: "Automotive Repair Tools"
     slug: "automotive-repair-tools"
     description: "Socket sets, wrenches, jacks, diagnostic tools and workshop equipment."
-    image: "/images/cat-automotive.jpg"
+    image: "https://img.toolsd.com/file/1786599089001_813-6.jpg"
     children:
       - name: "Socket & Wrench Sets"
         slug: "socket-wrench-sets"
@@ -56,7 +56,7 @@ categories:
   - name: "Construction Tools"
     slug: "construction-tools"
     description: "Power drills, hammers, cutters, measuring tools and construction equipment."
-    image: "/images/cat-construction.jpg"
+    image: "https://img.toolsd.com/file/1783576848548_709-10.jpg"
     children:
       - name: "Power Drills"
         slug: "power-drills"
@@ -74,7 +74,7 @@ categories:
   - name: "Renovation & Decoration Tools"
     slug: "renovation-decoration-tools"
     description: "Paint tools, tiling tools, trowels and finishing equipment."
-    image: "/images/cat-renovation.jpg"
+    image: "https://img.toolsd.com/file/1783838968363_712-7.jpg"
     children:
       - name: "Paint Rollers & Brushes"
         slug: "paint-rollers-brushes"
@@ -92,7 +92,7 @@ categories:
   - name: "Locks & Door Hardware"
     slug: "locks-door-hardware"
     description: "Door locks, smart locks, bike locks, handles, hinges and door accessories."
-    image: "/images/cat-locks.jpg"
+    image: "https://img.toolsd.com/file/1786161224501_808-2.jpg"
     children:
       - name: "Door Locks"
         slug: "door-locks"
