@@ -26,15 +26,29 @@
     <h2 class="section-title">Browse by Category</h2>
     <div class="category-grid">
       {{ range $categories }}
-      <a href="{{ printf "/categories/%s/" .slug | relURL }}" class="category-card">
-        <div class="category-icon">
-          <span class="cat-initial">{{ substr .name 0 1 }}</span>
-        </div>
-        <h3 class="category-name">{{ .name }}</h3>
-        <p class="category-desc">{{ .description }}</p>
-        <span class="category-link">View Products →</span>
-      </a>
-      {{ end }}
+{{ $catName := .name }}
+{{ $catSlug := .slug }}
+{{ $catDesc := .description }}
+{{ $catImg  := .image }}
+<a href="{{ printf "/categories/%s/" $catSlug | relURL }}" class="category-card">
+  {{ if $catImg }}
+  <div class="category-thumb">
+    <img src="{{ $catImg | safeURL }}" alt="{{ $catName }} wholesale supplier from Yiwu China" loading="lazy">
+  </div>
+  {{ end }}
+  <div class="category-body">
+    {{ if not $catImg }}
+    <div class="category-icon">
+      <span class="cat-initial">{{ substr $catName 0 1 }}</span>
+    </div>
+    {{ end }}
+    <h3 class="category-name">{{ $catName }}</h3>
+    <p class="category-desc">{{ $catDesc }}</p>
+    <span class="category-link">View Products →</span>
+  </div>
+</a>
+{{ end }}
+
     </div>
   </div>
 </section>
