@@ -26,4 +26,4 @@ Rust prevention, handle materials, and storage recommendations for hot, humid en
 
 ---
 
-Can't find what you're looking for? [Ask us on WhatsApp](https://wa.me/8613800138000) — we write new guides based on customer questions.
+Can't find what you're looking for? [Ask us on WhatsApp](https://wa.me/8618006891977) — we write new guides based on customer questions.
