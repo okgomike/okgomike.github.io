@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ $company := .Site.Data.company }}
+{{ $paginator := .Paginate .Pages 40 }}
 
 <section class="page-header">
   <div class="container">
@@ -22,7 +23,7 @@
   <div class="container">
     {{ if .Pages }}
     <div class="product-grid">
-      {{ range .Pages }}
+     {{ range $paginator.Pages }}
       <article class="product-card">
         <a href="{{ .RelPermalink }}" class="product-link">
           {{ if .Params.image }}
@@ -45,14 +46,14 @@
       {{ end }}
     </div>
 
-    {{ if gt .Paginator.TotalPages 1 }}
+       {{ if gt $paginator.TotalPages 1 }}
     <nav class="pagination" aria-label="Pagination">
-      {{ if .Paginator.HasPrev }}
-      <a href="{{ .Paginator.Prev.URL }}" class="btn btn-outline">← Previous</a>
+      {{ if $paginator.HasPrev }}
+      <a href="{{ $paginator.Prev.URL }}" class="btn btn-outline">← Previous</a>
       {{ end }}
-      <span class="page-info">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</span>
-      {{ if .Paginator.HasNext }}
-      <a href="{{ .Paginator.Next.URL }}" class="btn btn-outline">Next →</a>
+      <span class="page-info">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+      {{ if $paginator.HasNext }}
+      <a href="{{ $paginator.Next.URL }}" class="btn btn-outline">Next →</a>
       {{ end }}
     </nav>
     {{ end }}
