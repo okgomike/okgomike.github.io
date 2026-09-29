@@ -36,9 +36,8 @@ columns:
       - name: "FAQ"
         url: "/faq/"
       - name: "Shipping Info"
-        url: "/shipping/"
-      - name: "Payment Methods"
-        url: "/payment/"
+        url: "/services/global-shipping/"
+
 
   - title: "Company"
     links:
