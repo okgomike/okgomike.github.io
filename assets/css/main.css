@@ -499,11 +499,4 @@ a:hover { text-decoration: underline; }
 }
 
 
-.wa-float {
-  position: fixed; right: 20px; bottom: 20px;
-  width: 56px; height: 56px; border-radius: 50%;
-  background: var(--whatsapp);   /* #25d366 站内已有变量 */
-  box-shadow: 0 4px 14px rgba(0,0,0,.22);
-  z-index: 900;
-}
-.wa-float:hover { background: #1da851; transform: scale(1.08); }
+ 
