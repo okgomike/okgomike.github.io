@@ -1,7 +1,7 @@
 baseURL: 'https://toolsd.com/'
 languageCode: 'en-us'
 charset: "UTF-8"
-title: 'ToolsD-Hardware & Tools Wholesale Showroom from Yiwu China'
+title: 'ToolsD | Hardware & Tools Wholesale Supplier in Yiwu China'
 
 paginate: 24
 enableRobotsTXT: true
@@ -15,7 +15,7 @@ taxonomies:
 
 params:
   brand: 'ToolsD'
-  description: 'A Yiwu-based B2B online wholesale showroom for low MOQ hardware and tools, including fasteners, lifting equipment, automotive tools, construction tools, renovation tools and locks.'
+  description: 'ToolsD is a Yiwu China hardware and tools sourcing supplier providing wholesale products, low MOQ purchasing, supplier coordination, quality inspection and export services for global buyers.'
   author: 'ToolsD'
   logo: '/images/logo.png'
   contact:
