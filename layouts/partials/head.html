@@ -23,6 +23,7 @@
 {{ if .Params.image }}<meta name="twitter:image" content="{{ .Params.image | absURL }}">{{ else }}<meta name="twitter:image" content="{{ .Site.Params.seo.defaultImage | absURL }}">{{ end }}
 
 {{ if .Params.robots }}<meta name="robots" content="{{ .Params.robots }}">{{ end }}
+{{ if strings.HasPrefix .RelPermalink "/tags/" }}<meta name="robots" content="noindex, follow">{{ end }}
 
 
 <!-- Google tag (gtag.js) -->
