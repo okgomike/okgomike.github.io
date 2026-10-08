@@ -68,6 +68,41 @@
   </div>
 </section>
 
+<section class="latest-products-section">
+  <div class="container">
+    <h2 class="section-title">Featured Products</h2>
+    {{ $products := where .Site.RegularPages "Section" "products" }}
+    <div class="product-grid">
+      {{ range first 8 (shuffle $products) }}
+      <article class="product-card">
+        <a href="{{ .RelPermalink }}" class="product-link">
+          {{ if .Params.image }}
+          <div class="product-image">
+            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+          </div>
+          {{ else }}
+          <div class="product-image placeholder">
+            <span>{{ substr .Title 0 1 }}</span>
+          </div>
+          {{ end }}
+          <div class="product-info">
+            <h3 class="product-title">{{ .Title }}</h3>
+            {{ if .Params.moq }}<p class="product-moq">MOQ: {{ .Params.moq }}</p>{{ end }}
+            {{ if .Params.price_range }}<p class="product-price">{{ .Params.price_range }}</p>{{ end }}
+            <span class="product-cta">View Details →</span>
+          </div>
+        </a>
+      </article>
+      {{ end }}
+    </div>
+    <div class="latest-more">
+      <a href="{{ "/products/" | relURL }}" class="btn btn-outline">View All Products →</a>
+    </div>
+  </div>
+</section>
+
+
+
 <section class="features-section">
   <div class="container">
     <h2 class="section-title">Why Buy from Us</h2>
