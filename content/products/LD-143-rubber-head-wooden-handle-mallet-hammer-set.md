@@ -11,7 +11,7 @@ main_keyword: "rubber head mallet hammer set"
 long_tail_keywords: "multi color rubber mallet, tile installation hammer, woodworking mallet set, rubber head soft face hammer, non marring mallet, fiberglass handle rubber hammer"
 date: "2026-07-16T00:00:00+08:00"
 draft: false
-image: "https://img.toolsd.com/file/1784174385804_716-9.jpg"
+image: "https://img.toolsd.com/file/1785379342618_730-2.jpg"
 gallery:
   - "https://img.toolsd.com/file/1784174380820_716-8.jpg"
 image_alt: "LD-143 Rubber Head Wooden Handle Mallet Hammer Set"
