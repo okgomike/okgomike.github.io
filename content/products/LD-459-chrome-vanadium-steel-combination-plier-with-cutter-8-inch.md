@@ -11,9 +11,9 @@ main_keyword: "chrome vanadium steel combination plier with cutter 8 inch"
 long_tail_keywords: "combination plier, pliers with cutter, 8 inch pliers, Cr-V pliers, gripping pliers, cutting pliers, multi-function pliers, hand pliers, mechanic pliers, electrical pliers"
 date: "2026-09-29T00:00:00+08:00"
 draft: false
-image: "https://img.toolsd.com/file/1790681556893_929-3.jpg"
+image: "https://img.toolsd.com/file/1793081192255_1027-1.jpg"
 gallery:
-  - url: "https://img.toolsd.com/file/1790681556893_929-3.jpg"
+  - url: "https://img.toolsd.com/file/1793081192255_1027-1.jpg"
 image_alt: "LD-459 Chrome Vanadium Steel Combination Plier with Cutter 8 Inch"
 tags:
   - "combination plier"
