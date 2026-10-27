@@ -11,9 +11,9 @@ main_keyword: "ABS case steel tape measure 3m 5m"
 long_tail_keywords: "measuring tape 5 meter, ABS plastic tape measure, metric imperial measuring tape, construction measuring tool, auto lock tape measure, 3 meter retractable tape"
 date: "2026-07-16T00:00:00+08:00"
 draft: false
-image: "https://img.toolsd.com/file/1784174380820_716-8.jpg"
+image: "https://img.toolsd.com/file/1793083872424_1027-2.jpg"
 gallery:
-  - "https://img.toolsd.com/file/1784174385804_716-9.jpg"
+  - "https://img.toolsd.com/file/1793083872424_1027-2.jpg"
 image_alt: "LD-146 ABS Case Steel Tape Measure 3m 5m"
 tags:
   - "tape measure"
