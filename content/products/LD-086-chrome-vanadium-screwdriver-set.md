@@ -16,7 +16,7 @@ long_tail_keywords:
   - "professional screwdriver kit"
 date: "2026-07-13T00:00:00+08:00"
 draft: false
-image: "https://img.toolsd.com/file/1783939468312_713-5.jpg"
+image: "https://img.toolsd.com/file/1783338319036_706-12.jpg"
 gallery: []
 image_alt: "Chrome Vanadium Screwdriver Set"
 tags:
