@@ -11,9 +11,9 @@ main_keyword: "carbon steel needle nose plier long reach precision 6 8 inch"
 long_tail_keywords: "needle nose plier, long nose pliers, precision pliers, 6 inch pliers, 8 inch pliers, fine tip pliers, electronics pliers, jewelry pliers, reaching pliers, pointed pliers"
 date: "2026-09-29T00:00:00+08:00"
 draft: false
-image: "https://img.toolsd.com/file/1790681556893_929-3.jpg"
+image: "https://img.toolsd.com/file/1793081192255_1027-1.jpg"
 gallery:
-  - url: "https://img.toolsd.com/file/1790681556893_929-3.jpg"
+  - url: "https://img.toolsd.com/file/1793081192255_1027-1.jpg"
 image_alt: "LD-460 Carbon Steel Needle Nose Plier Long Reach Precision 6 8 Inch"
 tags:
   - "needle nose plier"
